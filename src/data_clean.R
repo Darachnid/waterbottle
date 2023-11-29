@@ -12,27 +12,69 @@
 setwd(here::here())
 
 ############################### Libraries ##################################
-library(tidyverse)
+library(tidyverse) # data management
+library(stringr) # for handling character strings
 
 ############################### Load Data ##################################
-raw_data <- read.csv("data/raw_data.csv")
+education_levels <- c("Freshman student", 
+                      "Sophomore student", 
+                      "Junior student",
+                      "Senior student",
+                      "Master's student",
+                      "PhD student",
+                      "Other")
 
+political_levels <- c("Consistently liberal", 
+                      "Mostly liberal",
+                      "Mixed",
+                      "Mostly conservative",
+                      "Consistently conservative",
+                      "Other")
+
+home_water_levels <- c("Public Supply",
+                       "Well")
+
+drinking_levels <- c("Tap water", 
+                     "Plastic bottled water", 
+                     "Glass bottled/canned/boxed water",
+                     "I don't drink water")
+
+clean_data <- read.csv("data/raw_data.csv") |>
+
+# Replace blank values with NA's
+  mutate_if(is.character, ~na_if(.,"")) |>
+  
+# Replace "Prefer not to answer" values with NA's
+  mutate_if(is.character, ~na_if(.,"Prefer not to answer")) |>
+  
 # Filter out non-consenting respondents
+  filter(concent == "Yes, I want to participate") |>
+  select(-concent) |> # omit the column as its not needed anymore
 
-# Age as numeric
-
-# Format the date as a lubridate
+# Filter non-numeric ages and convert to numeric
+  mutate(age = if_else(str_detect(age, "^[0-9.]+$"), 
+                       as.numeric(age), NA_real_)) |> 
 
 # zipcode as a character and adding the '0' at begining back
+  mutate(zipcode = if_else(
+    str_length(zipcode) == 4, paste0("0", zipcode),
+    if_else(str_length(zipcode) == 5, zipcode, NA_character_)
+  )) |>
 
 # educational status as factor
+  mutate(educational_status = factor(educational_status, 
+                                     levels = education_levels)) |>
 
 # political as factor
+  mutate(political = factor(political, levels = political_levels)) |>
 
 # home_water_source as factor
+  mutate(home_water_source = factor(home_water_source,
+                                    levels = home_water_levels)) |>
 
 # primary_drinking_source as factor
-
+  mutate(primary_drinking_source = factor(primary_drinking_source,
+                                    levels = drinking_levels)) 
 
 
 
