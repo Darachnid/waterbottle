@@ -176,8 +176,13 @@ for(race in race_levels) {
 }
 
 # omit the original race col
-clean_data <- clean_data |>
-  select(-race)
+clean_data <- clean_data
+
+names <- names(clean_data)
+
+names(clean_data) <- c(names[1:26], c("White", "Black", "Latino",
+                                            "Asian", "Native_American",
+                                            "Pacific_Native"))
 
 ##############################################################################
 ################################# Write CSV #################################
@@ -189,6 +194,8 @@ write.csv(clean_data, "outputs/clean_data.csv", row.names = FALSE)
 # Writing the cleaned data to a RDS file in the outputs folder
 # To preserve the "factor" column's levels
 saveRDS(clean_data, "outputs/clean_data.rds")
+
+
 
 
 
