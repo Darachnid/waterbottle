@@ -1,0 +1,21 @@
+---
+title: "MASTER"
+format: html
+editor: visual
+---
+
+# MASTER
+
+Use this document to run the auxiliary scripts also contained in the folder "/src"
+
+## Data Cleaning
+
+```{r}
+source(here::here("src/data_clean.R"))
+```
+
+## Produce Plot for Raw Data
+
+```{r}
+source(here::here("src/initial_viz.R"))
+```
