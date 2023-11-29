@@ -4,9 +4,11 @@
 
 ##############################################################################
 ##### This script takes the raw data and outputs a csv file named ############
-##### clean_data.csv to the /outputs folder that is more #####################
+##### clean_data.csv/rds to the /outputs folder that is more #################
 ##### conducive for data analysis. ###########################################
 ##############################################################################
+
+
 
 ###################### Set Working directory ##############################
 setwd(here::here())
@@ -74,25 +76,34 @@ clean_data <- read.csv("data/raw_data.csv") |>
 
 # primary_drinking_source as factor
   mutate(primary_drinking_source = factor(primary_drinking_source,
-                                    levels = drinking_levels)) 
-
-
+                                    levels = drinking_levels)) |> 
 
 ##############################################################################
 ############# Change Boolean-type question responses to numeric #############
 ##############################################################################
 ### 1 = issues present
 ### 0 = issues absent
-### NA = blank/prefer not to answer)
+### NA = blank/prefer not to answer
 ##############################################################################
 
-# are_drinking_water_issues_present as numeric 
 
-# consistently_uses_waterbottle as numeric 
-
-# consistently_uses_waterbottle as numeric 
-
-
+  # Converting 'are_drinking_water_issues_present' to numeric
+  mutate(are_drinking_water_issues_present = case_when(
+    are_drinking_water_issues_present == "Yes" ~ 1,
+    are_drinking_water_issues_present == "No" ~ 0,
+    TRUE ~ NA_real_)) |>
+  
+  # Converting 'consistently_uses_waterbottle' to numeric
+  mutate(consistently_uses_waterbottle = case_when(
+    consistently_uses_waterbottle == "Yes" ~ 1,
+    consistently_uses_waterbottle == "No" ~ 0,
+    TRUE ~ NA_real_)) |>
+  
+  # Converting 'is_tap_water_filtered' to numeric
+  mutate(is_tap_filtered = case_when(
+    is_tap_filtered == "Yes" ~ 1,
+    is_tap_filtered == "No" ~ 0,
+    TRUE ~ NA_real_)) |>
 
 ##############################################################################
 ####################### Convert Likart to numeric ###########################
@@ -106,16 +117,60 @@ clean_data <- read.csv("data/raw_data.csv") |>
 ##############################################################################
 
 
-# home_tap_is_safe 
+  # Converting 'home_tap_is_safe' Likert scale responses to numeric
+  mutate(home_tap_is_safe = case_when(
+    home_tap_is_safe == "Strongly disagree" ~ 1,
+    home_tap_is_safe == "Somewhat disagree" ~ 2,
+    home_tap_is_safe == "Neither agree nor disagree" ~ 3,
+    home_tap_is_safe == "Somewhat agree" ~ 4,
+    home_tap_is_safe == "Strongly agree" ~ 5,
+    TRUE ~ NA_real_)) |>
+  
+  # Converting 'campus_tap_is_safe' in similar fashion
+  mutate(campus_tap_is_safe = case_when(
+    campus_tap_is_safe == "Strongly disagree" ~ 1,
+    campus_tap_is_safe == "Somewhat disagree" ~ 2,
+    campus_tap_is_safe == "Neither agree nor disagree" ~ 3,
+    campus_tap_is_safe == "Somewhat agree" ~ 4,
+    campus_tap_is_safe == "Strongly agree" ~ 5,
+    TRUE ~ NA_real_)) |>
+  
+  # Repeat for 'bottles_are_safe', 'trust_in_local_government', 'choices_influenced_by_quality_in_community'
+  mutate(bottles_are_safe = case_when(
+    bottles_are_safe == "Strongly disagree" ~ 1,
+    bottles_are_safe == "Somewhat disagree" ~ 2,
+    bottles_are_safe == "Neither agree nor disagree" ~ 3,
+    bottles_are_safe == "Somewhat agree" ~ 4,
+    bottles_are_safe == "Strongly agree" ~ 5,
+    TRUE ~ NA_real_)) |>
+  
+  mutate(trust_in_local_government = case_when(
+    trust_in_local_government == "Strongly disagree" ~ 1,
+    trust_in_local_government == "Somewhat disagree" ~ 2,
+    trust_in_local_government == "Neither agree nor disagree" ~ 3,
+    trust_in_local_government == "Somewhat agree" ~ 4,
+    trust_in_local_government == "Strongly agree" ~ 5,
+    TRUE ~ NA_real_)) |>
+  
+  mutate(choices_influenced_by_quality_in_community = case_when(
+    choices_influenced_by_quality_in_community == "Strongly disagree" ~ 1,
+    choices_influenced_by_quality_in_community == "Somewhat disagree" ~ 2,
+    choices_influenced_by_quality_in_community == "Neither agree nor disagree" ~ 3,
+    choices_influenced_by_quality_in_community == "Somewhat agree" ~ 4,
+    choices_influenced_by_quality_in_community == "Strongly agree" ~ 5,
+    TRUE ~ NA_real_)) 
+  
 
-# campus_tap_is_safe 
+##############################################################################
+################################# Write CSV #################################
+##############################################################################
 
-# bottles_are_safe
+# Writing the cleaned data to a CSV file in the outputs folder
+write.csv(clean_data, "outputs/clean_data.csv", row.names = FALSE)
 
-# trust_in_local_government
-
-# choices_influenced_by_quality_in_community 
-
+# Writing the cleaned data to a RDS file in the outputs folder
+# To preserve the "factor" column's levels
+saveRDS(clean_data, "outputs/clean_data.rds")
 
 
 
