@@ -1,288 +1,288 @@
-"complete","date","age","educational_status","race","gender","political","zipcode","are_drinking_water_issues_present","primary_drinking_source","consistently_uses_waterbottle","home_water_source","home_tap_is_safe","campus_tap_is_safe","bottles_are_safe","trust_in_local_government","choices_influenced_by_quality_in_community","rank_taste","rank_appearance","rank_health","rank_convenience","rank_environment","rank_cost","rank_source","what_would_increase_trust_in_tap","is_tap_filtered","glasses_per_day"
-TRUE,"11/1/2023 9:10",18,"Freshman student","Asian","Man","Mixed",NA,0,"Tap water",1,"Public Supply",5,2,5,2,3,2,3,1,5,6,7,4,NA,1,"Less than 2 glasses per day"
-TRUE,"11/1/2023 9:10",18,"Freshman student","Black or African American","Man","Mixed",NA,0,"Plastic bottled water",1,"Public Supply",3,4,4,3,5,6,2,1,3,5,7,4,"National clean water",NA,"2-6 glasses per day"
-TRUE,"11/1/2023 9:12",20,"Junior student","White/Caucasian","Man","Consistently liberal","02128",0,"Tap water",1,"Public Supply",5,4,5,4,5,4,2,5,6,3,1,7,"Nothin I’m fine with it",1,"2-6 glasses per day"
-TRUE,"11/1/2023 9:12",19,"Freshman student","Asian","Non-binary","Mixed","02302",NA,"Tap water",1,"Public Supply",3,3,4,3,4,NA,NA,NA,NA,NA,NA,NA,NA,1,"2-6 glasses per day"
-TRUE,"11/1/2023 9:15",18,"Freshman student","Hispanic or Latino","Woman","Mostly liberal","02054",NA,"Tap water",0,"Public Supply",4,4,5,3,5,3,2,5,1,6,4,7,"Filter ",NA,"7-12 glasses per"
-TRUE,"11/1/2023 9:15",18,"Sophomore student","Asian",NA,"Consistently conservative","02445",0,"Tap water",0,"Well",3,2,1,4,3,NA,NA,NA,NA,NA,NA,NA,"home",1,"2-6 glasses per day"
-TRUE,"11/1/2023 9:17",19,"Sophomore student","White/Caucasian","Man",NA,"02125",1,"Glass bottled/canned/boxed water",1,"Public Supply",1,3,5,3,3,4,5,3,7,6,1,2,"If they actually purified the water properly",NA,"2-6 glasses per day"
-TRUE,"11/1/2023 9:19",26,"Senior student","White/Caucasian","Man","Mostly liberal","02169",0,"Plastic bottled water",0,"Public Supply",5,3,4,4,2,3,1,2,6,4,5,7,"more government update and testing clarity",NA,"2-6 glasses per day"
-TRUE,"11/1/2023 9:20",18,"Freshman student","Black or African American","Woman","Consistently liberal","02130",0,"Plastic bottled water",1,NA,4,1,5,4,4,1,2,3,7,5,4,6,"Knowing where it comes from and what’s in it",NA,"2-6 glasses per day"
-TRUE,"11/1/2023 9:22",19,"Freshman student","Hispanic or Latino","Woman","Mostly liberal","02122",0,"Tap water",1,"Public Supply",4,4,3,3,2,NA,NA,NA,NA,NA,NA,NA,"Having a filter on the tap ",1,"7-12 glasses per"
-TRUE,"11/1/2023 9:22",18,"Freshman student","White/Caucasian","Man","Consistently liberal","02124",NA,"Tap water",0,"Public Supply",5,5,5,3,2,3,6,4,1,5,2,7,"Maybe if I owned a filter",0,"2-6 glasses per day"
-TRUE,"11/1/2023 9:28",18,"Freshman student","Hispanic or Latino","Woman","Mixed","02169",NA,"Plastic bottled water",1,NA,3,3,4,3,2,4,5,2,3,6,1,7,"Having a water filter in the tap ",NA,"2-6 glasses per day"
-TRUE,"11/1/2023 9:28",20,"Junior student","Asian","Woman","Consistently liberal","02769",0,"Tap water",1,NA,4,2,4,3,5,1,2,3,7,6,5,4,"Appearing clear",1,"2-6 glasses per day"
-TRUE,"11/1/2023 9:29",19,"Sophomore student","Asian","Woman","Mostly liberal","02124",1,"Plastic bottled water",0,"Public Supply",1,1,4,2,4,1,2,5,3,6,4,7,"easy access to water tests ",NA,"2-6 glasses per day"
-TRUE,"11/1/2023 9:29",18,"Freshman student","White/Caucasian","Woman","Consistently liberal",NA,NA,"Tap water",1,"Public Supply",4,4,5,2,5,3,1,4,6,5,2,7,"If people regularly used it in my area ",1,"Less than 2 glasses per day"
-TRUE,"11/1/2023 9:30",19,"Sophomore student","Black or African American","Woman","Mostly liberal","02125",NA,"Plastic bottled water",1,"Public Supply",4,3,5,3,5,1,6,2,3,4,5,7,"Nothing I don’t like taste of tap water ",NA,"2-6 glasses per day"
-TRUE,"11/1/2023 9:31",26,"Senior student","Hispanic or Latino","Woman","Mostly liberal","02368",0,"Glass bottled/canned/boxed water",0,NA,3,2,2,1,5,5,7,4,6,3,1,2,"If I knew where it’s sourced from ",NA,"Less than 2 glasses per day"
-TRUE,"11/1/2023 9:32",29,"Freshman student","White/Caucasian","Woman","Mixed","02180",1,"Plastic bottled water",0,"Well",1,4,5,3,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,"13 or more glasses per day"
-TRUE,"11/1/2023 10:36",29,"PhD student",NA,"Man","Mostly liberal","02119",1,"Tap water",1,"Public Supply",4,4,4,4,4,5,2,1,4,6,7,3,"More information about the water",0,"7-12 glasses per"
-TRUE,"11/1/2023 10:57",26,"Junior student","Asian","Man","Mixed","02170",1,"Glass bottled/canned/boxed water",1,"Well",1,2,2,1,5,NA,NA,NA,NA,NA,NA,NA,"idk",NA,"2-6 glasses per day"
-TRUE,"11/1/2023 10:58",19,"Freshman student","Black or African American,White/Caucasian","Woman",NA,"02125",1,"Tap water",0,"Well",5,4,5,5,5,7,2,1,3,6,4,5,"Nothing all I know is don’t drink worcester water",0,"Less than 2 glasses per day"
-TRUE,"11/1/2023 10:58",26,"Senior student","American Indian or Alaska Native",NA,"Mostly liberal","02446",0,"Tap water",1,NA,5,4,3,2,3,2,7,5,4,1,3,6,"N/A",1,"2-6 glasses per day"
-TRUE,"11/1/2023 10:58",18,"Freshman student","White/Caucasian,Hispanic or Latino","Woman","Mixed","01902",0,"Plastic bottled water",1,NA,4,4,5,4,3,1,2,5,4,6,3,7,"Knowing more about the filtration system ",NA,"2-6 glasses per day"
-TRUE,"11/1/2023 10:59",22,"Sophomore student","Asian","Woman","Mixed","02125",0,"Plastic bottled water",0,"Well",2,3,5,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,"2-6 glasses per day"
-TRUE,"11/1/2023 10:59",22,"Sophomore student","White/Caucasian","Woman","Consistently conservative","01890",0,"Plastic bottled water",1,"Public Supply",4,3,5,4,4,6,5,1,2,7,4,3,NA,NA,"7-12 glasses per"
-TRUE,"11/1/2023 11:02",20,"Junior student","Hispanic or Latino","Woman",NA,"02124",0,"Plastic bottled water",0,NA,4,3,5,3,3,2,1,5,6,7,4,3,NA,NA,"2-6 glasses per day"
-TRUE,"11/1/2023 11:02",18,"Senior student","White/Caucasian","Man","Mostly liberal","02125",0,"Tap water",0,"Public Supply",5,4,5,4,3,NA,NA,NA,NA,NA,NA,NA,NA,0,"2-6 glasses per day"
-TRUE,"11/1/2023 11:02",23,"Senior student","Asian","Woman","Mostly liberal","02125",NA,"Tap water",1,"Public Supply",2,3,3,2,4,3,5,2,6,4,7,1,"Water filter ",1,"Less than 2 glasses per day"
-TRUE,"11/1/2023 11:03",19,"Freshman student",NA,"Woman",NA,"02149",0,"I don't drink water",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-TRUE,"11/1/2023 11:03",24,"Master's student","White/Caucasian","Man","Mostly liberal","02125",NA,"Glass bottled/canned/boxed water",1,"Public Supply",2,2,3,2,5,NA,NA,NA,NA,NA,NA,NA,"If the water is filtered at home or properly sealed and comes from a trusted place. ",NA,"2-6 glasses per day"
-TRUE,"11/1/2023 11:03",32,"Senior student","Asian","Woman","Consistently conservative","02125",0,"Tap water",1,"Well",3,2,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,1,"7-12 glasses per"
-TRUE,"11/1/2023 11:05",20,"Junior student","White/Caucasian","Man","Other","02125",NA,"Tap water",1,"Public Supply",3,3,4,3,4,NA,NA,NA,NA,NA,NA,NA,"A filter, which I use!",1,"2-6 glasses per day"
-TRUE,"11/1/2023 11:05",20,"Junior student","Asian","Woman",NA,"02125",0,"Plastic bottled water",NA,NA,2,3,3,3,3,2,7,1,5,6,4,3,"I feel like i have a emotional connection to how tap water is gross because you never know what the filtered water has even if people who control the water supply know ",NA,"2-6 glasses per day"
-TRUE,"11/1/2023 11:06",21,"Sophomore student","Asian","Man",NA,"02301",0,"Plastic bottled water",1,"Public Supply",5,5,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,"13 or more glasses per day"
-TRUE,"11/1/2023 11:11",19,"Junior student","Hispanic or Latino","Woman","Mostly conservative","02125",1,"Tap water",1,"Public Supply",4,1,5,4,5,3,4,2,5,6,7,1,"The taste and source ",1,"2-6 glasses per day"
-TRUE,"11/1/2023 11:12",24,NA,"White/Caucasian,Hispanic or Latino","Man","Mostly liberal","02124",0,"Tap water",0,"Public Supply",4,4,5,3,3,6,4,1,3,5,2,7,NA,1,"2-6 glasses per day"
-TRUE,"11/1/2023 11:18",21,"Senior student","Hispanic or Latino","Woman",NA,"02124",1,"Plastic bottled water",0,"Well",2,2,4,3,4,4,1,3,2,5,6,7,"Better cleaning service",NA,"Less than 2 glasses per day"
-TRUE,"11/1/2023 11:19",18,"Freshman student","White/Caucasian","Man","Consistently liberal","02184",0,"Plastic bottled water",1,NA,4,3,5,4,2,1,2,3,7,4,6,5,"Knowing where my water comes from.",NA,"2-6 glasses per day"
-TRUE,"11/1/2023 11:19",18,"Freshman student","White/Caucasian","Man","Mixed","02169",1,"Tap water",1,NA,4,3,4,3,4,7,6,1,4,3,2,5,NA,1,"7-12 glasses per"
-TRUE,"11/1/2023 11:20",18,"Freshman student","American Indian or Alaska Native,Black or African American,White/Caucasian","Woman","Mostly liberal","02119",1,"Plastic bottled water",0,"Public Supply",2,4,5,5,4,5,7,1,2,4,3,6,"Verification of several and frequent water quality test from a (preferably federal) third party ",NA,"Less than 2 glasses per day"
-TRUE,"11/1/2023 11:22",21,"Sophomore student","Black or African American","Woman",NA,"02072",NA,"Plastic bottled water",1,NA,2,1,5,1,3,2,1,3,5,6,4,7,"A filter",NA,"2-6 glasses per day"
-TRUE,"11/1/2023 11:24",18,"Freshman student","Hispanic or Latino","Woman","Mixed","02066",1,"Plastic bottled water",0,NA,2,4,5,1,5,1,6,2,4,5,7,3,"If it smelled like it was safe to drink ",NA,"2-6 glasses per day"
-TRUE,"11/1/2023 11:24",19,"Sophomore student","Hispanic or Latino","Man","Mostly liberal","02125",0,"Plastic bottled water",1,"Public Supply",4,2,5,4,5,1,7,2,4,3,5,6,NA,NA,"7-12 glasses per"
-TRUE,"11/1/2023 11:25",18,"Freshman student","Asian,Hispanic or Latino",NA,"Consistently liberal","02132",1,"Plastic bottled water",0,"Public Supply",2,1,4,3,4,NA,NA,NA,NA,NA,NA,NA,"better taste/color",NA,"2-6 glasses per day"
-TRUE,"11/1/2023 11:26",18,"Freshman student","Asian","Woman","Consistently liberal","02368",1,"Plastic bottled water",1,"Public Supply",2,3,4,1,4,NA,NA,NA,NA,NA,NA,NA,"Knowing that it comes from a clean source ",NA,"2-6 glasses per day"
-TRUE,"11/1/2023 11:26",18,"Freshman student","White/Caucasian","Non-binary","Consistently liberal","02125",1,"Plastic bottled water",0,"Public Supply",4,2,5,3,5,2,1,3,7,5,4,6,"The look and smell.",NA,"2-6 glasses per day"
-TRUE,"11/1/2023 11:26",18,"Freshman student","White/Caucasian","Woman","Consistently liberal","02360",1,"Plastic bottled water",1,"Public Supply",4,4,4,1,3,4,3,6,1,7,2,5,"If the government didn’t mess with it and just cleaned up a bit more ",NA,"2-6 glasses per day"
-TRUE,"11/1/2023 11:26",22,"Junior student","White/Caucasian","Man","Mostly liberal","02125",0,"Plastic bottled water",1,NA,4,1,5,1,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,"2-6 glasses per day"
-TRUE,"11/1/2023 11:27",19,"Sophomore student","White/Caucasian","Woman","Mostly liberal","02128",0,"Tap water",1,NA,4,4,4,2,4,3,7,1,6,2,4,5,"transperency",1,"7-12 glasses per"
-TRUE,"11/1/2023 11:27",21,"Freshman student","White/Caucasian","Woman","Mixed","02148",NA,"Plastic bottled water",0,NA,2,2,4,2,5,3,5,2,4,6,7,1,"a brita filter ",NA,"2-6 glasses per day"
-TRUE,"11/1/2023 11:29",19,"Sophomore student","White/Caucasian","Woman","Mostly liberal","02128",NA,"Tap water",1,"Public Supply",2,4,5,3,5,4,7,1,3,5,2,6,NA,1,"2-6 glasses per day"
-TRUE,"11/1/2023 11:31",18,"Freshman student","White/Caucasian,Hispanic or Latino","Woman",NA,"01702",NA,"Tap water",1,"Public Supply",4,2,5,3,4,2,4,1,3,7,5,6,NA,1,"2-6 glasses per day"
-TRUE,"11/1/2023 11:32",18,"Freshman student","Black or African American","Woman",NA,"01970",0,"Glass bottled/canned/boxed water",1,"Well",1,5,4,3,5,NA,NA,NA,NA,NA,NA,NA,"Knowing where it’s coming from and how it taste ",NA,"7-12 glasses per"
-TRUE,"11/1/2023 11:34",20,"Sophomore student","Asian","Woman",NA,"02125",1,"Tap water",1,"Public Supply",3,3,3,3,1,3,6,7,1,5,2,4,NA,1,"2-6 glasses per day"
-TRUE,"11/1/2023 11:40",33,"Master's student","Black or African American","Woman","Consistently liberal","02121",0,"Tap water",1,"Public Supply",5,5,3,5,1,2,7,1,4,5,3,6,NA,0,"Less than 2 glasses per day"
-TRUE,"11/1/2023 15:08",18,"Freshman student","Asian","Woman",NA,"02170",0,"Plastic bottled water",1,"Public Supply",4,3,4,5,4,NA,NA,NA,NA,NA,NA,NA,"Probably with how the water quality was supplied to the town that I lived at. ",NA,"2-6 glasses per day"
-TRUE,"11/1/2023 15:14",32,"PhD student","White/Caucasian","Woman","Mostly liberal","02113",NA,"Tap water",1,NA,5,5,3,4,2,7,5,6,3,1,2,4,NA,0,"7-12 glasses per"
-TRUE,"11/1/2023 15:20",18,"Freshman student","Black or African American","Woman",NA,"02150",0,"Plastic bottled water",1,"Public Supply",3,2,4,3,3,5,2,3,6,1,4,7,"to know if it’s spruce is clean ",NA,"2-6 glasses per day"
-TRUE,"11/1/2023 15:21",22,"Senior student","Asian,White/Caucasian","Woman","Mixed","02160",0,"Tap water",1,"Public Supply",4,4,4,3,5,NA,NA,NA,NA,NA,NA,NA,"If I knew more about where it comes from/how it’s filtered without having to look for the information ",1,"7-12 glasses per"
-TRUE,"11/1/2023 15:22",28,"Master's student","White/Caucasian","Woman","Mostly liberal","02124",1,NA,1,"Public Supply",1,3,4,2,5,2,6,1,7,3,4,5,"More frequent and reliable updates on water testing",NA,NA
-TRUE,"11/1/2023 15:26",27,"Master's student","White/Caucasian","Man",NA,"02125",0,"Tap water",1,"Public Supply",5,5,5,4,3,1,3,7,6,4,2,5,"Frequent water testing by the government and making these tests available to the public",1,"7-12 glasses per"
-TRUE,"11/1/2023 16:03",29,"Master's student","White/Caucasian","Woman","Consistently liberal","02169",NA,"Tap water",1,"Public Supply",4,4,4,4,3,NA,NA,NA,NA,NA,NA,NA,"Knowing the composition of the city's water pipes",0,"2-6 glasses per day"
-TRUE,"11/2/2023 13:36",22,"Senior student","Black or African American","Man",NA,"02170",NA,"Plastic bottled water",1,"Public Supply",5,3,5,3,5,3,4,1,5,6,7,2,"The source in which the water is coming from because there is a lot of pollution around our source of water. ",NA,"13 or more glasses per day"
-TRUE,"11/2/2023 13:41",20,"Freshman student","Asian","Man","Mostly liberal","02148",1,"Glass bottled/canned/boxed water",1,"Public Supply",1,4,4,1,4,NA,NA,NA,NA,NA,NA,NA,"Information about its purity",NA,"13 or more glasses per day"
-TRUE,"11/2/2023 13:41",20,"Junior student","White/Caucasian","Man","Consistently liberal","02302",0,"Plastic bottled water",0,"Well",5,3,5,3,4,6,1,4,2,5,3,7,NA,NA,"2-6 glasses per day"
-TRUE,"11/2/2023 13:41",21,"Senior student","American Indian or Alaska Native,Black or African American,White/Caucasian,Hispanic or Latino","Woman","Mostly liberal","02128",0,"Glass bottled/canned/boxed water",1,"Public Supply",1,1,3,1,4,6,4,1,7,3,5,2,"Clean pipes ",NA,"7-12 glasses per"
-TRUE,"11/2/2023 13:42",21,"Senior student","White/Caucasian","Woman","Consistently liberal","01906",NA,"Tap water",1,"Public Supply",5,3,5,3,5,6,2,1,3,7,4,5,"Probably if everyone didn’t bash boston water",1,"7-12 glasses per"
-TRUE,"11/2/2023 13:42",24,"Senior student","Black or African American,White/Caucasian","Man","Mostly liberal","02864",NA,"Plastic bottled water",0,"Public Supply",4,4,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,"2-6 glasses per day"
-TRUE,"11/2/2023 13:42",22,NA,NA,"Woman","Mixed","06239",0,"Tap water",1,NA,4,3,4,3,3,NA,NA,NA,NA,NA,NA,NA,NA,0,"2-6 glasses per day"
-TRUE,"11/2/2023 13:42",25,"Senior student","White/Caucasian","Woman","Mostly liberal","02125",NA,"Tap water",1,"Public Supply",4,4,2,1,3,2,1,3,4,6,5,7,"Something easily provided by the government that the water is monitored and safe",1,"Less than 2 glasses per day"
-TRUE,"11/2/2023 13:43",18,"Freshman student","Asian,White/Caucasian","Transgender man","Mostly liberal","02125",NA,"Tap water",1,"Public Supply",5,4,4,3,3,3,2,6,5,1,7,4,"If I understood the regulations and knew where it came from",0,"2-6 glasses per day"
-TRUE,"11/2/2023 13:43",30,"Master's student","Asian,White/Caucasian","Man","Mostly conservative","02125",NA,"Plastic bottled water",1,"Public Supply",4,2,4,3,5,2,1,3,5,6,4,7,NA,NA,"7-12 glasses per"
-TRUE,"11/2/2023 13:43",NA,"Senior student","Native Hawaiian or Other Pacific Islander,White/Caucasian","Man","Mostly conservative","02125",1,"Tap water",0,NA,4,4,4,2,2,NA,NA,NA,NA,NA,NA,NA,NA,1,"7-12 glasses per"
-TRUE,"11/2/2023 13:44",21,"Junior student","White/Caucasian","Man","Mostly liberal","10031",NA,"Plastic bottled water",1,"Public Supply",4,3,4,2,2,5,3,1,2,6,4,7,"If I knew where it was filtered and how consistent the filtration was",NA,"2-6 glasses per day"
-TRUE,"11/2/2023 13:44",18,"Sophomore student","White/Caucasian","Woman","Consistently liberal","02125",NA,"Tap water",1,"Public Supply",4,4,4,3,4,NA,NA,NA,NA,NA,NA,NA,NA,1,"7-12 glasses per"
-TRUE,"11/2/2023 13:46",28,"Sophomore student","American Indian or Alaska Native","Man",NA,"02125",NA,"Tap water",1,"Public Supply",3,3,1,2,5,NA,NA,NA,NA,NA,NA,NA,"More available information, also if tap water didn’t taste like chlorine I wouldn’t question it that much",1,"13 or more glasses per day"
-TRUE,"11/2/2023 13:49",21,"Senior student","Asian","Woman","Mostly conservative","02125",NA,"Plastic bottled water",0,"Public Supply",4,2,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Less than 2 glasses per day"
-TRUE,"11/2/2023 13:50",24,"Other","White/Caucasian","Woman","Mixed","02169",NA,"Tap water",1,"Public Supply",4,4,4,1,4,5,4,1,3,7,2,6,NA,1,"7-12 glasses per"
-TRUE,"11/2/2023 13:52",23,"Junior student","Hispanic or Latino","Woman","Mixed","01801",NA,"Plastic bottled water",0,NA,1,1,5,3,3,NA,NA,NA,NA,NA,NA,NA,"I don’t know ",NA,"2-6 glasses per day"
-TRUE,"11/3/2023 15:02",27,"PhD student","White/Caucasian","Man","Consistently liberal","02360",0,"Tap water",1,"Public Supply",5,4,4,4,3,4,3,1,6,5,2,7,"Distributed water quality tests ",0,"7-12 glasses per"
-TRUE,"11/5/2023 14:34",23,"Senior student","Asian","Woman","Consistently liberal","02119",0,"Plastic bottled water",1,"Public Supply",4,4,4,4,4,1,4,3,2,5,7,6,"Maybe more (accurate) statistics about the tap water.",NA,"2-6 glasses per day"
-TRUE,"11/6/2023 10:45",17,NA,NA,NA,NA,"02150",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-TRUE,"11/6/2023 10:45",21,"Junior student","Hispanic or Latino","Woman","Consistently liberal","01585",NA,"Plastic bottled water",1,"Public Supply",3,4,4,1,4,2,5,1,6,7,3,4,NA,NA,"7-12 glasses per"
-TRUE,"11/6/2023 10:46",28,"Senior student","White/Caucasian","Man","Mostly liberal","02302",1,"Tap water",1,"Public Supply",4,5,5,5,4,7,5,1,3,4,2,6,"Less carcinogens ",1,"7-12 glasses per"
-TRUE,"11/6/2023 10:46",18,"Freshman student","Asian","Man","Mostly conservative","02150",1,"Plastic bottled water",1,"Public Supply",4,4,5,4,5,2,1,3,4,6,5,7,"Better filtration process",NA,"7-12 glasses per"
-TRUE,"11/6/2023 10:47",18,"Freshman student","Asian","Woman","Mixed","01923",1,"Plastic bottled water",0,"Public Supply",1,2,4,3,3,5,6,1,7,3,4,2,"Data",NA,"7-12 glasses per"
-TRUE,"11/6/2023 10:50",18,"Freshman student",NA,"Woman",NA,"02125",NA,"Plastic bottled water",0,NA,4,3,5,4,5,1,6,3,2,4,5,7,"proof it’s filtered, tastes good",NA,"7-12 glasses per"
-TRUE,"11/6/2023 10:50",19,"Freshman student","Hispanic or Latino","Woman","Consistently liberal","02066",NA,"Tap water",1,NA,3,3,4,3,4,5,2,1,3,4,7,6,NA,1,"2-6 glasses per day"
-TRUE,"11/6/2023 10:52",19,"Sophomore student","Asian","Woman","Other","02125",0,"Plastic bottled water",NA,"Public Supply",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Less than 2 glasses per day"
-TRUE,"11/6/2023 10:55",18,"Freshman student","Asian","Woman","Consistently liberal","02747",0,"Plastic bottled water",1,NA,2,3,5,4,5,3,5,6,2,4,1,7,"If there was more accessible information confirming the safer of tape water.",NA,"2-6 glasses per day"
-TRUE,"11/6/2023 11:06",22,"Master's student","White/Caucasian","Man","Mixed","02121",0,"Tap water",1,"Public Supply",5,4,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,"2-6 glasses per day"
-TRUE,"11/6/2023 11:07",26,"Master's student","White/Caucasian","Man","Mostly liberal","02021",NA,"Plastic bottled water",0,"Public Supply",2,2,4,2,5,1,2,3,6,4,7,5,"Better Taste, transparency and information on the quality",NA,"7-12 glasses per"
-TRUE,"11/6/2023 11:14",25,"PhD student","White/Caucasian","Woman","Mostly liberal","02155",0,"Plastic bottled water",0,NA,5,5,4,5,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,"2-6 glasses per day"
-TRUE,"11/6/2023 11:14",36,"PhD student","Black or African American","Woman","Mostly liberal","02125",NA,"Tap water",1,"Public Supply",4,NA,4,2,2,1,4,2,5,6,7,3,"Nothing ",1,"2-6 glasses per day"
-TRUE,"11/6/2023 11:15",29,"PhD student","White/Caucasian","Woman","Other","02125",1,"Plastic bottled water",1,NA,5,5,5,5,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,"7-12 glasses per"
-TRUE,"11/6/2023 11:19",44,"PhD student","White/Caucasian","Man",NA,"02125",0,"Plastic bottled water",0,"Public Supply",4,2,5,2,5,3,4,2,5,6,7,1,"More information about the oh balance and chemical makeup. How does it compare empirically to bottled water especially natural spring water not purified water!   ",NA,"2-6 glasses per day"
-TRUE,"11/6/2023 11:40",34,"PhD student","Asian","Man","Mostly liberal","02186",0,"Tap water",0,"Public Supply",4,4,4,3,3,NA,NA,NA,NA,NA,NA,NA,"Health ",1,"2-6 glasses per day"
-TRUE,"11/6/2023 20:29",25,"Master's student","Asian","Woman","Mixed","02171",1,"Tap water",0,"Public Supply",4,5,5,4,4,NA,NA,NA,NA,NA,NA,NA,NA,1,"7-12 glasses per"
-TRUE,"11/6/2023 20:34",24,"Master's student","Asian","Woman",NA,"02116",NA,"Tap water",1,"Public Supply",4,4,5,4,5,NA,NA,NA,NA,NA,NA,NA,"An announcement from an official body that it's safe to drink. ",0,"7-12 glasses per"
-TRUE,"11/6/2023 20:38",25,"Master's student","Asian","Woman","Mostly liberal","02125",0,"Tap water",1,"Public Supply",4,4,4,4,4,NA,NA,NA,NA,NA,NA,NA,"Taste, color",1,"2-6 glasses per day"
-TRUE,"11/6/2023 20:39",24,"Other","Black or African American","Transgender woman","Mostly conservative","02125",0,"Plastic bottled water",0,"Public Supply",1,1,5,3,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,"13 or more glasses per day"
-TRUE,"11/6/2023 20:42",25,"Master's student","Asian","Man",NA,"02125",0,"Tap water",0,"Public Supply",4,4,5,4,4,1,2,3,4,5,6,7,NA,1,"13 or more glasses per day"
-TRUE,"11/6/2023 21:23",28,"Master's student","Asian","Man","Mixed","02171",1,"Tap water",1,"Public Supply",5,5,4,5,5,2,3,1,4,5,7,6,NA,1,"13 or more glasses per day"
-TRUE,"11/6/2023 21:31",21,"Senior student","Asian","Man","Mixed","02128",0,"Tap water",0,"Public Supply",4,3,3,4,4,5,3,1,4,2,7,6,"Water filters ",1,"13 or more glasses per day"
-TRUE,"11/6/2023 21:49",27,"Master's student",NA,"Man",NA,"02148",1,"Tap water",1,NA,3,3,3,3,3,4,7,5,2,1,3,6,NA,1,"7-12 glasses per"
-TRUE,"11/6/2023 22:05",24,"Master's student","Asian","Man","Mixed","02125",0,"Tap water",0,"Public Supply",4,4,4,3,4,1,2,3,5,6,4,7,NA,1,"7-12 glasses per"
-TRUE,"11/7/2023 11:21",22,"Junior student","Black or African American","Man","Mixed","02125",NA,"Plastic bottled water",0,"Public Supply",2,1,4,4,4,1,7,3,4,6,5,2,"Nothing",NA,"7-12 glasses per"
-TRUE,"11/7/2023 11:29",20,"Sophomore student","White/Caucasian","Woman","Mostly liberal","02125",NA,"Tap water",1,"Public Supply",4,4,5,2,5,NA,NA,NA,NA,NA,NA,NA,"knowing if it’s safe to drink ",1,"7-12 glasses per"
-TRUE,"11/7/2023 11:30",20,"Sophomore student","Asian","Woman",NA,"02420",1,"Plastic bottled water",1,"Public Supply",2,1,5,3,4,1,7,4,2,5,3,6,NA,NA,"7-12 glasses per"
-TRUE,"11/7/2023 11:32",20,"Sophomore student","White/Caucasian","Non-binary","Mostly liberal","01835",0,"Tap water",0,"Public Supply",5,3,4,3,5,6,4,3,2,5,1,7,NA,0,NA
-TRUE,"11/7/2023 11:34",19,"Freshman student","Black or African American","Man","Mixed","02145",0,"Plastic bottled water",1,NA,4,3,5,5,5,2,6,3,4,7,1,5,"Taste better ",NA,"2-6 glasses per day"
-TRUE,"11/7/2023 11:34",21,"Junior student","Hispanic or Latino","Woman","Mostly liberal","02125",1,"Plastic bottled water",1,"Public Supply",4,4,4,2,3,NA,NA,NA,NA,NA,NA,NA,"Knowing it’s regularly getting tested ",NA,"2-6 glasses per day"
-TRUE,"11/7/2023 11:35",20,"Junior student","Black or African American","Woman",NA,"02169",0,"Tap water",0,"Public Supply",4,NA,4,NA,3,NA,NA,NA,NA,NA,NA,NA,"Filteration",1,"2-6 glasses per day"
-TRUE,"11/7/2023 11:45",18,"Freshman student","Asian","Woman",NA,"02125",0,"Plastic bottled water",1,"Well",5,3,5,3,3,NA,NA,NA,NA,NA,NA,NA,"Color is clear",NA,"2-6 glasses per day"
-TRUE,"11/7/2023 11:48",19,"Freshman student","Asian","Man","Mixed","02421",NA,"Plastic bottled water",1,NA,4,4,5,3,3,2,1,3,5,6,7,4,NA,NA,"2-6 glasses per day"
-TRUE,"11/7/2023 11:50",19,"Sophomore student","Black or African American","Woman","Mostly liberal","02368",0,"Glass bottled/canned/boxed water",1,NA,4,4,5,3,3,2,1,3,5,7,6,4,"Seeing facts ",NA,"2-6 glasses per day"
-TRUE,"11/7/2023 11:50",22,"Senior student","White/Caucasian,Hispanic or Latino","Woman",NA,"02135",NA,"Tap water",1,"Public Supply",3,3,3,1,2,NA,NA,NA,NA,NA,NA,NA,"if i actually knew how ( or if ) it was treated. ",0,"2-6 glasses per day"
-TRUE,"11/7/2023 11:50",19,"Sophomore student","Asian","Man","Mixed","02125",0,"Tap water",1,"Public Supply",3,2,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,1,"7-12 glasses per"
-TRUE,"11/7/2023 11:51",27,"Sophomore student","White/Caucasian","Woman","Mostly liberal","02169",1,"Tap water",1,"Public Supply",2,4,5,1,5,NA,NA,NA,NA,NA,NA,NA,NA,1,"7-12 glasses per"
-TRUE,"11/7/2023 11:51",19,"Sophomore student","Asian","Woman","Mixed","02125",0,"Plastic bottled water",1,"Public Supply",2,1,5,4,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,"2-6 glasses per day"
-TRUE,"11/7/2023 11:53",22,"Junior student","White/Caucasian","Woman","Consistently liberal","01833",NA,"Plastic bottled water",1,"Public Supply",4,2,4,1,4,1,6,2,3,4,5,7,"Officials being transparent about water safety ",NA,"2-6 glasses per day"
-TRUE,"11/7/2023 11:54",24,"Junior student","Black or African American","Man","Mostly liberal","02062",NA,"Tap water",0,"Public Supply",4,3,4,4,3,2,3,1,4,6,5,7,"A guarantee that it’s safe",1,"7-12 glasses per"
-TRUE,"11/7/2023 11:54",21,"Senior student","White/Caucasian","Woman","Mostly liberal","19073",0,"Tap water",1,"Public Supply",4,3,5,5,4,1,2,3,6,4,5,7,NA,1,"7-12 glasses per"
-TRUE,"11/7/2023 11:54",21,"Senior student","White/Caucasian","Woman","Mostly liberal","02145",0,"Tap water",1,"Public Supply",3,4,5,4,4,5,7,3,4,1,6,2,NA,1,"13 or more glasses per day"
-TRUE,"11/7/2023 12:08",19,"Freshman student","White/Caucasian","Man","Consistently liberal","02184",NA,"Tap water",1,"Public Supply",3,3,5,3,4,3,4,5,1,6,2,7,"More communication ",1,"2-6 glasses per day"
-TRUE,"11/7/2023 12:31",20,"Freshman student","White/Caucasian","Non-binary","Consistently liberal","02125",1,"Plastic bottled water",1,"Public Supply",4,3,5,4,4,1,3,2,5,6,4,7,NA,NA,"Less than 2 glasses per day"
-TRUE,"11/7/2023 12:56",18,"Freshman student","Hispanic or Latino","Woman",NA,"02125",NA,"Plastic bottled water",0,"Public Supply",2,3,5,3,4,NA,NA,NA,NA,NA,NA,NA,"i don’t really trust it",NA,"2-6 glasses per day"
-TRUE,"11/7/2023 12:58",19,"Junior student","Asian","Man","Mixed","02143",0,"Tap water",0,NA,5,5,4,5,4,NA,NA,NA,NA,NA,NA,NA,NA,0,"7-12 glasses per"
-TRUE,"11/7/2023 12:58",25,"Junior student",NA,"Non-binary","Other","01519",1,"Tap water",1,"Public Supply",2,2,1,3,3,NA,NA,NA,NA,NA,NA,NA,NA,1,"2-6 glasses per day"
-TRUE,"11/7/2023 12:58",18,"Sophomore student","Black or African American","Woman",NA,"02145",0,"Tap water",1,NA,4,4,5,3,5,NA,NA,NA,NA,NA,NA,NA,"Heavy filtering ",1,"2-6 glasses per day"
-TRUE,"11/7/2023 12:59",20,"Junior student","White/Caucasian","Woman","Consistently liberal","02125",0,"Glass bottled/canned/boxed water",0,"Well",4,2,3,2,5,3,4,1,6,2,5,7,"knowing that it’s impact was environmentally sound and that it is healthy for me",NA,"Less than 2 glasses per day"
-TRUE,"11/7/2023 13:03",25,"PhD student","Black or African American","Woman","Other","02171",NA,"Plastic bottled water",1,NA,5,1,5,3,5,3,6,1,4,7,5,2,"Transparency from government organizations ",NA,"7-12 glasses per"
-TRUE,"11/7/2023 13:03",26,"PhD student","White/Caucasian","Woman","Mostly liberal","02141",NA,"Tap water",1,"Public Supply",4,2,4,3,5,2,4,1,5,6,7,3,"If it was filtered and certified",1,"13 or more glasses per day"
-TRUE,"11/7/2023 13:05",18,"Freshman student","Hispanic or Latino","Woman","Consistently liberal","02184",NA,"Tap water",1,"Public Supply",4,3,4,2,4,NA,NA,NA,NA,NA,NA,NA,"Not sure ",1,"2-6 glasses per day"
-TRUE,"11/7/2023 13:05",22,"Junior student","White/Caucasian","Man","Mixed","02021",NA,"Tap water",1,"Public Supply",4,5,3,2,5,1,6,5,2,4,3,7,"Understanding the plumbing in an apartment/city",1,"7-12 glasses per"
-TRUE,"11/7/2023 13:06",29,"Senior student","White/Caucasian","Woman","Consistently liberal","02148",0,"Plastic bottled water",0,"Public Supply",5,1,3,4,5,3,2,1,5,4,6,7,"More filters more information on the water supply ",NA,"2-6 glasses per day"
-TRUE,"11/7/2023 13:07",19,"Sophomore student","Black or African American","Woman",NA,"02382",NA,"Plastic bottled water",0,"Public Supply",2,3,4,1,5,1,6,2,3,5,4,7,"if it tasted better",NA,"7-12 glasses per"
-TRUE,"11/7/2023 13:07",35,"PhD student",NA,"Woman","Mixed","02134",0,"Tap water",0,"Public Supply",4,4,1,3,3,NA,NA,NA,NA,NA,NA,NA,"Constant analytical analysis",0,"2-6 glasses per day"
-TRUE,"11/7/2023 13:07",31,"Master's student","Hispanic or Latino","Man","Consistently liberal","02062",0,"Tap water",0,"Public Supply",4,4,2,3,3,5,7,1,4,2,3,6,"Testing ph and minerals content by myself",1,"7-12 glasses per"
-TRUE,"11/7/2023 13:07",19,"Sophomore student","Black or African American","Woman","Mostly liberal","02333",1,"Plastic bottled water",0,"Public Supply",4,3,2,3,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,"7-12 glasses per"
-TRUE,"11/7/2023 13:08",18,"Freshman student","White/Caucasian,Hispanic or Latino","Woman","Mostly liberal","02125",NA,"Plastic bottled water",1,"Public Supply",5,5,5,4,4,3,7,2,5,4,1,6,"Research papers from outside/nonbiased sources reporting on the quality ",NA,"2-6 glasses per day"
-TRUE,"11/7/2023 13:08",19,"Sophomore student","Black or African American","Woman","Consistently liberal","02125",NA,"Plastic bottled water",0,"Well",3,3,4,4,4,1,6,2,3,7,5,4,"If I read information on it",NA,"2-6 glasses per day"
-TRUE,"11/7/2023 13:09",23,"Senior student","Asian","Woman","Mixed","02142",1,"Tap water",1,"Public Supply",4,4,4,3,5,5,4,3,1,6,2,7,"Cause of society norm",1,"2-6 glasses per day"
-TRUE,"11/7/2023 13:10",20,"Junior student","White/Caucasian","Woman","Mostly liberal","02169",0,"Tap water",1,NA,5,4,4,3,4,7,4,3,5,2,6,1,"If I knew exactly where the water was coming from and how it was purified. ",1,"2-6 glasses per day"
-TRUE,"11/7/2023 13:10",27,"PhD student","Asian","Man","Mostly liberal","02132",NA,"Tap water",1,NA,5,5,3,5,3,5,1,4,2,7,3,6,"More conclusive data on harms of contaminants",0,"7-12 glasses per"
-TRUE,"11/7/2023 13:12",36,"PhD student",NA,"Woman","Mostly liberal","02125",0,"Tap water",1,"Public Supply",4,4,3,2,4,NA,NA,NA,NA,NA,NA,NA,NA,1,"2-6 glasses per day"
-TRUE,"11/7/2023 13:14",30,"PhD student","Asian","Man",NA,"02118",0,"Plastic bottled water",0,"Well",1,4,4,3,2,5,6,1,7,3,4,2,NA,NA,"7-12 glasses per"
-TRUE,"11/7/2023 13:15",19,"Sophomore student","Black or African American","Woman","Mostly liberal","02151",NA,"Plastic bottled water",0,"Well",4,4,5,4,4,1,5,7,4,6,2,3,"Make sure there’s healthy Montreal’s ",NA,"7-12 glasses per"
-TRUE,"11/7/2023 13:19",20,"Junior student","White/Caucasian","Genderfluid","Consistently liberal","02072",NA,"Tap water",1,"Public Supply",4,4,5,3,4,6,1,2,3,5,4,7,NA,1,"Less than 2 glasses per day"
-TRUE,"11/7/2023 13:21",36,"Other","Asian,White/Caucasian","Non-binary","Mostly liberal","02150",NA,"Tap water",1,"Public Supply",4,2,4,3,4,1,7,3,4,2,5,6,"I have always filtered my tap water. It’s a habit now.",1,"Less than 2 glasses per day"
-TRUE,"11/7/2023 13:22",26,"Senior student","Hispanic or Latino","Man","Mixed","02121",1,NA,1,"Public Supply",1,3,2,3,5,NA,NA,NA,NA,NA,NA,NA,"Yearly results of water treatment",NA,NA
-TRUE,"11/7/2023 13:24",25,"Senior student","Black or African American","Man","Mixed","02189",0,"Plastic bottled water",0,"Public Supply",4,5,4,5,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,"2-6 glasses per day"
-TRUE,"11/7/2023 13:29",20,"Junior student","Asian","Man","Mixed","02132",0,"Plastic bottled water",0,"Public Supply",3,3,3,3,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,"13 or more glasses per day"
-TRUE,"11/7/2023 13:30",22,"Senior student","White/Caucasian,Hispanic or Latino","Woman","Consistently liberal","02143",1,"Tap water",0,NA,2,4,4,2,3,7,3,4,1,6,2,5,NA,1,"Less than 2 glasses per day"
-TRUE,"11/7/2023 13:31",22,"Junior student","White/Caucasian","Man","Mostly liberal","02184",0,"Tap water",1,"Public Supply",4,5,4,4,5,3,2,1,7,4,5,6,"Knowing the origin / statistics",1,"2-6 glasses per day"
-TRUE,"11/7/2023 13:31",19,"Sophomore student","White/Caucasian","Woman","Mostly liberal","02121",NA,"Glass bottled/canned/boxed water",1,"Public Supply",4,4,3,2,3,NA,NA,NA,NA,NA,NA,NA,"N/A already trust ",NA,"7-12 glasses per"
-TRUE,"11/7/2023 13:31",21,"Senior student","White/Caucasian","Woman","Mostly liberal","02125",NA,"Tap water",1,"Public Supply",2,4,5,3,4,7,5,1,4,6,3,2,NA,1,"2-6 glasses per day"
-TRUE,"11/7/2023 13:32",22,"Junior student","White/Caucasian","Genderfluid","Consistently liberal","02176",1,"Tap water",1,"Public Supply",4,4,1,1,2,NA,NA,NA,NA,NA,NA,NA,"reliable filters installed and advertised on fountains/taps ",1,"2-6 glasses per day"
-TRUE,"11/7/2023 13:32",28,"Senior student","White/Caucasian","Woman","Consistently liberal","02148",0,"Tap water",1,"Public Supply",4,3,4,4,4,2,1,3,4,7,6,5,"Evidence that it is non contaminated ",0,"2-6 glasses per day"
-TRUE,"11/7/2023 13:32",21,"Senior student","White/Caucasian","Man","Mostly liberal","02472",1,"Plastic bottled water",1,"Public Supply",2,4,4,2,5,4,3,1,7,6,5,2,"Better filtering systems ",NA,"7-12 glasses per"
-TRUE,"11/7/2023 13:32",20,"Sophomore student","Black or African American","Man","Other","01430",NA,"Glass bottled/canned/boxed water",1,NA,3,3,4,2,4,1,2,3,4,5,6,7,NA,NA,"2-6 glasses per day"
-TRUE,"11/7/2023 13:32",20,"Sophomore student","Black or African American","Man",NA,"02148",0,"Plastic bottled water",1,"Public Supply",2,2,5,2,5,1,2,3,4,5,6,7,NA,NA,"Less than 2 glasses per day"
-TRUE,"11/7/2023 13:32",23,"Junior student","White/Caucasian","Man","Mostly liberal","02038",0,"Tap water",0,"Public Supply",4,5,5,4,5,6,1,3,2,5,4,7,"Public metrics vs bottled water or other sources of water ",0,"7-12 glasses per"
-TRUE,"11/7/2023 13:33",22,"Senior student","Black or African American","Woman",NA,"02125",NA,"Plastic bottled water",1,"Public Supply",1,1,3,1,5,NA,NA,NA,NA,NA,NA,NA,"Knowing where the water is coming from",NA,"2-6 glasses per day"
-TRUE,"11/7/2023 13:33",NA,"Sophomore student",NA,NA,"Mixed","02125",NA,"Plastic bottled water",0,NA,5,5,3,3,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,"7-12 glasses per"
-TRUE,"11/7/2023 13:33",18,"Freshman student","Hispanic or Latino","Man",NA,"02122",0,"Tap water",1,"Well",5,4,5,5,5,3,4,6,5,7,1,2,"More actual recordings on it",0,"2-6 glasses per day"
-TRUE,"11/7/2023 13:33",26,NA,"Asian","Man",NA,"02124",NA,"Tap water",1,NA,3,3,3,3,3,NA,NA,NA,NA,NA,NA,NA,"Maybe ",1,"2-6 glasses per day"
-TRUE,"11/7/2023 13:33",20,"Junior student","White/Caucasian","Non-binary","Mostly liberal","02171",0,"Plastic bottled water",1,"Public Supply",5,4,5,3,5,3,1,2,7,5,6,4,"more filters in public supply",NA,"7-12 glasses per"
-TRUE,"11/7/2023 13:33",21,"Senior student","Asian","Woman","Mostly liberal","02150",0,"Tap water",1,"Public Supply",4,4,2,4,5,NA,NA,NA,NA,NA,NA,NA,NA,0,"2-6 glasses per day"
-TRUE,"11/7/2023 13:34",21,"Senior student","White/Caucasian,Hispanic or Latino","Man","Mostly liberal","02135",0,"Plastic bottled water",1,"Public Supply",4,4,5,5,4,1,7,4,6,3,2,5,NA,NA,"2-6 glasses per day"
-TRUE,"11/7/2023 13:34",21,"Senior student","Hispanic or Latino","Woman","Consistently liberal",NA,0,"Plastic bottled water",1,"Public Supply",5,4,4,3,4,1,2,3,4,5,6,7,"if we know where it’s coming from exactly and be able to rely on whose telling us as well",NA,"2-6 glasses per day"
-TRUE,"11/7/2023 13:35",19,"Freshman student","White/Caucasian","Woman","Mixed",NA,NA,"Tap water",1,"Public Supply",2,5,5,1,4,2,1,3,4,7,5,6,"If it tasted like purified water ",1,"7-12 glasses per"
-TRUE,"11/7/2023 13:35",23,"Junior student","Asian","Man","Mostly liberal",NA,NA,"Tap water",1,"Public Supply",4,4,4,4,4,NA,NA,NA,NA,NA,NA,NA,"Awareness of where the water is coming from and how it’s filtered ",1,"2-6 glasses per day"
-TRUE,"11/7/2023 13:35",22,"Senior student","White/Caucasian,Hispanic or Latino","Man","Mostly liberal",NA,0,"Plastic bottled water",1,"Public Supply",5,3,5,3,5,NA,NA,NA,NA,NA,NA,NA,"If it were ph tested on a weekly basis ",NA,"2-6 glasses per day"
-TRUE,"11/7/2023 13:35",20,"Junior student","Black or African American,White/Caucasian","Man",NA,NA,1,"Tap water",1,"Public Supply",4,4,1,1,5,3,2,1,5,7,4,6,"Campaigns to swap out entire drinking water piping systems. The prevalence of lead in our drinking pipes historically has forever altered my trust ",1,"7-12 glasses per"
-TRUE,"11/7/2023 13:35",19,"Freshman student","Asian","Woman",NA,NA,0,"Tap water",1,NA,5,4,5,4,4,NA,NA,NA,NA,NA,NA,NA,NA,1,"7-12 glasses per"
-TRUE,"11/7/2023 13:35",19,"Sophomore student","Asian","Woman","Mostly liberal",NA,0,"Plastic bottled water",0,"Public Supply",4,3,5,4,3,4,6,2,5,3,7,1,"a filter ",NA,"Less than 2 glasses per day"
-TRUE,"11/7/2023 13:35",18,"Freshman student","Black or African American","Man","Mostly liberal",NA,NA,"Tap water",1,"Public Supply",5,3,4,2,4,3,1,2,7,5,6,4,"if more information was given on the safety of tap water in my area",0,"2-6 glasses per day"
-TRUE,"11/7/2023 13:35",33,"Senior student","White/Caucasian","Woman","Consistently liberal",NA,1,"Plastic bottled water",1,"Well",2,5,4,2,5,NA,NA,NA,NA,NA,NA,NA,"Stricter water laws",NA,"7-12 glasses per"
-TRUE,"11/7/2023 13:35",21,"Freshman student","White/Caucasian","Man","Mostly conservative",NA,NA,"Tap water",1,"Public Supply",5,5,5,5,5,5,6,3,1,7,2,4,NA,1,"7-12 glasses per"
-TRUE,"11/7/2023 13:36",20,"Junior student","White/Caucasian","Woman","Consistently liberal",NA,0,"Tap water",1,"Public Supply",5,4,3,5,2,1,6,3,4,2,5,7,NA,1,"7-12 glasses per"
-TRUE,"11/7/2023 13:36",19,"Freshman student","White/Caucasian","Woman","Mostly liberal",NA,0,"Tap water",1,NA,5,5,5,4,4,3,5,1,2,6,7,4,NA,1,"7-12 glasses per"
-TRUE,"11/7/2023 13:36",19,"Sophomore student","Asian","Woman",NA,NA,NA,"Plastic bottled water",1,NA,1,1,4,3,5,2,3,4,6,7,5,1,"accurate testing of water ",NA,"2-6 glasses per day"
-TRUE,"11/7/2023 13:36",26,"Junior student","White/Caucasian","Woman","Consistently liberal",NA,1,"Tap water",1,"Public Supply",4,4,4,2,4,5,1,2,6,4,7,3,"Knowing the quality of the pipes and what’s added to the water ",1,"13 or more glasses per day"
-TRUE,"11/7/2023 13:37",18,"Freshman student","Asian","Woman",NA,NA,0,"Plastic bottled water",1,NA,3,3,5,3,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,"2-6 glasses per day"
-TRUE,"11/7/2023 13:37",18,"Freshman student","White/Caucasian,Hispanic or Latino","Woman",NA,NA,NA,"Plastic bottled water",0,NA,1,1,5,3,5,2,4,1,3,5,6,7,"n/A",NA,"2-6 glasses per day"
-TRUE,"11/7/2023 13:37",19,"Freshman student","White/Caucasian","Woman","Mixed",NA,1,"Plastic bottled water",1,"Well",2,3,4,4,3,4,5,3,2,6,7,1,"Information ",NA,"7-12 glasses per"
-TRUE,"11/7/2023 13:37",18,"Freshman student","White/Caucasian","Woman","Mostly liberal",NA,1,"Glass bottled/canned/boxed water",1,"Public Supply",2,1,4,3,5,1,2,4,6,5,3,7,"Filters. ",NA,"7-12 glasses per"
-TRUE,"11/7/2023 13:37",18,"Freshman student","White/Caucasian","Woman","Mostly liberal",NA,1,"Plastic bottled water",0,NA,4,1,4,4,5,3,7,5,1,2,4,6,"idk",NA,"2-6 glasses per day"
-TRUE,"11/7/2023 13:37",21,"Junior student","White/Caucasian","Woman","Consistently liberal",NA,0,"Plastic bottled water",1,"Public Supply",4,3,5,3,5,3,4,1,5,6,7,2,"If there were zero risk of lead poisoning from the pipes",NA,"2-6 glasses per day"
-TRUE,"11/7/2023 13:38",30,"Senior student","White/Caucasian","Man","Consistently liberal",NA,1,"Tap water",1,"Public Supply",4,5,5,4,3,NA,NA,NA,NA,NA,NA,NA,"Monthly reports",1,"2-6 glasses per day"
-TRUE,"11/7/2023 13:38",40,"Master's student","Asian","Man","Mostly conservative",NA,0,"Tap water",1,"Public Supply",4,3,4,4,3,1,7,4,2,5,6,3,NA,1,"2-6 glasses per day"
-TRUE,"11/7/2023 13:39",18,"Sophomore student","White/Caucasian","Man","Mixed",NA,0,"Tap water",1,"Well",4,4,4,3,2,2,3,1,7,5,4,6,"Knowing more about the quality and process the water takes before it reaches my house",NA,"7-12 glasses per"
-TRUE,"11/7/2023 13:39",21,"Senior student","White/Caucasian","Woman","Mostly liberal",NA,0,"Tap water",1,NA,4,1,5,4,4,3,1,4,2,6,7,5,NA,1,"2-6 glasses per day"
-TRUE,"11/7/2023 13:39",20,"Sophomore student","Asian","Woman","Mostly liberal",NA,0,"Tap water",1,"Public Supply",3,2,2,3,3,NA,NA,NA,NA,NA,NA,NA,NA,1,"2-6 glasses per day"
-TRUE,"11/7/2023 13:40",34,"Master's student","White/Caucasian,Hispanic or Latino","Man","Mixed",NA,NA,"Tap water",0,"Public Supply",5,5,5,4,2,2,5,3,1,7,4,6,"Brita",0,"7-12 glasses per"
-TRUE,"11/7/2023 13:40",20,"Junior student","Black or African American","Woman","Mixed",NA,NA,"Plastic bottled water",0,"Well",2,1,2,1,4,4,2,3,6,5,7,1,"if we were provided with proper water filters for all sinks in the home including the filter for the showers ",NA,"Less than 2 glasses per day"
-TRUE,"11/7/2023 13:40",18,"Freshman student","Asian","Transgender man",NA,NA,0,"Glass bottled/canned/boxed water",1,"Public Supply",4,4,5,2,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,"7-12 glasses per"
-TRUE,"11/7/2023 13:40",19,"Sophomore student","Asian","Woman","Mostly liberal",NA,0,"Plastic bottled water",0,NA,5,3,4,3,3,2,1,5,3,6,4,7,"Filtering it",NA,"2-6 glasses per day"
-TRUE,"11/7/2023 13:40",20,"Junior student","White/Caucasian","Woman",NA,NA,NA,"Plastic bottled water",0,"Well",2,2,5,3,2,NA,NA,NA,NA,NA,NA,NA,"More information on it ",NA,"2-6 glasses per day"
-TRUE,"11/7/2023 13:40",20,"Junior student","White/Caucasian","Man","Mostly liberal",NA,0,"Tap water",1,NA,4,4,5,4,2,2,5,3,4,6,7,1,NA,0,"7-12 glasses per"
-TRUE,"11/7/2023 13:40",18,"Freshman student","White/Caucasian,Hispanic or Latino","Woman",NA,NA,0,"Tap water",1,"Public Supply",4,2,5,4,4,3,2,1,4,6,5,7,NA,1,"2-6 glasses per day"
-TRUE,"11/7/2023 13:40",19,"Sophomore student","White/Caucasian","Man","Mixed",NA,0,"Plastic bottled water",1,"Public Supply",4,2,4,4,5,NA,NA,NA,NA,NA,NA,NA,"Knowing where it came from and how it got to my tap",NA,"2-6 glasses per day"
-TRUE,"11/7/2023 13:41",39,"Other","White/Caucasian","Man","Mostly liberal",NA,1,"Tap water",0,"Public Supply",2,1,2,1,4,3,2,4,6,7,1,5,"More community engagement.",1,"2-6 glasses per day"
-TRUE,"11/7/2023 13:41",21,"Junior student","Hispanic or Latino","Non-binary","Consistently liberal",NA,1,"Plastic bottled water",1,"Public Supply",3,4,3,1,5,NA,NA,NA,NA,NA,NA,NA,"Knowing what’s in the water ",NA,"2-6 glasses per day"
-TRUE,"11/7/2023 13:41",21,"Senior student","White/Caucasian,Hispanic or Latino","Woman","Mostly liberal",NA,0,"Plastic bottled water",1,"Public Supply",4,2,4,2,4,6,7,4,5,2,3,1,"Knowing exactly where it came from and how it got to my tal",NA,"2-6 glasses per day"
-TRUE,"11/7/2023 13:42",22,"Sophomore student","Black or African American","Woman",NA,NA,NA,"Plastic bottled water",0,NA,4,3,5,2,3,3,1,2,6,5,4,7,NA,NA,"2-6 glasses per day"
-TRUE,"11/7/2023 13:42",18,"Sophomore student","White/Caucasian","Woman","Mostly liberal",NA,0,"Tap water",1,"Public Supply",5,4,5,4,3,1,6,3,5,4,2,7,"My brita filter ",1,"Less than 2 glasses per day"
-TRUE,"11/7/2023 13:47",23,"Senior student","Black or African American","Non-binary","Consistently liberal",NA,NA,"Plastic bottled water",1,NA,5,3,2,5,2,4,7,1,6,3,5,2,"Learning about my current home's pipe system and filtering equipment. The place is very old.",NA,"Less than 2 glasses per day"
-TRUE,"11/7/2023 13:48",18,"Freshman student","Black or African American","Woman","Mostly conservative",NA,0,"Plastic bottled water",0,"Public Supply",5,5,2,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"2-6 glasses per day"
-TRUE,"11/7/2023 13:48",19,"Sophomore student","White/Caucasian","Man","Mostly liberal",NA,0,"Plastic bottled water",0,"Public Supply",4,4,5,2,4,2,6,1,3,5,7,4,"More transparency with government ",NA,"7-12 glasses per"
-TRUE,"11/7/2023 13:48",22,"Senior student","White/Caucasian,Hispanic or Latino","Woman","Mostly liberal",NA,NA,"Plastic bottled water",1,"Public Supply",3,3,4,3,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,"7-12 glasses per"
-TRUE,"11/7/2023 13:49",23,"Junior student","Asian","Man",NA,NA,0,"Tap water",0,NA,4,3,4,3,4,1,2,3,4,5,6,7,"Public data",1,"2-6 glasses per day"
-TRUE,"11/7/2023 13:49",19,"Freshman student","Black or African American","Woman","Mostly liberal",NA,0,"Plastic bottled water",1,"Well",5,5,5,5,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,"2-6 glasses per day"
-TRUE,"11/7/2023 13:49",21,"Freshman student","Asian","Woman","Mostly conservative",NA,1,"Tap water",1,"Public Supply",3,4,4,1,5,NA,NA,NA,NA,NA,NA,NA,"color",0,"2-6 glasses per day"
-TRUE,"11/7/2023 13:49",21,"Junior student","White/Caucasian","Woman","Mostly liberal",NA,0,"Plastic bottled water",0,"Public Supply",4,3,5,3,2,7,2,3,5,6,4,1,"Constant reminders to build my trust.",NA,"Less than 2 glasses per day"
-TRUE,"11/7/2023 13:49",19,"Sophomore student","Black or African American","Woman","Mixed",NA,0,"Plastic bottled water",0,NA,3,2,5,3,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,"2-6 glasses per day"
-TRUE,"11/7/2023 13:49",24,"Master's student","Asian","Man",NA,NA,0,"Tap water",0,"Public Supply",5,4,2,3,3,4,3,2,6,5,7,1,"People’s opinion ",0,"2-6 glasses per day"
-TRUE,"11/7/2023 13:49",20,"Senior student","Asian","Man","Mostly liberal",NA,0,"Plastic bottled water",1,"Public Supply",3,4,5,5,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,"7-12 glasses per"
-TRUE,"11/7/2023 13:49",24,"Master's student","Asian","Woman",NA,NA,0,"Tap water",1,"Public Supply",5,3,1,2,5,NA,NA,NA,NA,NA,NA,NA,NA,0,"2-6 glasses per day"
-TRUE,"11/7/2023 13:49",18,"Freshman student","White/Caucasian","Woman","Mixed",NA,NA,"Plastic bottled water",1,"Public Supply",1,1,5,3,5,2,7,1,6,4,3,5,"consistently updated scientific data on the quality of tap water as well as confirmed knowledge that taps are being cleaned/changed regularly ",NA,"7-12 glasses per"
-TRUE,"11/7/2023 13:49",19,"Freshman student","White/Caucasian",NA,NA,NA,0,"Tap water",1,"Public Supply",5,3,4,3,2,3,2,1,4,5,6,7,NA,1,"2-6 glasses per day"
-TRUE,"11/7/2023 13:49",24,"Senior student",NA,"Woman",NA,NA,0,"Tap water",1,"Well",5,5,2,4,5,NA,NA,NA,NA,NA,NA,NA,NA,0,"2-6 glasses per day"
-TRUE,"11/7/2023 13:49",25,"Other","Asian","Man","Mostly liberal",NA,NA,"Tap water",1,NA,5,3,5,3,5,NA,NA,NA,NA,NA,NA,NA,"filtering and safety regulations",1,"2-6 glasses per day"
-TRUE,"11/7/2023 13:50",19,"Freshman student","White/Caucasian","Man","Consistently liberal",NA,0,"Tap water",1,NA,5,3,4,5,3,NA,NA,NA,NA,NA,NA,NA,"Using one of those filter things that you put on the tap.",1,"2-6 glasses per day"
-TRUE,"11/7/2023 13:50",23,"Master's student","Asian","Man","Mixed",NA,NA,"Plastic bottled water",1,"Public Supply",4,4,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,"7-12 glasses per"
-TRUE,"11/7/2023 13:50",19,"Freshman student","Black or African American","Woman",NA,NA,0,"Plastic bottled water",1,"Public Supply",NA,NA,NA,NA,NA,1,2,3,5,6,7,4,NA,NA,"2-6 glasses per day"
-TRUE,"11/7/2023 13:50",22,"Other","Hispanic or Latino","Woman","Consistently liberal",NA,0,"Glass bottled/canned/boxed water",1,NA,4,4,4,3,4,5,4,6,3,7,2,1,"I don’t know ",NA,"7-12 glasses per"
-TRUE,"11/7/2023 13:51",23,"Junior student",NA,"Man","Consistently conservative",NA,0,"Plastic bottled water",1,"Public Supply",4,5,2,5,5,1,3,2,7,5,4,6,"Idk ",NA,"7-12 glasses per"
-TRUE,"11/7/2023 13:51",19,"Freshman student","Black or African American","Man","Mostly conservative",NA,0,"Plastic bottled water",0,"Public Supply",5,3,5,3,3,2,4,5,3,6,1,7,"making the taste better ",NA,"2-6 glasses per day"
-TRUE,"11/7/2023 13:51",19,"Freshman student","Black or African American","Man",NA,NA,0,"Plastic bottled water",0,"Public Supply",4,4,4,3,5,1,2,3,6,7,5,4,"if there was more transparency on the subject",NA,"2-6 glasses per day"
-TRUE,"11/7/2023 13:51",20,"Junior student","Asian,White/Caucasian","Man",NA,NA,0,"Plastic bottled water",0,"Well",3,3,3,3,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,"7-12 glasses per"
-TRUE,"11/7/2023 13:51",19,"Sophomore student","White/Caucasian","Woman","Mostly liberal",NA,0,"Plastic bottled water",0,NA,2,2,5,2,2,1,2,3,4,5,6,7,NA,NA,"2-6 glasses per day"
-TRUE,"11/7/2023 13:51",19,"Sophomore student","White/Caucasian","Man","Mostly liberal",NA,0,"Plastic bottled water",1,"Public Supply",4,4,5,4,4,1,2,3,4,5,6,7,NA,NA,"2-6 glasses per day"
-TRUE,"11/7/2023 13:52",21,"Junior student","White/Caucasian","Man","Consistently conservative",NA,0,"Plastic bottled water",0,"Public Supply",2,2,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,"2-6 glasses per day"
-TRUE,"11/7/2023 13:52",19,"Sophomore student","White/Caucasian","Woman","Consistently conservative",NA,0,"Plastic bottled water",0,"Well",1,NA,2,2,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,"7-12 glasses per"
-TRUE,"11/7/2023 13:52",23,"Junior student","White/Caucasian","Woman","Mixed",NA,0,"Glass bottled/canned/boxed water",0,"Well",1,1,4,1,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,"2-6 glasses per day"
-TRUE,"11/7/2023 13:52",21,"Senior student",NA,"Woman",NA,NA,0,"Tap water",0,NA,5,4,5,4,3,5,1,4,3,7,2,6,"I already trust it",0,"Less than 2 glasses per day"
-TRUE,"11/7/2023 13:52",18,"Freshman student",NA,"Woman",NA,NA,0,"Tap water",1,NA,5,3,5,5,5,NA,NA,NA,NA,NA,NA,NA,NA,1,"7-12 glasses per"
-TRUE,"11/7/2023 13:53",19,"Sophomore student","White/Caucasian","Man","Mostly conservative",NA,NA,"Plastic bottled water",0,"Public Supply",5,1,2,2,2,NA,NA,NA,NA,NA,NA,NA,"If there was a filter",NA,"7-12 glasses per"
-TRUE,"11/7/2023 13:53",18,"Freshman student","White/Caucasian","Woman",NA,NA,NA,"Plastic bottled water",0,"Well",3,1,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,"7-12 glasses per"
-TRUE,"11/7/2023 13:53",19,"Sophomore student","Black or African American","Man","Mixed",NA,0,"Plastic bottled water",1,"Public Supply",4,4,5,5,4,NA,NA,NA,NA,NA,NA,NA,"Trusted source with website and information on water",NA,"7-12 glasses per"
-TRUE,"11/7/2023 13:54",24,"Master's student","Asian","Man","Mostly liberal",NA,1,"Plastic bottled water",0,NA,1,3,1,3,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-TRUE,"11/7/2023 13:54",21,"Senior student","Black or African American","Woman",NA,NA,NA,"Plastic bottled water",0,"Public Supply",4,2,5,3,4,3,5,1,6,4,7,2,NA,NA,"13 or more glasses per day"
-TRUE,"11/7/2023 13:55",24,"Master's student","Asian","Woman",NA,NA,0,"Tap water",1,NA,3,3,3,3,4,6,7,1,5,4,2,3,"Just heard it from people in my community",0,"2-6 glasses per day"
-TRUE,"11/7/2023 14:00",18,"Freshman student",NA,"Woman","Mostly liberal",NA,0,"Plastic bottled water",1,"Public Supply",2,5,4,2,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Less than 2 glasses per day"
-TRUE,"11/7/2023 15:14",21,"Senior student","White/Caucasian","Man","Mixed",NA,0,"Tap water",0,"Public Supply",4,3,3,3,4,1,2,4,3,7,6,5,NA,1,"7-12 glasses per"
-TRUE,"11/7/2023 15:39",27,"PhD student","Asian","Man","Other",NA,NA,"Plastic bottled water",1,"Public Supply",3,3,4,3,2,2,5,1,3,6,4,7,"Some time it is the only way to get water",NA,"2-6 glasses per day"
-FALSE,"11/8/2023 8:25",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-FALSE,"11/8/2023 8:34",NA,"Senior student",NA,"Woman",NA,NA,NA,"Plastic bottled water",0,"Public Supply",2,2,4,3,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-FALSE,"11/8/2023 10:00",20,"Junior student","White/Caucasian","Woman","Mostly conservative",NA,0,"Plastic bottled water",0,NA,3,3,5,3,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-FALSE,"11/8/2023 10:03",18,"Freshman student","Black or African American,Hispanic or Latino","Woman",NA,NA,0,"Plastic bottled water",1,NA,4,2,5,3,4,1,7,3,4,6,2,5,NA,NA,NA
-FALSE,"11/8/2023 10:14",19,"Sophomore student","Hispanic or Latino","Man","Mixed",NA,0,"Tap water",1,"Public Supply",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-FALSE,"11/8/2023 10:29",19,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-FALSE,"11/8/2023 10:32",21,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-FALSE,"11/9/2023 12:43",24,"Junior student","Hispanic or Latino","Woman",NA,NA,NA,"Glass bottled/canned/boxed water",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-FALSE,"11/9/2023 12:58",19,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-TRUE,"11/12/2023 8:35",37,"Junior student","Asian","Woman","Mostly liberal",NA,0,"Tap water",0,"Public Supply",5,4,4,5,5,NA,NA,NA,NA,NA,NA,NA,"Source of origin",1,"7-12 glasses per"
-FALSE,"11/14/2023 10:28",67,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-FALSE,"11/14/2023 11:21",22,"Senior student","Black or African American","Man","Mostly liberal",NA,0,"Tap water",1,"Public Supply",3,1,4,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-FALSE,"11/14/2023 11:32",19,"Sophomore student","Asian","Woman",NA,NA,0,"Tap water",1,"Public Supply",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-FALSE,"11/14/2023 11:44",18,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-FALSE,"11/14/2023 11:54",27,"Senior student","Asian",NA,"Mostly liberal",NA,0,"Tap water",0,"Public Supply",5,NA,5,5,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-FALSE,"11/14/2023 12:56",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-FALSE,"11/14/2023 12:57",18,"Freshman student","White/Caucasian","Woman",NA,NA,1,"Tap water",1,"Public Supply",4,5,3,3,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-FALSE,"11/14/2023 13:02",30,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-FALSE,"11/14/2023 13:03",18,"Freshman student","Asian","Man","Mixed",NA,0,"Plastic bottled water",0,"Public Supply",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-FALSE,"11/14/2023 13:05",21,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-FALSE,"11/14/2023 13:06",24,"PhD student","Asian","Woman",NA,NA,NA,"Tap water",NA,"Public Supply",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-FALSE,"11/14/2023 13:08",22,"Senior student","Black or African American","Man","Mixed",NA,0,"Plastic bottled water",1,"Well",5,4,5,4,3,1,5,2,3,4,6,7,NA,NA,NA
-FALSE,"11/14/2023 13:09",19,"Sophomore student","White/Caucasian","Woman","Consistently liberal",NA,NA,"Plastic bottled water",0,"Public Supply",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-FALSE,"11/14/2023 13:11",21,"Senior student","White/Caucasian","Woman","Mostly liberal",NA,1,"Plastic bottled water",1,NA,1,1,2,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-FALSE,"11/14/2023 13:28",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-FALSE,"11/14/2023 13:32",18,"Freshman student","Black or African American","Man","Mixed",NA,NA,"Plastic bottled water",1,"Public Supply",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-FALSE,"11/14/2023 13:33",23,"Master's student","Asian","Woman",NA,NA,NA,"Tap water",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-FALSE,"11/14/2023 13:34",22,"Senior student","Asian","Non-binary",NA,NA,0,"Tap water",0,"Public Supply",4,3,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-FALSE,"11/14/2023 13:34",20,"Junior student","White/Caucasian","Man","Mostly liberal",NA,1,"Tap water",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-FALSE,"11/14/2023 13:35",18,"Freshman student","American Indian or Alaska Native,Black or African American","Woman","Other",NA,NA,"Plastic bottled water",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-FALSE,"11/14/2023 13:40",18,"Freshman student",NA,"Woman","Consistently liberal",NA,0,"Plastic bottled water",0,"Well",4,3,5,3,5,7,6,1,4,3,2,5,NA,NA,NA
-FALSE,"11/14/2023 13:41",20,"Sophomore student","Black or African American","Woman","Consistently liberal",NA,1,"Plastic bottled water",1,"Public Supply",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-FALSE,"11/14/2023 13:46",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-FALSE,"11/14/2023 13:46",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-FALSE,"11/14/2023 13:50",24,"Master's student","Asian","Woman","Consistently conservative",NA,0,"Tap water",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-FALSE,"11/14/2023 14:00",21,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-FALSE,"11/14/2023 14:02",21,"Senior student","Asian,White/Caucasian","Woman","Mostly liberal",NA,NA,"Plastic bottled water",1,"Public Supply",1,4,3,3,5,2,3,1,4,5,7,6,NA,NA,NA
-FALSE,"11/14/2023 15:37",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-FALSE,"11/14/2023 15:46",18,"Freshman student","Hispanic or Latino","Woman",NA,NA,0,"Plastic bottled water",0,"Public Supply",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"complete","date","age","educational_status","gender","political","zipcode","are_drinking_water_issues_present","primary_drinking_source","consistently_uses_waterbottle","home_water_source","home_tap_is_safe","campus_tap_is_safe","bottles_are_safe","trust_in_local_government","choices_influenced_by_quality_in_community","rank_taste","rank_appearance","rank_health","rank_convenience","rank_environment","rank_cost","rank_source","what_would_increase_trust_in_tap","is_tap_filtered","glasses_per_day","White/Caucasian","Black or African American","Hispanic or Latino","Asian","American Indian or Alaska Native","Native Hawaiian or Other Pacific Islander"
+TRUE,"11/1/2023 9:10",18,"Freshman student","Man","Mixed",NA,0,"Tap water",1,"Public Supply",5,2,5,2,3,2,3,1,5,6,7,4,NA,1,"Less than 2 glasses per day",0,0,0,1,0,0
+TRUE,"11/1/2023 9:10",18,"Freshman student","Man","Mixed",NA,0,"Plastic bottled water",1,"Public Supply",3,4,4,3,5,6,2,1,3,5,7,4,"National clean water",NA,"2-6 glasses per day",0,1,0,0,0,0
+TRUE,"11/1/2023 9:12",20,"Junior student","Man","Consistently liberal","02128",0,"Tap water",1,"Public Supply",5,4,5,4,5,4,2,5,6,3,1,7,"Nothin I’m fine with it",1,"2-6 glasses per day",1,0,0,0,0,0
+TRUE,"11/1/2023 9:12",19,"Freshman student","Non-binary","Mixed","02302",NA,"Tap water",1,"Public Supply",3,3,4,3,4,NA,NA,NA,NA,NA,NA,NA,NA,1,"2-6 glasses per day",0,0,0,1,0,0
+TRUE,"11/1/2023 9:15",18,"Freshman student","Woman","Mostly liberal","02054",NA,"Tap water",0,"Public Supply",4,4,5,3,5,3,2,5,1,6,4,7,"Filter ",NA,"7-12 glasses per",0,0,1,0,0,0
+TRUE,"11/1/2023 9:15",18,"Sophomore student",NA,"Consistently conservative","02445",0,"Tap water",0,"Well",3,2,1,4,3,NA,NA,NA,NA,NA,NA,NA,"home",1,"2-6 glasses per day",0,0,0,1,0,0
+TRUE,"11/1/2023 9:17",19,"Sophomore student","Man",NA,"02125",1,"Glass bottled/canned/boxed water",1,"Public Supply",1,3,5,3,3,4,5,3,7,6,1,2,"If they actually purified the water properly",NA,"2-6 glasses per day",1,0,0,0,0,0
+TRUE,"11/1/2023 9:19",26,"Senior student","Man","Mostly liberal","02169",0,"Plastic bottled water",0,"Public Supply",5,3,4,4,2,3,1,2,6,4,5,7,"more government update and testing clarity",NA,"2-6 glasses per day",1,0,0,0,0,0
+TRUE,"11/1/2023 9:20",18,"Freshman student","Woman","Consistently liberal","02130",0,"Plastic bottled water",1,NA,4,1,5,4,4,1,2,3,7,5,4,6,"Knowing where it comes from and what’s in it",NA,"2-6 glasses per day",0,1,0,0,0,0
+TRUE,"11/1/2023 9:22",19,"Freshman student","Woman","Mostly liberal","02122",0,"Tap water",1,"Public Supply",4,4,3,3,2,NA,NA,NA,NA,NA,NA,NA,"Having a filter on the tap ",1,"7-12 glasses per",0,0,1,0,0,0
+TRUE,"11/1/2023 9:22",18,"Freshman student","Man","Consistently liberal","02124",NA,"Tap water",0,"Public Supply",5,5,5,3,2,3,6,4,1,5,2,7,"Maybe if I owned a filter",0,"2-6 glasses per day",1,0,0,0,0,0
+TRUE,"11/1/2023 9:28",18,"Freshman student","Woman","Mixed","02169",NA,"Plastic bottled water",1,NA,3,3,4,3,2,4,5,2,3,6,1,7,"Having a water filter in the tap ",NA,"2-6 glasses per day",0,0,1,0,0,0
+TRUE,"11/1/2023 9:28",20,"Junior student","Woman","Consistently liberal","02769",0,"Tap water",1,NA,4,2,4,3,5,1,2,3,7,6,5,4,"Appearing clear",1,"2-6 glasses per day",0,0,0,1,0,0
+TRUE,"11/1/2023 9:29",19,"Sophomore student","Woman","Mostly liberal","02124",1,"Plastic bottled water",0,"Public Supply",1,1,4,2,4,1,2,5,3,6,4,7,"easy access to water tests ",NA,"2-6 glasses per day",0,0,0,1,0,0
+TRUE,"11/1/2023 9:29",18,"Freshman student","Woman","Consistently liberal",NA,NA,"Tap water",1,"Public Supply",4,4,5,2,5,3,1,4,6,5,2,7,"If people regularly used it in my area ",1,"Less than 2 glasses per day",1,0,0,0,0,0
+TRUE,"11/1/2023 9:30",19,"Sophomore student","Woman","Mostly liberal","02125",NA,"Plastic bottled water",1,"Public Supply",4,3,5,3,5,1,6,2,3,4,5,7,"Nothing I don’t like taste of tap water ",NA,"2-6 glasses per day",0,1,0,0,0,0
+TRUE,"11/1/2023 9:31",26,"Senior student","Woman","Mostly liberal","02368",0,"Glass bottled/canned/boxed water",0,NA,3,2,2,1,5,5,7,4,6,3,1,2,"If I knew where it’s sourced from ",NA,"Less than 2 glasses per day",0,0,1,0,0,0
+TRUE,"11/1/2023 9:32",29,"Freshman student","Woman","Mixed","02180",1,"Plastic bottled water",0,"Well",1,4,5,3,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,"13 or more glasses per day",1,0,0,0,0,0
+TRUE,"11/1/2023 10:36",29,"PhD student","Man","Mostly liberal","02119",1,"Tap water",1,"Public Supply",4,4,4,4,4,5,2,1,4,6,7,3,"More information about the water",0,"7-12 glasses per",0,0,0,0,0,0
+TRUE,"11/1/2023 10:57",26,"Junior student","Man","Mixed","02170",1,"Glass bottled/canned/boxed water",1,"Well",1,2,2,1,5,NA,NA,NA,NA,NA,NA,NA,"idk",NA,"2-6 glasses per day",0,0,0,1,0,0
+TRUE,"11/1/2023 10:58",19,"Freshman student","Woman",NA,"02125",1,"Tap water",0,"Well",5,4,5,5,5,7,2,1,3,6,4,5,"Nothing all I know is don’t drink worcester water",0,"Less than 2 glasses per day",1,1,0,0,0,0
+TRUE,"11/1/2023 10:58",26,"Senior student",NA,"Mostly liberal","02446",0,"Tap water",1,NA,5,4,3,2,3,2,7,5,4,1,3,6,"N/A",1,"2-6 glasses per day",0,0,0,0,1,0
+TRUE,"11/1/2023 10:58",18,"Freshman student","Woman","Mixed","01902",0,"Plastic bottled water",1,NA,4,4,5,4,3,1,2,5,4,6,3,7,"Knowing more about the filtration system ",NA,"2-6 glasses per day",1,0,1,0,0,0
+TRUE,"11/1/2023 10:59",22,"Sophomore student","Woman","Mixed","02125",0,"Plastic bottled water",0,"Well",2,3,5,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,"2-6 glasses per day",0,0,0,1,0,0
+TRUE,"11/1/2023 10:59",22,"Sophomore student","Woman","Consistently conservative","01890",0,"Plastic bottled water",1,"Public Supply",4,3,5,4,4,6,5,1,2,7,4,3,NA,NA,"7-12 glasses per",1,0,0,0,0,0
+TRUE,"11/1/2023 11:02",20,"Junior student","Woman",NA,"02124",0,"Plastic bottled water",0,NA,4,3,5,3,3,2,1,5,6,7,4,3,NA,NA,"2-6 glasses per day",0,0,1,0,0,0
+TRUE,"11/1/2023 11:02",18,"Senior student","Man","Mostly liberal","02125",0,"Tap water",0,"Public Supply",5,4,5,4,3,NA,NA,NA,NA,NA,NA,NA,NA,0,"2-6 glasses per day",1,0,0,0,0,0
+TRUE,"11/1/2023 11:02",23,"Senior student","Woman","Mostly liberal","02125",NA,"Tap water",1,"Public Supply",2,3,3,2,4,3,5,2,6,4,7,1,"Water filter ",1,"Less than 2 glasses per day",0,0,0,1,0,0
+TRUE,"11/1/2023 11:03",19,"Freshman student","Woman",NA,"02149",0,"I don't drink water",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+TRUE,"11/1/2023 11:03",24,"Master's student","Man","Mostly liberal","02125",NA,"Glass bottled/canned/boxed water",1,"Public Supply",2,2,3,2,5,NA,NA,NA,NA,NA,NA,NA,"If the water is filtered at home or properly sealed and comes from a trusted place. ",NA,"2-6 glasses per day",1,0,0,0,0,0
+TRUE,"11/1/2023 11:03",32,"Senior student","Woman","Consistently conservative","02125",0,"Tap water",1,"Well",3,2,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,1,"7-12 glasses per",0,0,0,1,0,0
+TRUE,"11/1/2023 11:05",20,"Junior student","Man","Other","02125",NA,"Tap water",1,"Public Supply",3,3,4,3,4,NA,NA,NA,NA,NA,NA,NA,"A filter, which I use!",1,"2-6 glasses per day",1,0,0,0,0,0
+TRUE,"11/1/2023 11:05",20,"Junior student","Woman",NA,"02125",0,"Plastic bottled water",NA,NA,2,3,3,3,3,2,7,1,5,6,4,3,"I feel like i have a emotional connection to how tap water is gross because you never know what the filtered water has even if people who control the water supply know ",NA,"2-6 glasses per day",0,0,0,1,0,0
+TRUE,"11/1/2023 11:06",21,"Sophomore student","Man",NA,"02301",0,"Plastic bottled water",1,"Public Supply",5,5,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,"13 or more glasses per day",0,0,0,1,0,0
+TRUE,"11/1/2023 11:11",19,"Junior student","Woman","Mostly conservative","02125",1,"Tap water",1,"Public Supply",4,1,5,4,5,3,4,2,5,6,7,1,"The taste and source ",1,"2-6 glasses per day",0,0,1,0,0,0
+TRUE,"11/1/2023 11:12",24,NA,"Man","Mostly liberal","02124",0,"Tap water",0,"Public Supply",4,4,5,3,3,6,4,1,3,5,2,7,NA,1,"2-6 glasses per day",1,0,1,0,0,0
+TRUE,"11/1/2023 11:18",21,"Senior student","Woman",NA,"02124",1,"Plastic bottled water",0,"Well",2,2,4,3,4,4,1,3,2,5,6,7,"Better cleaning service",NA,"Less than 2 glasses per day",0,0,1,0,0,0
+TRUE,"11/1/2023 11:19",18,"Freshman student","Man","Consistently liberal","02184",0,"Plastic bottled water",1,NA,4,3,5,4,2,1,2,3,7,4,6,5,"Knowing where my water comes from.",NA,"2-6 glasses per day",1,0,0,0,0,0
+TRUE,"11/1/2023 11:19",18,"Freshman student","Man","Mixed","02169",1,"Tap water",1,NA,4,3,4,3,4,7,6,1,4,3,2,5,NA,1,"7-12 glasses per",1,0,0,0,0,0
+TRUE,"11/1/2023 11:20",18,"Freshman student","Woman","Mostly liberal","02119",1,"Plastic bottled water",0,"Public Supply",2,4,5,5,4,5,7,1,2,4,3,6,"Verification of several and frequent water quality test from a (preferably federal) third party ",NA,"Less than 2 glasses per day",1,1,0,0,1,0
+TRUE,"11/1/2023 11:22",21,"Sophomore student","Woman",NA,"02072",NA,"Plastic bottled water",1,NA,2,1,5,1,3,2,1,3,5,6,4,7,"A filter",NA,"2-6 glasses per day",0,1,0,0,0,0
+TRUE,"11/1/2023 11:24",18,"Freshman student","Woman","Mixed","02066",1,"Plastic bottled water",0,NA,2,4,5,1,5,1,6,2,4,5,7,3,"If it smelled like it was safe to drink ",NA,"2-6 glasses per day",0,0,1,0,0,0
+TRUE,"11/1/2023 11:24",19,"Sophomore student","Man","Mostly liberal","02125",0,"Plastic bottled water",1,"Public Supply",4,2,5,4,5,1,7,2,4,3,5,6,NA,NA,"7-12 glasses per",0,0,1,0,0,0
+TRUE,"11/1/2023 11:25",18,"Freshman student",NA,"Consistently liberal","02132",1,"Plastic bottled water",0,"Public Supply",2,1,4,3,4,NA,NA,NA,NA,NA,NA,NA,"better taste/color",NA,"2-6 glasses per day",0,0,1,1,0,0
+TRUE,"11/1/2023 11:26",18,"Freshman student","Woman","Consistently liberal","02368",1,"Plastic bottled water",1,"Public Supply",2,3,4,1,4,NA,NA,NA,NA,NA,NA,NA,"Knowing that it comes from a clean source ",NA,"2-6 glasses per day",0,0,0,1,0,0
+TRUE,"11/1/2023 11:26",18,"Freshman student","Non-binary","Consistently liberal","02125",1,"Plastic bottled water",0,"Public Supply",4,2,5,3,5,2,1,3,7,5,4,6,"The look and smell.",NA,"2-6 glasses per day",1,0,0,0,0,0
+TRUE,"11/1/2023 11:26",18,"Freshman student","Woman","Consistently liberal","02360",1,"Plastic bottled water",1,"Public Supply",4,4,4,1,3,4,3,6,1,7,2,5,"If the government didn’t mess with it and just cleaned up a bit more ",NA,"2-6 glasses per day",1,0,0,0,0,0
+TRUE,"11/1/2023 11:26",22,"Junior student","Man","Mostly liberal","02125",0,"Plastic bottled water",1,NA,4,1,5,1,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,"2-6 glasses per day",1,0,0,0,0,0
+TRUE,"11/1/2023 11:27",19,"Sophomore student","Woman","Mostly liberal","02128",0,"Tap water",1,NA,4,4,4,2,4,3,7,1,6,2,4,5,"transperency",1,"7-12 glasses per",1,0,0,0,0,0
+TRUE,"11/1/2023 11:27",21,"Freshman student","Woman","Mixed","02148",NA,"Plastic bottled water",0,NA,2,2,4,2,5,3,5,2,4,6,7,1,"a brita filter ",NA,"2-6 glasses per day",1,0,0,0,0,0
+TRUE,"11/1/2023 11:29",19,"Sophomore student","Woman","Mostly liberal","02128",NA,"Tap water",1,"Public Supply",2,4,5,3,5,4,7,1,3,5,2,6,NA,1,"2-6 glasses per day",1,0,0,0,0,0
+TRUE,"11/1/2023 11:31",18,"Freshman student","Woman",NA,"01702",NA,"Tap water",1,"Public Supply",4,2,5,3,4,2,4,1,3,7,5,6,NA,1,"2-6 glasses per day",1,0,1,0,0,0
+TRUE,"11/1/2023 11:32",18,"Freshman student","Woman",NA,"01970",0,"Glass bottled/canned/boxed water",1,"Well",1,5,4,3,5,NA,NA,NA,NA,NA,NA,NA,"Knowing where it’s coming from and how it taste ",NA,"7-12 glasses per",0,1,0,0,0,0
+TRUE,"11/1/2023 11:34",20,"Sophomore student","Woman",NA,"02125",1,"Tap water",1,"Public Supply",3,3,3,3,1,3,6,7,1,5,2,4,NA,1,"2-6 glasses per day",0,0,0,1,0,0
+TRUE,"11/1/2023 11:40",33,"Master's student","Woman","Consistently liberal","02121",0,"Tap water",1,"Public Supply",5,5,3,5,1,2,7,1,4,5,3,6,NA,0,"Less than 2 glasses per day",0,1,0,0,0,0
+TRUE,"11/1/2023 15:08",18,"Freshman student","Woman",NA,"02170",0,"Plastic bottled water",1,"Public Supply",4,3,4,5,4,NA,NA,NA,NA,NA,NA,NA,"Probably with how the water quality was supplied to the town that I lived at. ",NA,"2-6 glasses per day",0,0,0,1,0,0
+TRUE,"11/1/2023 15:14",32,"PhD student","Woman","Mostly liberal","02113",NA,"Tap water",1,NA,5,5,3,4,2,7,5,6,3,1,2,4,NA,0,"7-12 glasses per",1,0,0,0,0,0
+TRUE,"11/1/2023 15:20",18,"Freshman student","Woman",NA,"02150",0,"Plastic bottled water",1,"Public Supply",3,2,4,3,3,5,2,3,6,1,4,7,"to know if it’s spruce is clean ",NA,"2-6 glasses per day",0,1,0,0,0,0
+TRUE,"11/1/2023 15:21",22,"Senior student","Woman","Mixed","02160",0,"Tap water",1,"Public Supply",4,4,4,3,5,NA,NA,NA,NA,NA,NA,NA,"If I knew more about where it comes from/how it’s filtered without having to look for the information ",1,"7-12 glasses per",1,0,0,1,0,0
+TRUE,"11/1/2023 15:22",28,"Master's student","Woman","Mostly liberal","02124",1,NA,1,"Public Supply",1,3,4,2,5,2,6,1,7,3,4,5,"More frequent and reliable updates on water testing",NA,NA,1,0,0,0,0,0
+TRUE,"11/1/2023 15:26",27,"Master's student","Man",NA,"02125",0,"Tap water",1,"Public Supply",5,5,5,4,3,1,3,7,6,4,2,5,"Frequent water testing by the government and making these tests available to the public",1,"7-12 glasses per",1,0,0,0,0,0
+TRUE,"11/1/2023 16:03",29,"Master's student","Woman","Consistently liberal","02169",NA,"Tap water",1,"Public Supply",4,4,4,4,3,NA,NA,NA,NA,NA,NA,NA,"Knowing the composition of the city's water pipes",0,"2-6 glasses per day",1,0,0,0,0,0
+TRUE,"11/2/2023 13:36",22,"Senior student","Man",NA,"02170",NA,"Plastic bottled water",1,"Public Supply",5,3,5,3,5,3,4,1,5,6,7,2,"The source in which the water is coming from because there is a lot of pollution around our source of water. ",NA,"13 or more glasses per day",0,1,0,0,0,0
+TRUE,"11/2/2023 13:41",20,"Freshman student","Man","Mostly liberal","02148",1,"Glass bottled/canned/boxed water",1,"Public Supply",1,4,4,1,4,NA,NA,NA,NA,NA,NA,NA,"Information about its purity",NA,"13 or more glasses per day",0,0,0,1,0,0
+TRUE,"11/2/2023 13:41",20,"Junior student","Man","Consistently liberal","02302",0,"Plastic bottled water",0,"Well",5,3,5,3,4,6,1,4,2,5,3,7,NA,NA,"2-6 glasses per day",1,0,0,0,0,0
+TRUE,"11/2/2023 13:41",21,"Senior student","Woman","Mostly liberal","02128",0,"Glass bottled/canned/boxed water",1,"Public Supply",1,1,3,1,4,6,4,1,7,3,5,2,"Clean pipes ",NA,"7-12 glasses per",1,1,1,0,1,0
+TRUE,"11/2/2023 13:42",21,"Senior student","Woman","Consistently liberal","01906",NA,"Tap water",1,"Public Supply",5,3,5,3,5,6,2,1,3,7,4,5,"Probably if everyone didn’t bash boston water",1,"7-12 glasses per",1,0,0,0,0,0
+TRUE,"11/2/2023 13:42",24,"Senior student","Man","Mostly liberal","02864",NA,"Plastic bottled water",0,"Public Supply",4,4,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,"2-6 glasses per day",1,1,0,0,0,0
+TRUE,"11/2/2023 13:42",22,NA,"Woman","Mixed","06239",0,"Tap water",1,NA,4,3,4,3,3,NA,NA,NA,NA,NA,NA,NA,NA,0,"2-6 glasses per day",0,0,0,0,0,0
+TRUE,"11/2/2023 13:42",25,"Senior student","Woman","Mostly liberal","02125",NA,"Tap water",1,"Public Supply",4,4,2,1,3,2,1,3,4,6,5,7,"Something easily provided by the government that the water is monitored and safe",1,"Less than 2 glasses per day",1,0,0,0,0,0
+TRUE,"11/2/2023 13:43",18,"Freshman student","Transgender man","Mostly liberal","02125",NA,"Tap water",1,"Public Supply",5,4,4,3,3,3,2,6,5,1,7,4,"If I understood the regulations and knew where it came from",0,"2-6 glasses per day",1,0,0,1,0,0
+TRUE,"11/2/2023 13:43",30,"Master's student","Man","Mostly conservative","02125",NA,"Plastic bottled water",1,"Public Supply",4,2,4,3,5,2,1,3,5,6,4,7,NA,NA,"7-12 glasses per",1,0,0,1,0,0
+TRUE,"11/2/2023 13:43",NA,"Senior student","Man","Mostly conservative","02125",1,"Tap water",0,NA,4,4,4,2,2,NA,NA,NA,NA,NA,NA,NA,NA,1,"7-12 glasses per",1,0,0,0,0,1
+TRUE,"11/2/2023 13:44",21,"Junior student","Man","Mostly liberal","10031",NA,"Plastic bottled water",1,"Public Supply",4,3,4,2,2,5,3,1,2,6,4,7,"If I knew where it was filtered and how consistent the filtration was",NA,"2-6 glasses per day",1,0,0,0,0,0
+TRUE,"11/2/2023 13:44",18,"Sophomore student","Woman","Consistently liberal","02125",NA,"Tap water",1,"Public Supply",4,4,4,3,4,NA,NA,NA,NA,NA,NA,NA,NA,1,"7-12 glasses per",1,0,0,0,0,0
+TRUE,"11/2/2023 13:46",28,"Sophomore student","Man",NA,"02125",NA,"Tap water",1,"Public Supply",3,3,1,2,5,NA,NA,NA,NA,NA,NA,NA,"More available information, also if tap water didn’t taste like chlorine I wouldn’t question it that much",1,"13 or more glasses per day",0,0,0,0,1,0
+TRUE,"11/2/2023 13:49",21,"Senior student","Woman","Mostly conservative","02125",NA,"Plastic bottled water",0,"Public Supply",4,2,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Less than 2 glasses per day",0,0,0,1,0,0
+TRUE,"11/2/2023 13:50",24,"Other","Woman","Mixed","02169",NA,"Tap water",1,"Public Supply",4,4,4,1,4,5,4,1,3,7,2,6,NA,1,"7-12 glasses per",1,0,0,0,0,0
+TRUE,"11/2/2023 13:52",23,"Junior student","Woman","Mixed","01801",NA,"Plastic bottled water",0,NA,1,1,5,3,3,NA,NA,NA,NA,NA,NA,NA,"I don’t know ",NA,"2-6 glasses per day",0,0,1,0,0,0
+TRUE,"11/3/2023 15:02",27,"PhD student","Man","Consistently liberal","02360",0,"Tap water",1,"Public Supply",5,4,4,4,3,4,3,1,6,5,2,7,"Distributed water quality tests ",0,"7-12 glasses per",1,0,0,0,0,0
+TRUE,"11/5/2023 14:34",23,"Senior student","Woman","Consistently liberal","02119",0,"Plastic bottled water",1,"Public Supply",4,4,4,4,4,1,4,3,2,5,7,6,"Maybe more (accurate) statistics about the tap water.",NA,"2-6 glasses per day",0,0,0,1,0,0
+TRUE,"11/6/2023 10:45",17,NA,NA,NA,"02150",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+TRUE,"11/6/2023 10:45",21,"Junior student","Woman","Consistently liberal","01585",NA,"Plastic bottled water",1,"Public Supply",3,4,4,1,4,2,5,1,6,7,3,4,NA,NA,"7-12 glasses per",0,0,1,0,0,0
+TRUE,"11/6/2023 10:46",28,"Senior student","Man","Mostly liberal","02302",1,"Tap water",1,"Public Supply",4,5,5,5,4,7,5,1,3,4,2,6,"Less carcinogens ",1,"7-12 glasses per",1,0,0,0,0,0
+TRUE,"11/6/2023 10:46",18,"Freshman student","Man","Mostly conservative","02150",1,"Plastic bottled water",1,"Public Supply",4,4,5,4,5,2,1,3,4,6,5,7,"Better filtration process",NA,"7-12 glasses per",0,0,0,1,0,0
+TRUE,"11/6/2023 10:47",18,"Freshman student","Woman","Mixed","01923",1,"Plastic bottled water",0,"Public Supply",1,2,4,3,3,5,6,1,7,3,4,2,"Data",NA,"7-12 glasses per",0,0,0,1,0,0
+TRUE,"11/6/2023 10:50",18,"Freshman student","Woman",NA,"02125",NA,"Plastic bottled water",0,NA,4,3,5,4,5,1,6,3,2,4,5,7,"proof it’s filtered, tastes good",NA,"7-12 glasses per",0,0,0,0,0,0
+TRUE,"11/6/2023 10:50",19,"Freshman student","Woman","Consistently liberal","02066",NA,"Tap water",1,NA,3,3,4,3,4,5,2,1,3,4,7,6,NA,1,"2-6 glasses per day",0,0,1,0,0,0
+TRUE,"11/6/2023 10:52",19,"Sophomore student","Woman","Other","02125",0,"Plastic bottled water",NA,"Public Supply",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Less than 2 glasses per day",0,0,0,1,0,0
+TRUE,"11/6/2023 10:55",18,"Freshman student","Woman","Consistently liberal","02747",0,"Plastic bottled water",1,NA,2,3,5,4,5,3,5,6,2,4,1,7,"If there was more accessible information confirming the safer of tape water.",NA,"2-6 glasses per day",0,0,0,1,0,0
+TRUE,"11/6/2023 11:06",22,"Master's student","Man","Mixed","02121",0,"Tap water",1,"Public Supply",5,4,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,"2-6 glasses per day",1,0,0,0,0,0
+TRUE,"11/6/2023 11:07",26,"Master's student","Man","Mostly liberal","02021",NA,"Plastic bottled water",0,"Public Supply",2,2,4,2,5,1,2,3,6,4,7,5,"Better Taste, transparency and information on the quality",NA,"7-12 glasses per",1,0,0,0,0,0
+TRUE,"11/6/2023 11:14",25,"PhD student","Woman","Mostly liberal","02155",0,"Plastic bottled water",0,NA,5,5,4,5,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,"2-6 glasses per day",1,0,0,0,0,0
+TRUE,"11/6/2023 11:14",36,"PhD student","Woman","Mostly liberal","02125",NA,"Tap water",1,"Public Supply",4,NA,4,2,2,1,4,2,5,6,7,3,"Nothing ",1,"2-6 glasses per day",0,1,0,0,0,0
+TRUE,"11/6/2023 11:15",29,"PhD student","Woman","Other","02125",1,"Plastic bottled water",1,NA,5,5,5,5,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,"7-12 glasses per",1,0,0,0,0,0
+TRUE,"11/6/2023 11:19",44,"PhD student","Man",NA,"02125",0,"Plastic bottled water",0,"Public Supply",4,2,5,2,5,3,4,2,5,6,7,1,"More information about the oh balance and chemical makeup. How does it compare empirically to bottled water especially natural spring water not purified water!   ",NA,"2-6 glasses per day",1,0,0,0,0,0
+TRUE,"11/6/2023 11:40",34,"PhD student","Man","Mostly liberal","02186",0,"Tap water",0,"Public Supply",4,4,4,3,3,NA,NA,NA,NA,NA,NA,NA,"Health ",1,"2-6 glasses per day",0,0,0,1,0,0
+TRUE,"11/6/2023 20:29",25,"Master's student","Woman","Mixed","02171",1,"Tap water",0,"Public Supply",4,5,5,4,4,NA,NA,NA,NA,NA,NA,NA,NA,1,"7-12 glasses per",0,0,0,1,0,0
+TRUE,"11/6/2023 20:34",24,"Master's student","Woman",NA,"02116",NA,"Tap water",1,"Public Supply",4,4,5,4,5,NA,NA,NA,NA,NA,NA,NA,"An announcement from an official body that it's safe to drink. ",0,"7-12 glasses per",0,0,0,1,0,0
+TRUE,"11/6/2023 20:38",25,"Master's student","Woman","Mostly liberal","02125",0,"Tap water",1,"Public Supply",4,4,4,4,4,NA,NA,NA,NA,NA,NA,NA,"Taste, color",1,"2-6 glasses per day",0,0,0,1,0,0
+TRUE,"11/6/2023 20:39",24,"Other","Transgender woman","Mostly conservative","02125",0,"Plastic bottled water",0,"Public Supply",1,1,5,3,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,"13 or more glasses per day",0,1,0,0,0,0
+TRUE,"11/6/2023 20:42",25,"Master's student","Man",NA,"02125",0,"Tap water",0,"Public Supply",4,4,5,4,4,1,2,3,4,5,6,7,NA,1,"13 or more glasses per day",0,0,0,1,0,0
+TRUE,"11/6/2023 21:23",28,"Master's student","Man","Mixed","02171",1,"Tap water",1,"Public Supply",5,5,4,5,5,2,3,1,4,5,7,6,NA,1,"13 or more glasses per day",0,0,0,1,0,0
+TRUE,"11/6/2023 21:31",21,"Senior student","Man","Mixed","02128",0,"Tap water",0,"Public Supply",4,3,3,4,4,5,3,1,4,2,7,6,"Water filters ",1,"13 or more glasses per day",0,0,0,1,0,0
+TRUE,"11/6/2023 21:49",27,"Master's student","Man",NA,"02148",1,"Tap water",1,NA,3,3,3,3,3,4,7,5,2,1,3,6,NA,1,"7-12 glasses per",0,0,0,0,0,0
+TRUE,"11/6/2023 22:05",24,"Master's student","Man","Mixed","02125",0,"Tap water",0,"Public Supply",4,4,4,3,4,1,2,3,5,6,4,7,NA,1,"7-12 glasses per",0,0,0,1,0,0
+TRUE,"11/7/2023 11:21",22,"Junior student","Man","Mixed","02125",NA,"Plastic bottled water",0,"Public Supply",2,1,4,4,4,1,7,3,4,6,5,2,"Nothing",NA,"7-12 glasses per",0,1,0,0,0,0
+TRUE,"11/7/2023 11:29",20,"Sophomore student","Woman","Mostly liberal","02125",NA,"Tap water",1,"Public Supply",4,4,5,2,5,NA,NA,NA,NA,NA,NA,NA,"knowing if it’s safe to drink ",1,"7-12 glasses per",1,0,0,0,0,0
+TRUE,"11/7/2023 11:30",20,"Sophomore student","Woman",NA,"02420",1,"Plastic bottled water",1,"Public Supply",2,1,5,3,4,1,7,4,2,5,3,6,NA,NA,"7-12 glasses per",0,0,0,1,0,0
+TRUE,"11/7/2023 11:32",20,"Sophomore student","Non-binary","Mostly liberal","01835",0,"Tap water",0,"Public Supply",5,3,4,3,5,6,4,3,2,5,1,7,NA,0,NA,1,0,0,0,0,0
+TRUE,"11/7/2023 11:34",19,"Freshman student","Man","Mixed","02145",0,"Plastic bottled water",1,NA,4,3,5,5,5,2,6,3,4,7,1,5,"Taste better ",NA,"2-6 glasses per day",0,1,0,0,0,0
+TRUE,"11/7/2023 11:34",21,"Junior student","Woman","Mostly liberal","02125",1,"Plastic bottled water",1,"Public Supply",4,4,4,2,3,NA,NA,NA,NA,NA,NA,NA,"Knowing it’s regularly getting tested ",NA,"2-6 glasses per day",0,0,1,0,0,0
+TRUE,"11/7/2023 11:35",20,"Junior student","Woman",NA,"02169",0,"Tap water",0,"Public Supply",4,NA,4,NA,3,NA,NA,NA,NA,NA,NA,NA,"Filteration",1,"2-6 glasses per day",0,1,0,0,0,0
+TRUE,"11/7/2023 11:45",18,"Freshman student","Woman",NA,"02125",0,"Plastic bottled water",1,"Well",5,3,5,3,3,NA,NA,NA,NA,NA,NA,NA,"Color is clear",NA,"2-6 glasses per day",0,0,0,1,0,0
+TRUE,"11/7/2023 11:48",19,"Freshman student","Man","Mixed","02421",NA,"Plastic bottled water",1,NA,4,4,5,3,3,2,1,3,5,6,7,4,NA,NA,"2-6 glasses per day",0,0,0,1,0,0
+TRUE,"11/7/2023 11:50",19,"Sophomore student","Woman","Mostly liberal","02368",0,"Glass bottled/canned/boxed water",1,NA,4,4,5,3,3,2,1,3,5,7,6,4,"Seeing facts ",NA,"2-6 glasses per day",0,1,0,0,0,0
+TRUE,"11/7/2023 11:50",22,"Senior student","Woman",NA,"02135",NA,"Tap water",1,"Public Supply",3,3,3,1,2,NA,NA,NA,NA,NA,NA,NA,"if i actually knew how ( or if ) it was treated. ",0,"2-6 glasses per day",1,0,1,0,0,0
+TRUE,"11/7/2023 11:50",19,"Sophomore student","Man","Mixed","02125",0,"Tap water",1,"Public Supply",3,2,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,1,"7-12 glasses per",0,0,0,1,0,0
+TRUE,"11/7/2023 11:51",27,"Sophomore student","Woman","Mostly liberal","02169",1,"Tap water",1,"Public Supply",2,4,5,1,5,NA,NA,NA,NA,NA,NA,NA,NA,1,"7-12 glasses per",1,0,0,0,0,0
+TRUE,"11/7/2023 11:51",19,"Sophomore student","Woman","Mixed","02125",0,"Plastic bottled water",1,"Public Supply",2,1,5,4,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,"2-6 glasses per day",0,0,0,1,0,0
+TRUE,"11/7/2023 11:53",22,"Junior student","Woman","Consistently liberal","01833",NA,"Plastic bottled water",1,"Public Supply",4,2,4,1,4,1,6,2,3,4,5,7,"Officials being transparent about water safety ",NA,"2-6 glasses per day",1,0,0,0,0,0
+TRUE,"11/7/2023 11:54",24,"Junior student","Man","Mostly liberal","02062",NA,"Tap water",0,"Public Supply",4,3,4,4,3,2,3,1,4,6,5,7,"A guarantee that it’s safe",1,"7-12 glasses per",0,1,0,0,0,0
+TRUE,"11/7/2023 11:54",21,"Senior student","Woman","Mostly liberal","19073",0,"Tap water",1,"Public Supply",4,3,5,5,4,1,2,3,6,4,5,7,NA,1,"7-12 glasses per",1,0,0,0,0,0
+TRUE,"11/7/2023 11:54",21,"Senior student","Woman","Mostly liberal","02145",0,"Tap water",1,"Public Supply",3,4,5,4,4,5,7,3,4,1,6,2,NA,1,"13 or more glasses per day",1,0,0,0,0,0
+TRUE,"11/7/2023 12:08",19,"Freshman student","Man","Consistently liberal","02184",NA,"Tap water",1,"Public Supply",3,3,5,3,4,3,4,5,1,6,2,7,"More communication ",1,"2-6 glasses per day",1,0,0,0,0,0
+TRUE,"11/7/2023 12:31",20,"Freshman student","Non-binary","Consistently liberal","02125",1,"Plastic bottled water",1,"Public Supply",4,3,5,4,4,1,3,2,5,6,4,7,NA,NA,"Less than 2 glasses per day",1,0,0,0,0,0
+TRUE,"11/7/2023 12:56",18,"Freshman student","Woman",NA,"02125",NA,"Plastic bottled water",0,"Public Supply",2,3,5,3,4,NA,NA,NA,NA,NA,NA,NA,"i don’t really trust it",NA,"2-6 glasses per day",0,0,1,0,0,0
+TRUE,"11/7/2023 12:58",19,"Junior student","Man","Mixed","02143",0,"Tap water",0,NA,5,5,4,5,4,NA,NA,NA,NA,NA,NA,NA,NA,0,"7-12 glasses per",0,0,0,1,0,0
+TRUE,"11/7/2023 12:58",25,"Junior student","Non-binary","Other","01519",1,"Tap water",1,"Public Supply",2,2,1,3,3,NA,NA,NA,NA,NA,NA,NA,NA,1,"2-6 glasses per day",0,0,0,0,0,0
+TRUE,"11/7/2023 12:58",18,"Sophomore student","Woman",NA,"02145",0,"Tap water",1,NA,4,4,5,3,5,NA,NA,NA,NA,NA,NA,NA,"Heavy filtering ",1,"2-6 glasses per day",0,1,0,0,0,0
+TRUE,"11/7/2023 12:59",20,"Junior student","Woman","Consistently liberal","02125",0,"Glass bottled/canned/boxed water",0,"Well",4,2,3,2,5,3,4,1,6,2,5,7,"knowing that it’s impact was environmentally sound and that it is healthy for me",NA,"Less than 2 glasses per day",1,0,0,0,0,0
+TRUE,"11/7/2023 13:03",25,"PhD student","Woman","Other","02171",NA,"Plastic bottled water",1,NA,5,1,5,3,5,3,6,1,4,7,5,2,"Transparency from government organizations ",NA,"7-12 glasses per",0,1,0,0,0,0
+TRUE,"11/7/2023 13:03",26,"PhD student","Woman","Mostly liberal","02141",NA,"Tap water",1,"Public Supply",4,2,4,3,5,2,4,1,5,6,7,3,"If it was filtered and certified",1,"13 or more glasses per day",1,0,0,0,0,0
+TRUE,"11/7/2023 13:05",18,"Freshman student","Woman","Consistently liberal","02184",NA,"Tap water",1,"Public Supply",4,3,4,2,4,NA,NA,NA,NA,NA,NA,NA,"Not sure ",1,"2-6 glasses per day",0,0,1,0,0,0
+TRUE,"11/7/2023 13:05",22,"Junior student","Man","Mixed","02021",NA,"Tap water",1,"Public Supply",4,5,3,2,5,1,6,5,2,4,3,7,"Understanding the plumbing in an apartment/city",1,"7-12 glasses per",1,0,0,0,0,0
+TRUE,"11/7/2023 13:06",29,"Senior student","Woman","Consistently liberal","02148",0,"Plastic bottled water",0,"Public Supply",5,1,3,4,5,3,2,1,5,4,6,7,"More filters more information on the water supply ",NA,"2-6 glasses per day",1,0,0,0,0,0
+TRUE,"11/7/2023 13:07",19,"Sophomore student","Woman",NA,"02382",NA,"Plastic bottled water",0,"Public Supply",2,3,4,1,5,1,6,2,3,5,4,7,"if it tasted better",NA,"7-12 glasses per",0,1,0,0,0,0
+TRUE,"11/7/2023 13:07",35,"PhD student","Woman","Mixed","02134",0,"Tap water",0,"Public Supply",4,4,1,3,3,NA,NA,NA,NA,NA,NA,NA,"Constant analytical analysis",0,"2-6 glasses per day",0,0,0,0,0,0
+TRUE,"11/7/2023 13:07",31,"Master's student","Man","Consistently liberal","02062",0,"Tap water",0,"Public Supply",4,4,2,3,3,5,7,1,4,2,3,6,"Testing ph and minerals content by myself",1,"7-12 glasses per",0,0,1,0,0,0
+TRUE,"11/7/2023 13:07",19,"Sophomore student","Woman","Mostly liberal","02333",1,"Plastic bottled water",0,"Public Supply",4,3,2,3,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,"7-12 glasses per",0,1,0,0,0,0
+TRUE,"11/7/2023 13:08",18,"Freshman student","Woman","Mostly liberal","02125",NA,"Plastic bottled water",1,"Public Supply",5,5,5,4,4,3,7,2,5,4,1,6,"Research papers from outside/nonbiased sources reporting on the quality ",NA,"2-6 glasses per day",1,0,1,0,0,0
+TRUE,"11/7/2023 13:08",19,"Sophomore student","Woman","Consistently liberal","02125",NA,"Plastic bottled water",0,"Well",3,3,4,4,4,1,6,2,3,7,5,4,"If I read information on it",NA,"2-6 glasses per day",0,1,0,0,0,0
+TRUE,"11/7/2023 13:09",23,"Senior student","Woman","Mixed","02142",1,"Tap water",1,"Public Supply",4,4,4,3,5,5,4,3,1,6,2,7,"Cause of society norm",1,"2-6 glasses per day",0,0,0,1,0,0
+TRUE,"11/7/2023 13:10",20,"Junior student","Woman","Mostly liberal","02169",0,"Tap water",1,NA,5,4,4,3,4,7,4,3,5,2,6,1,"If I knew exactly where the water was coming from and how it was purified. ",1,"2-6 glasses per day",1,0,0,0,0,0
+TRUE,"11/7/2023 13:10",27,"PhD student","Man","Mostly liberal","02132",NA,"Tap water",1,NA,5,5,3,5,3,5,1,4,2,7,3,6,"More conclusive data on harms of contaminants",0,"7-12 glasses per",0,0,0,1,0,0
+TRUE,"11/7/2023 13:12",36,"PhD student","Woman","Mostly liberal","02125",0,"Tap water",1,"Public Supply",4,4,3,2,4,NA,NA,NA,NA,NA,NA,NA,NA,1,"2-6 glasses per day",0,0,0,0,0,0
+TRUE,"11/7/2023 13:14",30,"PhD student","Man",NA,"02118",0,"Plastic bottled water",0,"Well",1,4,4,3,2,5,6,1,7,3,4,2,NA,NA,"7-12 glasses per",0,0,0,1,0,0
+TRUE,"11/7/2023 13:15",19,"Sophomore student","Woman","Mostly liberal","02151",NA,"Plastic bottled water",0,"Well",4,4,5,4,4,1,5,7,4,6,2,3,"Make sure there’s healthy Montreal’s ",NA,"7-12 glasses per",0,1,0,0,0,0
+TRUE,"11/7/2023 13:19",20,"Junior student","Genderfluid","Consistently liberal","02072",NA,"Tap water",1,"Public Supply",4,4,5,3,4,6,1,2,3,5,4,7,NA,1,"Less than 2 glasses per day",1,0,0,0,0,0
+TRUE,"11/7/2023 13:21",36,"Other","Non-binary","Mostly liberal","02150",NA,"Tap water",1,"Public Supply",4,2,4,3,4,1,7,3,4,2,5,6,"I have always filtered my tap water. It’s a habit now.",1,"Less than 2 glasses per day",1,0,0,1,0,0
+TRUE,"11/7/2023 13:22",26,"Senior student","Man","Mixed","02121",1,NA,1,"Public Supply",1,3,2,3,5,NA,NA,NA,NA,NA,NA,NA,"Yearly results of water treatment",NA,NA,0,0,1,0,0,0
+TRUE,"11/7/2023 13:24",25,"Senior student","Man","Mixed","02189",0,"Plastic bottled water",0,"Public Supply",4,5,4,5,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,"2-6 glasses per day",0,1,0,0,0,0
+TRUE,"11/7/2023 13:29",20,"Junior student","Man","Mixed","02132",0,"Plastic bottled water",0,"Public Supply",3,3,3,3,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,"13 or more glasses per day",0,0,0,1,0,0
+TRUE,"11/7/2023 13:30",22,"Senior student","Woman","Consistently liberal","02143",1,"Tap water",0,NA,2,4,4,2,3,7,3,4,1,6,2,5,NA,1,"Less than 2 glasses per day",1,0,1,0,0,0
+TRUE,"11/7/2023 13:31",22,"Junior student","Man","Mostly liberal","02184",0,"Tap water",1,"Public Supply",4,5,4,4,5,3,2,1,7,4,5,6,"Knowing the origin / statistics",1,"2-6 glasses per day",1,0,0,0,0,0
+TRUE,"11/7/2023 13:31",19,"Sophomore student","Woman","Mostly liberal","02121",NA,"Glass bottled/canned/boxed water",1,"Public Supply",4,4,3,2,3,NA,NA,NA,NA,NA,NA,NA,"N/A already trust ",NA,"7-12 glasses per",1,0,0,0,0,0
+TRUE,"11/7/2023 13:31",21,"Senior student","Woman","Mostly liberal","02125",NA,"Tap water",1,"Public Supply",2,4,5,3,4,7,5,1,4,6,3,2,NA,1,"2-6 glasses per day",1,0,0,0,0,0
+TRUE,"11/7/2023 13:32",22,"Junior student","Genderfluid","Consistently liberal","02176",1,"Tap water",1,"Public Supply",4,4,1,1,2,NA,NA,NA,NA,NA,NA,NA,"reliable filters installed and advertised on fountains/taps ",1,"2-6 glasses per day",1,0,0,0,0,0
+TRUE,"11/7/2023 13:32",28,"Senior student","Woman","Consistently liberal","02148",0,"Tap water",1,"Public Supply",4,3,4,4,4,2,1,3,4,7,6,5,"Evidence that it is non contaminated ",0,"2-6 glasses per day",1,0,0,0,0,0
+TRUE,"11/7/2023 13:32",21,"Senior student","Man","Mostly liberal","02472",1,"Plastic bottled water",1,"Public Supply",2,4,4,2,5,4,3,1,7,6,5,2,"Better filtering systems ",NA,"7-12 glasses per",1,0,0,0,0,0
+TRUE,"11/7/2023 13:32",20,"Sophomore student","Man","Other","01430",NA,"Glass bottled/canned/boxed water",1,NA,3,3,4,2,4,1,2,3,4,5,6,7,NA,NA,"2-6 glasses per day",0,1,0,0,0,0
+TRUE,"11/7/2023 13:32",20,"Sophomore student","Man",NA,"02148",0,"Plastic bottled water",1,"Public Supply",2,2,5,2,5,1,2,3,4,5,6,7,NA,NA,"Less than 2 glasses per day",0,1,0,0,0,0
+TRUE,"11/7/2023 13:32",23,"Junior student","Man","Mostly liberal","02038",0,"Tap water",0,"Public Supply",4,5,5,4,5,6,1,3,2,5,4,7,"Public metrics vs bottled water or other sources of water ",0,"7-12 glasses per",1,0,0,0,0,0
+TRUE,"11/7/2023 13:33",22,"Senior student","Woman",NA,"02125",NA,"Plastic bottled water",1,"Public Supply",1,1,3,1,5,NA,NA,NA,NA,NA,NA,NA,"Knowing where the water is coming from",NA,"2-6 glasses per day",0,1,0,0,0,0
+TRUE,"11/7/2023 13:33",NA,"Sophomore student",NA,"Mixed","02125",NA,"Plastic bottled water",0,NA,5,5,3,3,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,"7-12 glasses per",0,0,0,0,0,0
+TRUE,"11/7/2023 13:33",18,"Freshman student","Man",NA,"02122",0,"Tap water",1,"Well",5,4,5,5,5,3,4,6,5,7,1,2,"More actual recordings on it",0,"2-6 glasses per day",0,0,1,0,0,0
+TRUE,"11/7/2023 13:33",26,NA,"Man",NA,"02124",NA,"Tap water",1,NA,3,3,3,3,3,NA,NA,NA,NA,NA,NA,NA,"Maybe ",1,"2-6 glasses per day",0,0,0,1,0,0
+TRUE,"11/7/2023 13:33",20,"Junior student","Non-binary","Mostly liberal","02171",0,"Plastic bottled water",1,"Public Supply",5,4,5,3,5,3,1,2,7,5,6,4,"more filters in public supply",NA,"7-12 glasses per",1,0,0,0,0,0
+TRUE,"11/7/2023 13:33",21,"Senior student","Woman","Mostly liberal","02150",0,"Tap water",1,"Public Supply",4,4,2,4,5,NA,NA,NA,NA,NA,NA,NA,NA,0,"2-6 glasses per day",0,0,0,1,0,0
+TRUE,"11/7/2023 13:34",21,"Senior student","Man","Mostly liberal","02135",0,"Plastic bottled water",1,"Public Supply",4,4,5,5,4,1,7,4,6,3,2,5,NA,NA,"2-6 glasses per day",1,0,1,0,0,0
+TRUE,"11/7/2023 13:34",21,"Senior student","Woman","Consistently liberal",NA,0,"Plastic bottled water",1,"Public Supply",5,4,4,3,4,1,2,3,4,5,6,7,"if we know where it’s coming from exactly and be able to rely on whose telling us as well",NA,"2-6 glasses per day",0,0,1,0,0,0
+TRUE,"11/7/2023 13:35",19,"Freshman student","Woman","Mixed",NA,NA,"Tap water",1,"Public Supply",2,5,5,1,4,2,1,3,4,7,5,6,"If it tasted like purified water ",1,"7-12 glasses per",1,0,0,0,0,0
+TRUE,"11/7/2023 13:35",23,"Junior student","Man","Mostly liberal",NA,NA,"Tap water",1,"Public Supply",4,4,4,4,4,NA,NA,NA,NA,NA,NA,NA,"Awareness of where the water is coming from and how it’s filtered ",1,"2-6 glasses per day",0,0,0,1,0,0
+TRUE,"11/7/2023 13:35",22,"Senior student","Man","Mostly liberal",NA,0,"Plastic bottled water",1,"Public Supply",5,3,5,3,5,NA,NA,NA,NA,NA,NA,NA,"If it were ph tested on a weekly basis ",NA,"2-6 glasses per day",1,0,1,0,0,0
+TRUE,"11/7/2023 13:35",20,"Junior student","Man",NA,NA,1,"Tap water",1,"Public Supply",4,4,1,1,5,3,2,1,5,7,4,6,"Campaigns to swap out entire drinking water piping systems. The prevalence of lead in our drinking pipes historically has forever altered my trust ",1,"7-12 glasses per",1,1,0,0,0,0
+TRUE,"11/7/2023 13:35",19,"Freshman student","Woman",NA,NA,0,"Tap water",1,NA,5,4,5,4,4,NA,NA,NA,NA,NA,NA,NA,NA,1,"7-12 glasses per",0,0,0,1,0,0
+TRUE,"11/7/2023 13:35",19,"Sophomore student","Woman","Mostly liberal",NA,0,"Plastic bottled water",0,"Public Supply",4,3,5,4,3,4,6,2,5,3,7,1,"a filter ",NA,"Less than 2 glasses per day",0,0,0,1,0,0
+TRUE,"11/7/2023 13:35",18,"Freshman student","Man","Mostly liberal",NA,NA,"Tap water",1,"Public Supply",5,3,4,2,4,3,1,2,7,5,6,4,"if more information was given on the safety of tap water in my area",0,"2-6 glasses per day",0,1,0,0,0,0
+TRUE,"11/7/2023 13:35",33,"Senior student","Woman","Consistently liberal",NA,1,"Plastic bottled water",1,"Well",2,5,4,2,5,NA,NA,NA,NA,NA,NA,NA,"Stricter water laws",NA,"7-12 glasses per",1,0,0,0,0,0
+TRUE,"11/7/2023 13:35",21,"Freshman student","Man","Mostly conservative",NA,NA,"Tap water",1,"Public Supply",5,5,5,5,5,5,6,3,1,7,2,4,NA,1,"7-12 glasses per",1,0,0,0,0,0
+TRUE,"11/7/2023 13:36",20,"Junior student","Woman","Consistently liberal",NA,0,"Tap water",1,"Public Supply",5,4,3,5,2,1,6,3,4,2,5,7,NA,1,"7-12 glasses per",1,0,0,0,0,0
+TRUE,"11/7/2023 13:36",19,"Freshman student","Woman","Mostly liberal",NA,0,"Tap water",1,NA,5,5,5,4,4,3,5,1,2,6,7,4,NA,1,"7-12 glasses per",1,0,0,0,0,0
+TRUE,"11/7/2023 13:36",19,"Sophomore student","Woman",NA,NA,NA,"Plastic bottled water",1,NA,1,1,4,3,5,2,3,4,6,7,5,1,"accurate testing of water ",NA,"2-6 glasses per day",0,0,0,1,0,0
+TRUE,"11/7/2023 13:36",26,"Junior student","Woman","Consistently liberal",NA,1,"Tap water",1,"Public Supply",4,4,4,2,4,5,1,2,6,4,7,3,"Knowing the quality of the pipes and what’s added to the water ",1,"13 or more glasses per day",1,0,0,0,0,0
+TRUE,"11/7/2023 13:37",18,"Freshman student","Woman",NA,NA,0,"Plastic bottled water",1,NA,3,3,5,3,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,"2-6 glasses per day",0,0,0,1,0,0
+TRUE,"11/7/2023 13:37",18,"Freshman student","Woman",NA,NA,NA,"Plastic bottled water",0,NA,1,1,5,3,5,2,4,1,3,5,6,7,"n/A",NA,"2-6 glasses per day",1,0,1,0,0,0
+TRUE,"11/7/2023 13:37",19,"Freshman student","Woman","Mixed",NA,1,"Plastic bottled water",1,"Well",2,3,4,4,3,4,5,3,2,6,7,1,"Information ",NA,"7-12 glasses per",1,0,0,0,0,0
+TRUE,"11/7/2023 13:37",18,"Freshman student","Woman","Mostly liberal",NA,1,"Glass bottled/canned/boxed water",1,"Public Supply",2,1,4,3,5,1,2,4,6,5,3,7,"Filters. ",NA,"7-12 glasses per",1,0,0,0,0,0
+TRUE,"11/7/2023 13:37",18,"Freshman student","Woman","Mostly liberal",NA,1,"Plastic bottled water",0,NA,4,1,4,4,5,3,7,5,1,2,4,6,"idk",NA,"2-6 glasses per day",1,0,0,0,0,0
+TRUE,"11/7/2023 13:37",21,"Junior student","Woman","Consistently liberal",NA,0,"Plastic bottled water",1,"Public Supply",4,3,5,3,5,3,4,1,5,6,7,2,"If there were zero risk of lead poisoning from the pipes",NA,"2-6 glasses per day",1,0,0,0,0,0
+TRUE,"11/7/2023 13:38",30,"Senior student","Man","Consistently liberal",NA,1,"Tap water",1,"Public Supply",4,5,5,4,3,NA,NA,NA,NA,NA,NA,NA,"Monthly reports",1,"2-6 glasses per day",1,0,0,0,0,0
+TRUE,"11/7/2023 13:38",40,"Master's student","Man","Mostly conservative",NA,0,"Tap water",1,"Public Supply",4,3,4,4,3,1,7,4,2,5,6,3,NA,1,"2-6 glasses per day",0,0,0,1,0,0
+TRUE,"11/7/2023 13:39",18,"Sophomore student","Man","Mixed",NA,0,"Tap water",1,"Well",4,4,4,3,2,2,3,1,7,5,4,6,"Knowing more about the quality and process the water takes before it reaches my house",NA,"7-12 glasses per",1,0,0,0,0,0
+TRUE,"11/7/2023 13:39",21,"Senior student","Woman","Mostly liberal",NA,0,"Tap water",1,NA,4,1,5,4,4,3,1,4,2,6,7,5,NA,1,"2-6 glasses per day",1,0,0,0,0,0
+TRUE,"11/7/2023 13:39",20,"Sophomore student","Woman","Mostly liberal",NA,0,"Tap water",1,"Public Supply",3,2,2,3,3,NA,NA,NA,NA,NA,NA,NA,NA,1,"2-6 glasses per day",0,0,0,1,0,0
+TRUE,"11/7/2023 13:40",34,"Master's student","Man","Mixed",NA,NA,"Tap water",0,"Public Supply",5,5,5,4,2,2,5,3,1,7,4,6,"Brita",0,"7-12 glasses per",1,0,1,0,0,0
+TRUE,"11/7/2023 13:40",20,"Junior student","Woman","Mixed",NA,NA,"Plastic bottled water",0,"Well",2,1,2,1,4,4,2,3,6,5,7,1,"if we were provided with proper water filters for all sinks in the home including the filter for the showers ",NA,"Less than 2 glasses per day",0,1,0,0,0,0
+TRUE,"11/7/2023 13:40",18,"Freshman student","Transgender man",NA,NA,0,"Glass bottled/canned/boxed water",1,"Public Supply",4,4,5,2,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,"7-12 glasses per",0,0,0,1,0,0
+TRUE,"11/7/2023 13:40",19,"Sophomore student","Woman","Mostly liberal",NA,0,"Plastic bottled water",0,NA,5,3,4,3,3,2,1,5,3,6,4,7,"Filtering it",NA,"2-6 glasses per day",0,0,0,1,0,0
+TRUE,"11/7/2023 13:40",20,"Junior student","Woman",NA,NA,NA,"Plastic bottled water",0,"Well",2,2,5,3,2,NA,NA,NA,NA,NA,NA,NA,"More information on it ",NA,"2-6 glasses per day",1,0,0,0,0,0
+TRUE,"11/7/2023 13:40",20,"Junior student","Man","Mostly liberal",NA,0,"Tap water",1,NA,4,4,5,4,2,2,5,3,4,6,7,1,NA,0,"7-12 glasses per",1,0,0,0,0,0
+TRUE,"11/7/2023 13:40",18,"Freshman student","Woman",NA,NA,0,"Tap water",1,"Public Supply",4,2,5,4,4,3,2,1,4,6,5,7,NA,1,"2-6 glasses per day",1,0,1,0,0,0
+TRUE,"11/7/2023 13:40",19,"Sophomore student","Man","Mixed",NA,0,"Plastic bottled water",1,"Public Supply",4,2,4,4,5,NA,NA,NA,NA,NA,NA,NA,"Knowing where it came from and how it got to my tap",NA,"2-6 glasses per day",1,0,0,0,0,0
+TRUE,"11/7/2023 13:41",39,"Other","Man","Mostly liberal",NA,1,"Tap water",0,"Public Supply",2,1,2,1,4,3,2,4,6,7,1,5,"More community engagement.",1,"2-6 glasses per day",1,0,0,0,0,0
+TRUE,"11/7/2023 13:41",21,"Junior student","Non-binary","Consistently liberal",NA,1,"Plastic bottled water",1,"Public Supply",3,4,3,1,5,NA,NA,NA,NA,NA,NA,NA,"Knowing what’s in the water ",NA,"2-6 glasses per day",0,0,1,0,0,0
+TRUE,"11/7/2023 13:41",21,"Senior student","Woman","Mostly liberal",NA,0,"Plastic bottled water",1,"Public Supply",4,2,4,2,4,6,7,4,5,2,3,1,"Knowing exactly where it came from and how it got to my tal",NA,"2-6 glasses per day",1,0,1,0,0,0
+TRUE,"11/7/2023 13:42",22,"Sophomore student","Woman",NA,NA,NA,"Plastic bottled water",0,NA,4,3,5,2,3,3,1,2,6,5,4,7,NA,NA,"2-6 glasses per day",0,1,0,0,0,0
+TRUE,"11/7/2023 13:42",18,"Sophomore student","Woman","Mostly liberal",NA,0,"Tap water",1,"Public Supply",5,4,5,4,3,1,6,3,5,4,2,7,"My brita filter ",1,"Less than 2 glasses per day",1,0,0,0,0,0
+TRUE,"11/7/2023 13:47",23,"Senior student","Non-binary","Consistently liberal",NA,NA,"Plastic bottled water",1,NA,5,3,2,5,2,4,7,1,6,3,5,2,"Learning about my current home's pipe system and filtering equipment. The place is very old.",NA,"Less than 2 glasses per day",0,1,0,0,0,0
+TRUE,"11/7/2023 13:48",18,"Freshman student","Woman","Mostly conservative",NA,0,"Plastic bottled water",0,"Public Supply",5,5,2,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"2-6 glasses per day",0,1,0,0,0,0
+TRUE,"11/7/2023 13:48",19,"Sophomore student","Man","Mostly liberal",NA,0,"Plastic bottled water",0,"Public Supply",4,4,5,2,4,2,6,1,3,5,7,4,"More transparency with government ",NA,"7-12 glasses per",1,0,0,0,0,0
+TRUE,"11/7/2023 13:48",22,"Senior student","Woman","Mostly liberal",NA,NA,"Plastic bottled water",1,"Public Supply",3,3,4,3,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,"7-12 glasses per",1,0,1,0,0,0
+TRUE,"11/7/2023 13:49",23,"Junior student","Man",NA,NA,0,"Tap water",0,NA,4,3,4,3,4,1,2,3,4,5,6,7,"Public data",1,"2-6 glasses per day",0,0,0,1,0,0
+TRUE,"11/7/2023 13:49",19,"Freshman student","Woman","Mostly liberal",NA,0,"Plastic bottled water",1,"Well",5,5,5,5,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,"2-6 glasses per day",0,1,0,0,0,0
+TRUE,"11/7/2023 13:49",21,"Freshman student","Woman","Mostly conservative",NA,1,"Tap water",1,"Public Supply",3,4,4,1,5,NA,NA,NA,NA,NA,NA,NA,"color",0,"2-6 glasses per day",0,0,0,1,0,0
+TRUE,"11/7/2023 13:49",21,"Junior student","Woman","Mostly liberal",NA,0,"Plastic bottled water",0,"Public Supply",4,3,5,3,2,7,2,3,5,6,4,1,"Constant reminders to build my trust.",NA,"Less than 2 glasses per day",1,0,0,0,0,0
+TRUE,"11/7/2023 13:49",19,"Sophomore student","Woman","Mixed",NA,0,"Plastic bottled water",0,NA,3,2,5,3,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,"2-6 glasses per day",0,1,0,0,0,0
+TRUE,"11/7/2023 13:49",24,"Master's student","Man",NA,NA,0,"Tap water",0,"Public Supply",5,4,2,3,3,4,3,2,6,5,7,1,"People’s opinion ",0,"2-6 glasses per day",0,0,0,1,0,0
+TRUE,"11/7/2023 13:49",20,"Senior student","Man","Mostly liberal",NA,0,"Plastic bottled water",1,"Public Supply",3,4,5,5,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,"7-12 glasses per",0,0,0,1,0,0
+TRUE,"11/7/2023 13:49",24,"Master's student","Woman",NA,NA,0,"Tap water",1,"Public Supply",5,3,1,2,5,NA,NA,NA,NA,NA,NA,NA,NA,0,"2-6 glasses per day",0,0,0,1,0,0
+TRUE,"11/7/2023 13:49",18,"Freshman student","Woman","Mixed",NA,NA,"Plastic bottled water",1,"Public Supply",1,1,5,3,5,2,7,1,6,4,3,5,"consistently updated scientific data on the quality of tap water as well as confirmed knowledge that taps are being cleaned/changed regularly ",NA,"7-12 glasses per",1,0,0,0,0,0
+TRUE,"11/7/2023 13:49",19,"Freshman student",NA,NA,NA,0,"Tap water",1,"Public Supply",5,3,4,3,2,3,2,1,4,5,6,7,NA,1,"2-6 glasses per day",1,0,0,0,0,0
+TRUE,"11/7/2023 13:49",24,"Senior student","Woman",NA,NA,0,"Tap water",1,"Well",5,5,2,4,5,NA,NA,NA,NA,NA,NA,NA,NA,0,"2-6 glasses per day",0,0,0,0,0,0
+TRUE,"11/7/2023 13:49",25,"Other","Man","Mostly liberal",NA,NA,"Tap water",1,NA,5,3,5,3,5,NA,NA,NA,NA,NA,NA,NA,"filtering and safety regulations",1,"2-6 glasses per day",0,0,0,1,0,0
+TRUE,"11/7/2023 13:50",19,"Freshman student","Man","Consistently liberal",NA,0,"Tap water",1,NA,5,3,4,5,3,NA,NA,NA,NA,NA,NA,NA,"Using one of those filter things that you put on the tap.",1,"2-6 glasses per day",1,0,0,0,0,0
+TRUE,"11/7/2023 13:50",23,"Master's student","Man","Mixed",NA,NA,"Plastic bottled water",1,"Public Supply",4,4,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,"7-12 glasses per",0,0,0,1,0,0
+TRUE,"11/7/2023 13:50",19,"Freshman student","Woman",NA,NA,0,"Plastic bottled water",1,"Public Supply",NA,NA,NA,NA,NA,1,2,3,5,6,7,4,NA,NA,"2-6 glasses per day",0,1,0,0,0,0
+TRUE,"11/7/2023 13:50",22,"Other","Woman","Consistently liberal",NA,0,"Glass bottled/canned/boxed water",1,NA,4,4,4,3,4,5,4,6,3,7,2,1,"I don’t know ",NA,"7-12 glasses per",0,0,1,0,0,0
+TRUE,"11/7/2023 13:51",23,"Junior student","Man","Consistently conservative",NA,0,"Plastic bottled water",1,"Public Supply",4,5,2,5,5,1,3,2,7,5,4,6,"Idk ",NA,"7-12 glasses per",0,0,0,0,0,0
+TRUE,"11/7/2023 13:51",19,"Freshman student","Man","Mostly conservative",NA,0,"Plastic bottled water",0,"Public Supply",5,3,5,3,3,2,4,5,3,6,1,7,"making the taste better ",NA,"2-6 glasses per day",0,1,0,0,0,0
+TRUE,"11/7/2023 13:51",19,"Freshman student","Man",NA,NA,0,"Plastic bottled water",0,"Public Supply",4,4,4,3,5,1,2,3,6,7,5,4,"if there was more transparency on the subject",NA,"2-6 glasses per day",0,1,0,0,0,0
+TRUE,"11/7/2023 13:51",20,"Junior student","Man",NA,NA,0,"Plastic bottled water",0,"Well",3,3,3,3,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,"7-12 glasses per",1,0,0,1,0,0
+TRUE,"11/7/2023 13:51",19,"Sophomore student","Woman","Mostly liberal",NA,0,"Plastic bottled water",0,NA,2,2,5,2,2,1,2,3,4,5,6,7,NA,NA,"2-6 glasses per day",1,0,0,0,0,0
+TRUE,"11/7/2023 13:51",19,"Sophomore student","Man","Mostly liberal",NA,0,"Plastic bottled water",1,"Public Supply",4,4,5,4,4,1,2,3,4,5,6,7,NA,NA,"2-6 glasses per day",1,0,0,0,0,0
+TRUE,"11/7/2023 13:52",21,"Junior student","Man","Consistently conservative",NA,0,"Plastic bottled water",0,"Public Supply",2,2,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,"2-6 glasses per day",1,0,0,0,0,0
+TRUE,"11/7/2023 13:52",19,"Sophomore student","Woman","Consistently conservative",NA,0,"Plastic bottled water",0,"Well",1,NA,2,2,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,"7-12 glasses per",1,0,0,0,0,0
+TRUE,"11/7/2023 13:52",23,"Junior student","Woman","Mixed",NA,0,"Glass bottled/canned/boxed water",0,"Well",1,1,4,1,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,"2-6 glasses per day",1,0,0,0,0,0
+TRUE,"11/7/2023 13:52",21,"Senior student","Woman",NA,NA,0,"Tap water",0,NA,5,4,5,4,3,5,1,4,3,7,2,6,"I already trust it",0,"Less than 2 glasses per day",0,0,0,0,0,0
+TRUE,"11/7/2023 13:52",18,"Freshman student","Woman",NA,NA,0,"Tap water",1,NA,5,3,5,5,5,NA,NA,NA,NA,NA,NA,NA,NA,1,"7-12 glasses per",0,0,0,0,0,0
+TRUE,"11/7/2023 13:53",19,"Sophomore student","Man","Mostly conservative",NA,NA,"Plastic bottled water",0,"Public Supply",5,1,2,2,2,NA,NA,NA,NA,NA,NA,NA,"If there was a filter",NA,"7-12 glasses per",1,0,0,0,0,0
+TRUE,"11/7/2023 13:53",18,"Freshman student","Woman",NA,NA,NA,"Plastic bottled water",0,"Well",3,1,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,"7-12 glasses per",1,0,0,0,0,0
+TRUE,"11/7/2023 13:53",19,"Sophomore student","Man","Mixed",NA,0,"Plastic bottled water",1,"Public Supply",4,4,5,5,4,NA,NA,NA,NA,NA,NA,NA,"Trusted source with website and information on water",NA,"7-12 glasses per",0,1,0,0,0,0
+TRUE,"11/7/2023 13:54",24,"Master's student","Man","Mostly liberal",NA,1,"Plastic bottled water",0,NA,1,3,1,3,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,0,0
+TRUE,"11/7/2023 13:54",21,"Senior student","Woman",NA,NA,NA,"Plastic bottled water",0,"Public Supply",4,2,5,3,4,3,5,1,6,4,7,2,NA,NA,"13 or more glasses per day",0,1,0,0,0,0
+TRUE,"11/7/2023 13:55",24,"Master's student","Woman",NA,NA,0,"Tap water",1,NA,3,3,3,3,4,6,7,1,5,4,2,3,"Just heard it from people in my community",0,"2-6 glasses per day",0,0,0,1,0,0
+TRUE,"11/7/2023 14:00",18,"Freshman student","Woman","Mostly liberal",NA,0,"Plastic bottled water",1,"Public Supply",2,5,4,2,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Less than 2 glasses per day",0,0,0,0,0,0
+TRUE,"11/7/2023 15:14",21,"Senior student","Man","Mixed",NA,0,"Tap water",0,"Public Supply",4,3,3,3,4,1,2,4,3,7,6,5,NA,1,"7-12 glasses per",1,0,0,0,0,0
+TRUE,"11/7/2023 15:39",27,"PhD student","Man","Other",NA,NA,"Plastic bottled water",1,"Public Supply",3,3,4,3,2,2,5,1,3,6,4,7,"Some time it is the only way to get water",NA,"2-6 glasses per day",0,0,0,1,0,0
+FALSE,"11/8/2023 8:25",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+FALSE,"11/8/2023 8:34",NA,"Senior student","Woman",NA,NA,NA,"Plastic bottled water",0,"Public Supply",2,2,4,3,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+FALSE,"11/8/2023 10:00",20,"Junior student","Woman","Mostly conservative",NA,0,"Plastic bottled water",0,NA,3,3,5,3,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,0
+FALSE,"11/8/2023 10:03",18,"Freshman student","Woman",NA,NA,0,"Plastic bottled water",1,NA,4,2,5,3,4,1,7,3,4,6,2,5,NA,NA,NA,0,1,1,0,0,0
+FALSE,"11/8/2023 10:14",19,"Sophomore student","Man","Mixed",NA,0,"Tap water",1,"Public Supply",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,0,0
+FALSE,"11/8/2023 10:29",19,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+FALSE,"11/8/2023 10:32",21,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+FALSE,"11/9/2023 12:43",24,"Junior student","Woman",NA,NA,NA,"Glass bottled/canned/boxed water",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,0,0
+FALSE,"11/9/2023 12:58",19,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+TRUE,"11/12/2023 8:35",37,"Junior student","Woman","Mostly liberal",NA,0,"Tap water",0,"Public Supply",5,4,4,5,5,NA,NA,NA,NA,NA,NA,NA,"Source of origin",1,"7-12 glasses per",0,0,0,1,0,0
+FALSE,"11/14/2023 10:28",67,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+FALSE,"11/14/2023 11:21",22,"Senior student","Man","Mostly liberal",NA,0,"Tap water",1,"Public Supply",3,1,4,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,0,0
+FALSE,"11/14/2023 11:32",19,"Sophomore student","Woman",NA,NA,0,"Tap water",1,"Public Supply",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,0,0
+FALSE,"11/14/2023 11:44",18,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+FALSE,"11/14/2023 11:54",27,"Senior student",NA,"Mostly liberal",NA,0,"Tap water",0,"Public Supply",5,NA,5,5,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,0,0
+FALSE,"11/14/2023 12:56",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+FALSE,"11/14/2023 12:57",18,"Freshman student","Woman",NA,NA,1,"Tap water",1,"Public Supply",4,5,3,3,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,0
+FALSE,"11/14/2023 13:02",30,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+FALSE,"11/14/2023 13:03",18,"Freshman student","Man","Mixed",NA,0,"Plastic bottled water",0,"Public Supply",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,0,0
+FALSE,"11/14/2023 13:05",21,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+FALSE,"11/14/2023 13:06",24,"PhD student","Woman",NA,NA,NA,"Tap water",NA,"Public Supply",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,0,0
+FALSE,"11/14/2023 13:08",22,"Senior student","Man","Mixed",NA,0,"Plastic bottled water",1,"Well",5,4,5,4,3,1,5,2,3,4,6,7,NA,NA,NA,0,1,0,0,0,0
+FALSE,"11/14/2023 13:09",19,"Sophomore student","Woman","Consistently liberal",NA,NA,"Plastic bottled water",0,"Public Supply",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,0
+FALSE,"11/14/2023 13:11",21,"Senior student","Woman","Mostly liberal",NA,1,"Plastic bottled water",1,NA,1,1,2,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,0
+FALSE,"11/14/2023 13:28",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+FALSE,"11/14/2023 13:32",18,"Freshman student","Man","Mixed",NA,NA,"Plastic bottled water",1,"Public Supply",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,0,0
+FALSE,"11/14/2023 13:33",23,"Master's student","Woman",NA,NA,NA,"Tap water",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,0,0
+FALSE,"11/14/2023 13:34",22,"Senior student","Non-binary",NA,NA,0,"Tap water",0,"Public Supply",4,3,3,4,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,0,0
+FALSE,"11/14/2023 13:34",20,"Junior student","Man","Mostly liberal",NA,1,"Tap water",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,0
+FALSE,"11/14/2023 13:35",18,"Freshman student","Woman","Other",NA,NA,"Plastic bottled water",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,1,0
+FALSE,"11/14/2023 13:40",18,"Freshman student","Woman","Consistently liberal",NA,0,"Plastic bottled water",0,"Well",4,3,5,3,5,7,6,1,4,3,2,5,NA,NA,NA,0,0,0,0,0,0
+FALSE,"11/14/2023 13:41",20,"Sophomore student","Woman","Consistently liberal",NA,1,"Plastic bottled water",1,"Public Supply",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,0,0
+FALSE,"11/14/2023 13:46",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+FALSE,"11/14/2023 13:46",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+FALSE,"11/14/2023 13:50",24,"Master's student","Woman","Consistently conservative",NA,0,"Tap water",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,1,0,0
+FALSE,"11/14/2023 14:00",21,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+FALSE,"11/14/2023 14:02",21,"Senior student","Woman","Mostly liberal",NA,NA,"Plastic bottled water",1,"Public Supply",1,4,3,3,5,2,3,1,4,5,7,6,NA,NA,NA,1,0,0,1,0,0
+FALSE,"11/14/2023 15:37",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+FALSE,"11/14/2023 15:46",18,"Freshman student","Woman",NA,NA,0,"Plastic bottled water",0,"Public Supply",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,0,0

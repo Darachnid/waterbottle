@@ -41,6 +41,13 @@ drinking_levels <- c("Tap water",
                      "Glass bottled/canned/boxed water",
                      "I don't drink water")
 
+race_levels <- c("White/Caucasian", 
+                 "Black or African American", 
+                 "Hispanic or Latino",
+                 "Asian",
+                 "American Indian or Alaska Native",
+                 "Native Hawaiian or Other Pacific Islander")
+
 clean_data <- read.csv("data/raw_data.csv") |>
 
 # Replace blank values with NA's
@@ -159,7 +166,18 @@ clean_data <- read.csv("data/raw_data.csv") |>
     choices_influenced_by_quality_in_community == "Somewhat agree" ~ 4,
     choices_influenced_by_quality_in_community == "Strongly agree" ~ 5,
     TRUE ~ NA_real_)) 
-  
+
+##############################################################################
+######################## Split Multiple Responses ############################
+##############################################################################
+# Create new columns and populate with 1 or 0
+for(race in race_levels) {
+  clean_data[[race]] <- as.integer(grepl(race, clean_data$race))
+}
+
+# omit the original race col
+clean_data <- clean_data |>
+  select(-race)
 
 ##############################################################################
 ################################# Write CSV #################################
