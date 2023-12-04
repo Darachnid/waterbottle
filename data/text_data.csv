@@ -1,0 +1,250 @@
+age,education,race,gender,politics,zipcode,issues_in_community,primary_source,consistently_uses_bottle,home_supply,likert_homeSafe,likert_campusSafe,likert_bottlesSafe,likert_govtTrust,rankTaste,rankAppearance,rankHealth,rankConvience,rankEnvironment,rankCost,rankSource,tapFiltered,cups_perDay
+18,Freshman student,"Asian,Hispanic or Latino",Prefer not to answer,Consistently liberal,02125,Yes,Plastic bottled water,No,Public Supply,Somewhat disagree,Strongly disagree,Somewhat agree,Neither agree nor disagree,,,,,,,,,2-6 glasses per day
+18,Freshman student,Asian,Woman,Consistently liberal,02125,Yes,Plastic bottled water,Yes,Public Supply,Somewhat disagree,Neither agree nor disagree,Somewhat agree,Strongly disagree,,,,,,,,,2-6 glasses per day
+18,Freshman student,White/Caucasian,Non-binary,Consistently liberal,02125,Yes,Plastic bottled water,No,Public Supply,Somewhat agree,Somewhat disagree,Strongly agree,Neither agree nor disagree,2,1,3,7,5,4,6,,2-6 glasses per day
+18,Freshman student,White/Caucasian,Woman,Consistently liberal,,Yes,Plastic bottled water,Yes,Public Supply,Somewhat agree,Somewhat agree,Somewhat agree,Strongly disagree,4,3,6,1,7,2,5,,2-6 glasses per day
+22,Junior student,White/Caucasian,Man,Mostly liberal,,No,Plastic bottled water,Yes,,Somewhat agree,Strongly disagree,Strongly agree,Strongly disagree,,,,,,,,,2-6 glasses per day
+19,Sophomore student,White/Caucasian,Woman,Mostly liberal,02301,No,Tap water,Yes,,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat disagree,3,7,1,6,2,4,5,Yes,7-12 glasses per
+21,Freshman student,White/Caucasian,Woman,Mixed,,,Plastic bottled water,No,,Somewhat disagree,Somewhat disagree,Somewhat agree,Somewhat disagree,3,5,2,4,6,7,1,,2-6 glasses per day
+19,Sophomore student,White/Caucasian,Woman,Mostly liberal,02125,,Tap water,Yes,Public Supply,Somewhat disagree,Somewhat agree,Strongly agree,Neither agree nor disagree,4,7,1,3,5,2,6,Yes,2-6 glasses per day
+,,,,,,,,,,,,,,,,,,,,,,
+18,Freshman student,"White/Caucasian,Hispanic or Latino",Woman,Prefer not to answer,,,Tap water,Yes,Public Supply,Somewhat agree,Somewhat disagree,Strongly agree,Neither agree nor disagree,2,4,1,3,7,5,6,Yes,2-6 glasses per day
+18,Freshman student,Black or African American,Woman,Prefer not to answer,,No,Glass bottled/canned/boxed water,Yes,Well,Strongly disagree,Strongly agree,Somewhat agree,Neither agree nor disagree,,,,,,,,,7-12 glasses per
+20,Sophomore student,Asian,Woman,Prefer not to answer,02124,Yes,Tap water,Yes,Public Supply,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,3,6,7,1,5,2,4,Yes,2-6 glasses per day
+33,Master's student,Black or African American,Woman,Consistently liberal,02124,No,Tap water,Yes,Public Supply,Strongly agree,Strongly agree,Neither agree nor disagree,Strongly agree,2,7,1,4,5,3,6,No,Less than 2 glasses per day
+18,Freshman student,Asian,Woman,Prefer not to answer,02184,No,Plastic bottled water,Yes,Public Supply,Somewhat agree,Neither agree nor disagree,Somewhat agree,Strongly agree,,,,,,,,,2-6 glasses per day
+32,PhD student,White/Caucasian,Woman,Mostly liberal,02169,,Tap water,Yes,,Strongly agree,Strongly agree,Neither agree nor disagree,Somewhat agree,7,5,6,3,1,2,4,No,7-12 glasses per
+18,Freshman student,Black or African American,Woman,Prefer not to answer,02119,No,Plastic bottled water,Yes,Public Supply,Neither agree nor disagree,Somewhat disagree,Somewhat agree,Neither agree nor disagree,5,2,3,6,1,4,7,,2-6 glasses per day
+22,Senior student,"Asian,White/Caucasian",Woman,Mixed,02072,No,Tap water,Yes,Public Supply,Somewhat agree,Somewhat agree,Somewhat agree,Neither agree nor disagree,,,,,,,,Yes,7-12 glasses per
+28,Master's student,White/Caucasian,Woman,Mostly liberal,02066,Yes,Prefer not to answer,Yes,Public Supply,Strongly disagree,Neither agree nor disagree,Somewhat agree,Somewhat disagree,2,6,1,7,3,4,5,,
+27,Master's student,White/Caucasian,Man,Other,02125,No,Tap water,Yes,Public Supply,Strongly agree,Strongly agree,Strongly agree,Somewhat agree,1,3,7,6,4,2,5,Yes,7-12 glasses per
+29,Master's student,White/Caucasian,Woman,Consistently liberal,02132,,Tap water,Yes,Public Supply,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,,,,,,,,No,2-6 glasses per day
+22,Senior student,Black or African American,Man,Other,02368,,Plastic bottled water,Yes,Public Supply,Strongly agree,Neither agree nor disagree,Strongly agree,Neither agree nor disagree,3,4,1,5,6,7,2,,13 or more glasses per day
+20,Freshman student,Asian,Man,Mostly liberal,02125,Yes,Glass bottled/canned/boxed water,Yes,Public Supply,Strongly disagree,Somewhat agree,Somewhat agree,Strongly disagree,,,,,,,,,13 or more glasses per day
+20,Junior student,White/Caucasian,Man,Consistently liberal,02360,No,Plastic bottled water,No,Well,Strongly agree,Neither agree nor disagree,Strongly agree,Neither agree nor disagree,6,1,4,2,5,3,7,,2-6 glasses per day
+21,Senior student,"American Indian or Alaska Native,Black or African American,White/Caucasian,Hispanic or Latino",Woman,Mostly liberal,,No,Glass bottled/canned/boxed water,Yes,Public Supply,Strongly disagree,Strongly disagree,Neither agree nor disagree,Strongly disagree,6,4,1,7,3,5,2,,7-12 glasses per
+21,Senior student,White/Caucasian,Woman,Consistently liberal,02125,,Tap water,Yes,Public Supply,Strongly agree,Neither agree nor disagree,Strongly agree,Neither agree nor disagree,6,2,1,3,7,4,5,Yes,7-12 glasses per
+24,Senior student,"Black or African American,White/Caucasian",Man,Mostly liberal,02128,,Plastic bottled water,No,Public Supply,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,,,,,,,,,2-6 glasses per day
+22,Prefer not to answer,Prefer not to answer,Woman,Mixed,02148,No,Tap water,Yes,,Somewhat agree,Neither agree nor disagree,Somewhat agree,Neither agree nor disagree,,,,,,,,No,2-6 glasses per day
+25,Senior student,White/Caucasian,Woman,Mostly liberal,02128,,Tap water,Yes,Public Supply,Somewhat agree,Somewhat agree,Somewhat disagree,Strongly disagree,2,1,3,4,6,5,7,Yes,Less than 2 glasses per day
+18,Freshman student,"Asian,White/Caucasian",Transgender man,Mostly liberal,02125,,Tap water,Yes,Public Supply,Strongly agree,Somewhat agree,Somewhat agree,Neither agree nor disagree,3,2,6,5,1,7,4,No,2-6 glasses per day
+30,Master's student,"Asian,White/Caucasian",Man,Mostly conservative,01702,,Plastic bottled water,Yes,Public Supply,Somewhat agree,Somewhat disagree,Somewhat agree,Neither agree nor disagree,2,1,3,5,6,4,7,,7-12 glasses per
+Old enough,Senior student,"Native Hawaiian or Other Pacific Islander,White/Caucasian",Man,Mostly conservative,01970,Yes,Tap water,No,,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat disagree,,,,,,,,Yes,7-12 glasses per
+21,Junior student,White/Caucasian,Man,Mostly liberal,,,Plastic bottled water,Yes,Public Supply,Somewhat agree,Neither agree nor disagree,Somewhat agree,Somewhat disagree,5,3,1,2,6,4,7,,2-6 glasses per day
+18,Sophomore student,White/Caucasian,Woman,Consistently liberal,02125,,Tap water,Yes,Public Supply,Somewhat agree,Somewhat agree,Somewhat agree,Neither agree nor disagree,,,,,,,,Yes,7-12 glasses per
+28,Sophomore student,American Indian or Alaska Native,Man,Other,02121,,Tap water,Yes,Public Supply,Neither agree nor disagree,Neither agree nor disagree,Strongly disagree,Somewhat disagree,,,,,,,,Yes,13 or more glasses per day
+21,Senior student,Asian,Woman,Mostly conservative,02170,,Plastic bottled water,No,Public Supply,Somewhat agree,Somewhat disagree,Somewhat agree,Neither agree nor disagree,,,,,,,,,Less than 2 glasses per day
+24 ,Other,White/Caucasian,Woman,Mixed,02113,,Tap water,Yes,Public Supply,Somewhat agree,Somewhat agree,Somewhat agree,Strongly disagree,5,4,1,3,7,2,6,Yes,7-12 glasses per
+23,Junior student,Hispanic or Latino,Woman,Mixed,02150,,Plastic bottled water,No,,Strongly disagree,Strongly disagree,Strongly agree,Neither agree nor disagree,,,,,,,,,2-6 glasses per day
+27,PhD student,White/Caucasian,Man,Consistently liberal,02160,No,Tap water,Yes,Public Supply,Strongly agree,Somewhat agree,Somewhat agree,Somewhat agree,4,3,1,6,5,2,7,No,7-12 glasses per
+23,Senior student,Asian,Woman,Consistently liberal,02124,No,Plastic bottled water,Yes,Public Supply,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,1,4,3,2,5,7,6,,2-6 glasses per day
+17,,,,,,,,,,,,,,,,,,,,,,
+21,Junior student,Hispanic or Latino,Woman,Consistently liberal,02125,,Plastic bottled water,Yes,Public Supply,Neither agree nor disagree,Somewhat agree,Somewhat agree,Strongly disagree,2,5,1,6,7,3,4,,7-12 glasses per
+28,Senior student,White/Caucasian,Man,Mostly liberal,,Yes,Tap water,Yes,Public Supply,Somewhat agree,Strongly agree,Strongly agree,Strongly agree,7,5,1,3,4,2,6,Yes,7-12 glasses per
+18,Freshman student,Asian,Man,Mostly conservative,02169,Yes,Plastic bottled water,Yes,Public Supply,Somewhat agree,Somewhat agree,Strongly agree,Somewhat agree,2,1,3,4,6,5,7,,7-12 glasses per
+18,Freshman student,Asian,Woman,Mixed,02170,Yes,Plastic bottled water,No,Public Supply,Strongly disagree,Somewhat disagree,Somewhat agree,Neither agree nor disagree,5,6,1,7,3,4,2,,7-12 glasses per
+18,Freshman student,Prefer not to answer,Woman,Prefer not to answer,02148,,Plastic bottled water,No,,Somewhat agree,Neither agree nor disagree,Strongly agree,Somewhat agree,1,6,3,2,4,5,7,,7-12 glasses per
+19,Freshman student,Hispanic or Latino,Woman,Consistently liberal,02302,,Tap water,Yes,,Neither agree nor disagree,Neither agree nor disagree,Somewhat agree,Neither agree nor disagree,5,2,1,3,4,7,6,Yes,2-6 glasses per day
+19,Sophomore student,Asian,Woman,Other,,No,Plastic bottled water,Prefer not to answer,Public Supply,,,,,,,,,,,,,Less than 2 glasses per day
+18,Freshman student,Asian,Woman,Consistently liberal,,No,Plastic bottled water,Yes,,Somewhat disagree,Neither agree nor disagree,Strongly agree,Somewhat agree,3,5,6,2,4,1,7,,2-6 glasses per day
+22,Master's student,White/Caucasian,Man,Mixed,,No,Tap water,Yes,Public Supply,Strongly agree,Somewhat agree,Somewhat agree,Somewhat agree,,,,,,,,,2-6 glasses per day
+26,Master's student,White/Caucasian,Man,Mostly liberal,02128,,Plastic bottled water,No,Public Supply,Somewhat disagree,Somewhat disagree,Somewhat agree,Somewhat disagree,1,2,3,6,4,7,5,,7-12 glasses per
+25,PhD student,White/Caucasian,Woman,Mostly liberal,01906,No,Plastic bottled water,No,,Strongly agree,Strongly agree,Somewhat agree,Strongly agree,,,,,,,,,2-6 glasses per day
+36,PhD student,Black or African American,Woman,Mostly liberal,02864,,Tap water,Yes,Public Supply,Somewhat agree,,Somewhat agree,Somewhat disagree,1,4,2,5,6,7,3,Yes,2-6 glasses per day
+29,PhD student,White/Caucasian,Woman,Other,,Yes,Plastic bottled water,Yes,,Strongly agree,Strongly agree,Strongly agree,Strongly agree,,,,,,,,,7-12 glasses per
+44,PhD student,White/Caucasian,Man,Other,06239,No,Plastic bottled water,No,Public Supply,Somewhat agree,Somewhat disagree,Strongly agree,Somewhat disagree,3,4,2,5,6,7,1,,2-6 glasses per day
+34,PhD student,Asian,Man,Mostly liberal,02125,No,Tap water,No,Public Supply,Somewhat agree,Somewhat agree,Somewhat agree,Neither agree nor disagree,,,,,,,,Yes,2-6 glasses per day
+25,Master's student,Asian,Woman,Mixed,02125,Yes,Tap water,No,Public Supply,Somewhat agree,Strongly agree,Strongly agree,Somewhat agree,,,,,,,,Yes,7-12 glasses per
+24,Master's student,Asian,Woman,Prefer not to answer,02125,,Tap water,Yes,Public Supply,Somewhat agree,Somewhat agree,Strongly agree,Somewhat agree,,,,,,,,No,7-12 glasses per
+25,Master's student,Asian,Woman,Mostly liberal,02125,No,Tap water,Yes,Public Supply,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,,,,,,,,Yes,2-6 glasses per day
+24,Other,Black or African American,Transgender woman,Mostly conservative,,No,Plastic bottled water,No,Public Supply,Strongly disagree,Strongly disagree,Strongly agree,Neither agree nor disagree,,,,,,,,,13 or more glasses per day
+25,Master's student,Asian,Man,Prefer not to answer,10031,No,Tap water,No,Public Supply,Somewhat agree,Somewhat agree,Strongly agree,Somewhat agree,1,2,3,4,5,6,7,Yes,13 or more glasses per day
+28,Master's student,Asian,Man,Mixed,02125,Yes,Tap water,Yes,Public Supply,Strongly agree,Strongly agree,Somewhat agree,Strongly agree,2,3,1,4,5,7,6,Yes,13 or more glasses per day
+21,Senior student,Asian,Man,Mixed,02125,No,Tap water,No,Public Supply,Somewhat agree,Neither agree nor disagree,Neither agree nor disagree,Somewhat agree,5,3,1,4,2,7,6,Yes,13 or more glasses per day
+27,Master's student,Prefer not to answer,Man,Prefer not to answer,,Yes,Tap water,Yes,,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,4,7,5,2,1,3,6,Yes,7-12 glasses per
+24,Master's student,Asian,Man,Mixed,02125,No,Tap water,No,Public Supply,Somewhat agree,Somewhat agree,Somewhat agree,Neither agree nor disagree,1,2,3,5,6,4,7,Yes,7-12 glasses per
+22,Junior student,Black or African American,Man,Mixed,,,Plastic bottled water,No,Public Supply,Somewhat disagree,Strongly disagree,Somewhat agree,Somewhat agree,1,7,3,4,6,5,2,,7-12 glasses per
+20,Sophomore student,White/Caucasian,Woman,Mostly liberal,,,Tap water,Yes,Public Supply,Somewhat agree,Somewhat agree,Strongly agree,Somewhat disagree,,,,,,,,Yes,7-12 glasses per
+20,Sophomore student,Asian,Woman,Prefer not to answer,,Yes,Plastic bottled water,Yes,Public Supply,Somewhat disagree,Strongly disagree,Strongly agree,Neither agree nor disagree,1,7,4,2,5,3,6,,7-12 glasses per
+20,Sophomore student,White/Caucasian,Non-binary,Mostly liberal,02169,No,Tap water,No,Public Supply,Strongly agree,Neither agree nor disagree,Somewhat agree,Neither agree nor disagree,6,4,3,2,5,1,7,No,Prefer not to answer
+19,Freshman student,Black or African American,Man,Mixed,,No,Plastic bottled water,Yes,,Somewhat agree,Neither agree nor disagree,Strongly agree,Strongly agree,2,6,3,4,7,1,5,,2-6 glasses per day
+21,Junior student,Hispanic or Latino,Woman,Mostly liberal,01801,Yes,Plastic bottled water,Yes,Public Supply,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat disagree,,,,,,,,,2-6 glasses per day
+20,Junior student,Black or African American,Woman,Prefer not to answer,02360,No,Tap water,No,Public Supply,Somewhat agree,,Somewhat agree,,,,,,,,,Yes,2-6 glasses per day
+18,Freshman student,Asian,Woman,Prefer not to answer,,No,Plastic bottled water,Yes,Well,Strongly agree,Neither agree nor disagree,Strongly agree,Neither agree nor disagree,,,,,,,,,2-6 glasses per day
+19,Freshman student,Asian,Man,Mixed,02119,,Plastic bottled water,Yes,,Somewhat agree,Somewhat agree,Strongly agree,Neither agree nor disagree,2,1,3,5,6,7,4,,2-6 glasses per day
+19,Sophomore student,Black or African American,Woman,Mostly liberal,,No,Glass bottled/canned/boxed water,Yes,,Somewhat agree,Somewhat agree,Strongly agree,Neither agree nor disagree,2,1,3,5,7,6,4,,2-6 glasses per day
+22,Senior student,"White/Caucasian,Hispanic or Latino",Woman,Prefer not to answer,02150,,Tap water,Yes,Public Supply,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Strongly disagree,,,,,,,,No,2-6 glasses per day
+19,Sophomore student,Asian,Man,Mixed,01585,No,Tap water,Yes,Public Supply,Neither agree nor disagree,Somewhat disagree,Somewhat agree,Somewhat agree,,,,,,,,Yes,7-12 glasses per
+27,Sophomore student,White/Caucasian,Woman,Mostly liberal,02302,Yes,Tap water,Yes,Public Supply,Somewhat disagree,Somewhat agree,Strongly agree,Strongly disagree,,,,,,,,Yes,7-12 glasses per
+19,Sophomore student,Asian,Woman,Mixed,,No,Plastic bottled water,Yes,Public Supply,Somewhat disagree,Strongly disagree,Strongly agree,Somewhat agree,,,,,,,,,2-6 glasses per day
+,,,,,,,,,,,,,,,,,,,,,,
+22,Junior student,White/Caucasian,Woman,Consistently liberal,02150,,Plastic bottled water,Yes,Public Supply,Somewhat agree,Somewhat disagree,Somewhat agree,Strongly disagree,1,6,2,3,4,5,7,,2-6 glasses per day
+24,Junior student,Black or African American,Man,Mostly liberal,01923,,Tap water,No,Public Supply,Somewhat agree,Neither agree nor disagree,Somewhat agree,Somewhat agree,2,3,1,4,6,5,7,Yes,7-12 glasses per
+21,Senior student,White/Caucasian,Woman,Mostly liberal,,No,Tap water,Yes,Public Supply,Somewhat agree,Neither agree nor disagree,Strongly agree,Strongly agree,1,2,3,6,4,5,7,Yes,7-12 glasses per
+21,Senior student,White/Caucasian,Woman,Mostly liberal,,No,Tap water,Yes,Public Supply,Neither agree nor disagree,Somewhat agree,Strongly agree,Somewhat agree,5,7,3,4,1,6,2,Yes,13 or more glasses per day
+19,Freshman student,White/Caucasian,Man,Consistently liberal,02125,,Tap water,Yes,Public Supply,Neither agree nor disagree,Neither agree nor disagree,Strongly agree,Neither agree nor disagree,3,4,5,1,6,2,7,Yes,2-6 glasses per day
+20,Freshman student,White/Caucasian,Non-binary,Consistently liberal,02066,Yes,Plastic bottled water,Yes,Public Supply,Somewhat agree,Neither agree nor disagree,Strongly agree,Somewhat agree,1,3,2,5,6,4,7,,Less than 2 glasses per day
+18,Freshman student,Hispanic or Latino,Woman,Prefer not to answer,,,Plastic bottled water,No,Public Supply,Somewhat disagree,Neither agree nor disagree,Strongly agree,Neither agree nor disagree,,,,,,,,,2-6 glasses per day
+19,Junior student,Asian,Man,Mixed,,No,Tap water,No,,Strongly agree,Strongly agree,Somewhat agree,Strongly agree,,,,,,,,No,7-12 glasses per
+25,Junior student,Prefer not to answer,Non-binary,Other,02125,Yes,Tap water,Yes,Public Supply,Somewhat disagree,Somewhat disagree,Strongly disagree,Neither agree nor disagree,,,,,,,,Yes,2-6 glasses per day
+18,Sophomore student,Black or African American,Woman,Prefer not to answer,,No,Tap water,Yes,,Somewhat agree,Somewhat agree,Strongly agree,Neither agree nor disagree,,,,,,,,Yes,2-6 glasses per day
+20,Junior student,White/Caucasian,Woman,Consistently liberal,02747,No,Glass bottled/canned/boxed water,No,Well,Somewhat agree,Somewhat disagree,Neither agree nor disagree,Somewhat disagree,3,4,1,6,2,5,7,,Less than 2 glasses per day
+25,PhD student,Black or African American,Woman,Other,02121,,Plastic bottled water,Yes,,Strongly agree,Strongly disagree,Strongly agree,Neither agree nor disagree,3,6,1,4,7,5,2,,7-12 glasses per
+26,PhD student,White/Caucasian,Woman,Mostly liberal,02021,,Tap water,Yes,Public Supply,Somewhat agree,Somewhat disagree,Somewhat agree,Neither agree nor disagree,2,4,1,5,6,7,3,Yes,13 or more glasses per day
+18,Freshman student,Hispanic or Latino,Woman,Consistently liberal,,,Tap water,Yes,Public Supply,Somewhat agree,Neither agree nor disagree,Somewhat agree,Somewhat disagree,,,,,,,,Yes,2-6 glasses per day
+22,Junior student,White/Caucasian,Man,Mixed,,,Tap water,Yes,Public Supply,Somewhat agree,Strongly agree,Neither agree nor disagree,Somewhat disagree,1,6,5,2,4,3,7,Yes,7-12 glasses per
+29,Senior student,White/Caucasian,Woman,Consistently liberal,02155,No,Plastic bottled water,No,Public Supply,Strongly agree,Strongly disagree,Neither agree nor disagree,Somewhat agree,3,2,1,5,4,6,7,,2-6 glasses per day
+19,Sophomore student,Black or African American,Woman,Other,,,Plastic bottled water,No,Public Supply,Somewhat disagree,Neither agree nor disagree,Somewhat agree,Strongly disagree,1,6,2,3,5,4,7,,7-12 glasses per
+35,PhD student,Prefer not to answer,Woman,Mixed,,No,Tap water,No,Public Supply,Somewhat agree,Somewhat agree,Strongly disagree,Neither agree nor disagree,,,,,,,,No,2-6 glasses per day
+31,Master's student,Hispanic or Latino,Man,Consistently liberal,02125,No,Tap water,No,Public Supply,Somewhat agree,Somewhat agree,Somewhat disagree,Neither agree nor disagree,5,7,1,4,2,3,6,Yes,7-12 glasses per
+19,Sophomore student,Black or African American,Woman,Mostly liberal,,Yes,Plastic bottled water,No,Public Supply,Somewhat agree,Neither agree nor disagree,Somewhat disagree,Neither agree nor disagree,,,,,,,,,7-12 glasses per
+18,Freshman student,"White/Caucasian,Hispanic or Latino",Woman,Mostly liberal,02125,,Plastic bottled water,Yes,Public Supply,Strongly agree,Strongly agree,Strongly agree,Somewhat agree,3,7,2,5,4,1,6,,2-6 glasses per day
+19,Sophomore student,Black or African American,Woman,Consistently liberal,,,Plastic bottled water,No,Well,Neither agree nor disagree,Neither agree nor disagree,Somewhat agree,Somewhat agree,1,6,2,3,7,5,4,,2-6 glasses per day
+23,Senior student,Asian,Woman,Mixed,02125,Yes,Tap water,Yes,Public Supply,Somewhat agree,Somewhat agree,Somewhat agree,Neither agree nor disagree,5,4,3,1,6,2,7,Yes,2-6 glasses per day
+20,Junior student,White/Caucasian,Woman,Mostly liberal,02186,No,Tap water,Yes,,Strongly agree,Somewhat agree,Somewhat agree,Neither agree nor disagree,7,4,3,5,2,6,1,Yes,2-6 glasses per day
+27,PhD student,Asian,Man,Mostly liberal,02171,,Tap water,Yes,,Strongly agree,Strongly agree,Neither agree nor disagree,Strongly agree,5,1,4,2,7,3,6,No,7-12 glasses per
+36,PhD student,,Woman,Mostly liberal,02116,No,Tap water,Yes,Public Supply,Somewhat agree,Somewhat agree,Neither agree nor disagree,Somewhat disagree,,,,,,,,Yes,2-6 glasses per day
+30,PhD student,Asian,Man,Other,02125,No,Plastic bottled water,No,Well,Strongly disagree,Somewhat agree,Somewhat agree,Neither agree nor disagree,5,6,1,7,3,4,2,,7-12 glasses per
+19,Sophomore student,Black or African American,Woman,Mostly liberal,02125,,Plastic bottled water,No,Well,Somewhat agree,Somewhat agree,Strongly agree,Somewhat agree,1,5,7,4,6,2,3,,7-12 glasses per
+20,Junior student,White/Caucasian,Gender not listed. My gender is,Consistently liberal,02125,,Tap water,Yes,Public Supply,Somewhat agree,Somewhat agree,Strongly agree,Neither agree nor disagree,6,1,2,3,5,4,7,Yes,Less than 2 glasses per day
+36,Other,"Asian,White/Caucasian",Non-binary,Mostly liberal,02171,,Tap water,Yes,Public Supply,Somewhat agree,Somewhat disagree,Somewhat agree,Neither agree nor disagree,1,7,3,4,2,5,6,Yes,Less than 2 glasses per day
+26,Senior student,Hispanic or Latino,Man,Mixed,02128,Yes,Prefer not to answer,Yes,Public Supply,Strongly disagree,Neither agree nor disagree,Somewhat disagree,Neither agree nor disagree,,,,,,,,,
+25,Senior student,Black or African American,Man,Mixed,,No,Plastic bottled water,No,Public Supply,Somewhat agree,Strongly agree,Somewhat agree,Strongly agree,,,,,,,,,2-6 glasses per day
+20,Junior student,Asian,Man,Mixed,02148,No,Plastic bottled water,No,Public Supply,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,,,,,,,,,13 or more glasses per day
+22,Senior student,"White/Caucasian,Hispanic or Latino",Woman,Consistently liberal,02125,Yes,Tap water,No,,Somewhat disagree,Somewhat agree,Somewhat agree,Somewhat disagree,7,3,4,1,6,2,5,Yes,Less than 2 glasses per day
+22,Junior student,White/Caucasian,Man,Mostly liberal,,No,Tap water,Yes,Public Supply,Somewhat agree,Strongly agree,Somewhat agree,Somewhat agree,3,2,1,7,4,5,6,Yes,2-6 glasses per day
+19,Sophomore student,White/Caucasian,Woman,Mostly liberal,,,Glass bottled/canned/boxed water,Yes,Public Supply,Somewhat agree,Somewhat agree,Neither agree nor disagree,Somewhat disagree,,,,,,,,,7-12 glasses per
+21,Senior student,White/Caucasian,Woman,Mostly liberal,02125,,Tap water,Yes,Public Supply,Somewhat disagree,Somewhat agree,Strongly agree,Neither agree nor disagree,7,5,1,4,6,3,2,Yes,2-6 glasses per day
+22,Junior student,White/Caucasian,Gender not listed. My gender is,Consistently liberal,02125,Yes,Tap water,Yes,Public Supply,Somewhat agree,Somewhat agree,Strongly disagree,Strongly disagree,,,,,,,,Yes,2-6 glasses per day
+28,Senior student,White/Caucasian,Woman,Consistently liberal,02420,No,Tap water,Yes,Public Supply,Somewhat agree,Neither agree nor disagree,Somewhat agree,Somewhat agree,2,1,3,4,7,6,5,No,2-6 glasses per day
+21,Senior student,White/Caucasian,Man,Mostly liberal,01835,Yes,Plastic bottled water,Yes,Public Supply,Somewhat disagree,Somewhat agree,Somewhat agree,Somewhat disagree,4,3,1,7,6,5,2,,7-12 glasses per
+20,Sophomore student,Black or African American,Man,Other,,,Glass bottled/canned/boxed water,Yes,,Neither agree nor disagree,Neither agree nor disagree,Somewhat agree,Somewhat disagree,1,2,3,4,5,6,7,,2-6 glasses per day
+20,Sophomore student,Black or African American,Man,Prefer not to answer,,No,Plastic bottled water,Yes,Public Supply,Somewhat disagree,Somewhat disagree,Strongly agree,Somewhat disagree,1,2,3,4,5,6,7,,Less than 2 glasses per day
+23,Junior student,White/Caucasian,Man,Mostly liberal,02145,No,Tap water,No,Public Supply,Somewhat agree,Strongly agree,Strongly agree,Somewhat agree,6,1,3,2,5,4,7,No,7-12 glasses per
+22,Senior student,Black or African American,Woman,Prefer not to answer,02125,,Plastic bottled water,Yes,Public Supply,Strongly disagree,Strongly disagree,Neither agree nor disagree,Strongly disagree,,,,,,,,,2-6 glasses per day
+,Sophomore student,,Prefer not to answer,Mixed,,,Plastic bottled water,No,,Strongly agree,Strongly agree,Neither agree nor disagree,Neither agree nor disagree,,,,,,,,,7-12 glasses per
+18,Freshman student,Hispanic or Latino,Man,Prefer not to answer,02169,No,Tap water,Yes,Well,Strongly agree,Somewhat agree,Strongly agree,Strongly agree,3,4,6,5,7,1,2,No,2-6 glasses per day
+26,Prefer not to answer,Asian,Man,Prefer not to answer,,,Tap water,Yes,,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,,,,,,,,Yes,2-6 glasses per day
+20,Junior student,White/Caucasian,Non-binary,Mostly liberal,02125,No,Plastic bottled water,Yes,Public Supply,Strongly agree,Somewhat agree,Strongly agree,Neither agree nor disagree,3,1,2,7,5,6,4,,7-12 glasses per
+21,Senior student,Asian,Woman,Mostly liberal,02421,No,Tap water,Yes,Public Supply,Somewhat agree,Somewhat agree,Somewhat disagree,Somewhat agree,,,,,,,,No,2-6 glasses per day
+21,Senior student,"White/Caucasian,Hispanic or Latino",Man,Mostly liberal,02368,No,Plastic bottled water,Yes,Public Supply,Somewhat agree,Somewhat agree,Strongly agree,Strongly agree,1,7,4,6,3,2,5,,2-6 glasses per day
+21,Senior student,Hispanic or Latino,Woman,Consistently liberal,02135,No,Plastic bottled water,Yes,Public Supply,Strongly agree,Somewhat agree,Somewhat agree,Neither agree nor disagree,1,2,3,4,5,6,7,,2-6 glasses per day
+19,Freshman student,White/Caucasian,Woman,Mixed,02125,,Tap water,Yes,Public Supply,Somewhat disagree,Strongly agree,Strongly agree,Strongly disagree,2,1,3,4,7,5,6,Yes,7-12 glasses per
+23,Junior student,Asian,Man,Mostly liberal,02169,,Tap water,Yes,Public Supply,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,,,,,,,,Yes,2-6 glasses per day
+22,Senior student,"White/Caucasian,Hispanic or Latino",Man,Mostly liberal,,No,Plastic bottled water,Yes,Public Supply,Strongly agree,Neither agree nor disagree,Strongly agree,Neither agree nor disagree,,,,,,,,,2-6 glasses per day
+20,Junior student,"Black or African American,White/Caucasian",Man,Other,02125,Yes,Tap water,Yes,Public Supply,Somewhat agree,Somewhat agree,Strongly disagree,Strongly disagree,3,2,1,5,7,4,6,Yes,7-12 glasses per
+19,Freshman student,Asian,Woman,Prefer not to answer,,No,Tap water,Yes,,Strongly agree,Somewhat agree,Strongly agree,Somewhat agree,,,,,,,,Yes,7-12 glasses per
+19,Sophomore student,Asian,Woman,Mostly liberal,,No,Plastic bottled water,No,Public Supply,Somewhat agree,Neither agree nor disagree,Strongly agree,Somewhat agree,4,6,2,5,3,7,1,,Less than 2 glasses per day
+18,Freshman student,Black or African American,Man,Mostly liberal,01845,,Tap water,Yes,Public Supply,Strongly agree,Neither agree nor disagree,Somewhat agree,Somewhat disagree,3,1,2,7,5,6,4,No,2-6 glasses per day
+33,Senior student,White/Caucasian,Woman,Consistently liberal,01833,Yes,Plastic bottled water,Yes,Well,Somewhat disagree,Strongly agree,Somewhat agree,Somewhat disagree,,,,,,,,,7-12 glasses per
+21,Freshman student,White/Caucasian,Man,Mostly conservative,,,Tap water,Yes,Public Supply,Strongly agree,Strongly agree,Strongly agree,Strongly agree,5,6,3,1,7,2,4,Yes,7-12 glasses per
+20,Junior student,White/Caucasian,Woman,Consistently liberal,02062,No,Tap water,Yes,Public Supply,Strongly agree,Somewhat agree,Neither agree nor disagree,Strongly agree,1,6,3,4,2,5,7,Yes,7-12 glasses per
+19,Freshman student,White/Caucasian,Woman,Mostly liberal,19073,No,Tap water,Yes,,Strongly agree,Strongly agree,Strongly agree,Somewhat agree,3,5,1,2,6,7,4,Yes,7-12 glasses per
+19,Sophomore student,Asian,Woman,Prefer not to answer,,,Plastic bottled water,Yes,,Strongly disagree,Strongly disagree,Somewhat agree,Neither agree nor disagree,2,3,4,6,7,5,1,,2-6 glasses per day
+26,Junior student,White/Caucasian,Woman,Consistently liberal,02145 ,Yes,Tap water,Yes,Public Supply,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat disagree,5,1,2,6,4,7,3,Yes,13 or more glasses per day
+18,Freshman student,Asian,Woman,Prefer not to answer,02184,No,Plastic bottled water,Yes,,Neither agree nor disagree,Neither agree nor disagree,Strongly agree,Neither agree nor disagree,,,,,,,,,2-6 glasses per day
+18,Freshman student,"White/Caucasian,Hispanic or Latino",Woman,Prefer not to answer,,,Plastic bottled water,No,,Strongly disagree,Strongly disagree,Strongly agree,Neither agree nor disagree,2,4,1,3,5,6,7,,2-6 glasses per day
+19,Freshman student,White/Caucasian,Woman,Mixed,02125,Yes,Plastic bottled water,Yes,Well,Somewhat disagree,Neither agree nor disagree,Somewhat agree,Somewhat agree,4,5,3,2,6,7,1,,7-12 glasses per
+18,Freshman student,White/Caucasian,Woman,Mostly liberal,02125,Yes,Glass bottled/canned/boxed water,Yes,Public Supply,Somewhat disagree,Strongly disagree,Somewhat agree,Neither agree nor disagree,1,2,4,6,5,3,7,,7-12 glasses per
+18,Freshman student,White/Caucasian,Woman,Mostly liberal,,Yes,Plastic bottled water,No,,Somewhat agree,Strongly disagree,Somewhat agree,Somewhat agree,3,7,5,1,2,4,6,,2-6 glasses per day
+21,Junior student,White/Caucasian,Woman,Consistently liberal,02143,No,Plastic bottled water,Yes,Public Supply,Somewhat agree,Neither agree nor disagree,Strongly agree,Neither agree nor disagree,3,4,1,5,6,7,2,,2-6 glasses per day
+30,Senior student,White/Caucasian,Man,Consistently liberal,01519,Yes,Tap water,Yes,Public Supply,Somewhat agree,Strongly agree,Strongly agree,Somewhat agree,,,,,,,,Yes,2-6 glasses per day
+40,Master's student,Asian,Man,Mostly conservative,02145,No,Tap water,Yes,Public Supply,Somewhat agree,Neither agree nor disagree,Somewhat agree,Somewhat agree,1,7,4,2,5,6,3,Yes,2-6 glasses per day
+18,Sophomore student,White/Caucasian,Man,Mixed,,No,Tap water,Yes,Well,Somewhat agree,Somewhat agree,Somewhat agree,Neither agree nor disagree,2,3,1,7,5,4,6,,7-12 glasses per
+21,Senior student,White/Caucasian,Woman,Mostly liberal,02125,No,Tap water,Yes,,Somewhat agree,Strongly disagree,Strongly agree,Somewhat agree,3,1,4,2,6,7,5,Yes,2-6 glasses per day
+20,Sophomore student,Asian,Woman,Mostly liberal,02171,No,Tap water,Yes,Public Supply,Neither agree nor disagree,Somewhat disagree,Somewhat disagree,Neither agree nor disagree,,,,,,,,Yes,2-6 glasses per day
+34,Master's student,"White/Caucasian,Hispanic or Latino",Man,Mixed,02141,,Tap water,No,Public Supply,Strongly agree,Strongly agree,Strongly agree,Somewhat agree,2,5,3,1,7,4,6,No,7-12 glasses per
+20,Junior student,Black or African American,Woman,Mixed,02184,,Plastic bottled water,No,Well,Somewhat disagree,Strongly disagree,Somewhat disagree,Strongly disagree,4,2,3,6,5,7,1,,Less than 2 glasses per day
+18,Freshman student,Asian,Transgender man,Prefer not to answer,,No,Glass bottled/canned/boxed water,Yes,Public Supply,Somewhat agree,Somewhat agree,Strongly agree,Somewhat disagree,,,,,,,,,7-12 glasses per
+19,Sophomore student,Asian,Woman,Mostly liberal,,No,Plastic bottled water,No,,Strongly agree,Neither agree nor disagree,Somewhat agree,Neither agree nor disagree,2,1,5,3,6,4,7,,2-6 glasses per day
+20,Junior student,White/Caucasian,Woman,Prefer not to answer,,,Plastic bottled water,No,Well,Somewhat disagree,Somewhat disagree,Strongly agree,Neither agree nor disagree,,,,,,,,,2-6 glasses per day
+20,Junior student,White/Caucasian,Man,Mostly liberal,02021,No,Tap water,Yes,,Somewhat agree,Somewhat agree,Strongly agree,Somewhat agree,2,5,3,4,6,7,1,No,7-12 glasses per
+18,Freshman student,"White/Caucasian,Hispanic or Latino",Woman,Prefer not to answer,,No,Tap water,Yes,Public Supply,Somewhat agree,Somewhat disagree,Strongly agree,Somewhat agree,3,2,1,4,6,5,7,Yes,2-6 glasses per day
+19,Sophomore student,White/Caucasian,Man,Mixed,,No,Plastic bottled water,Yes,Public Supply,Somewhat agree,Somewhat disagree,Somewhat agree,Somewhat agree,,,,,,,,,2-6 glasses per day
+39,Other,White/Caucasian,Man,Mostly liberal,,Yes,Tap water,No,Public Supply,Somewhat disagree,Strongly disagree,Somewhat disagree,Strongly disagree,3,2,4,6,7,1,5,Yes,2-6 glasses per day
+21,Junior student,Hispanic or Latino,Non-binary,Consistently liberal,,Yes,Plastic bottled water,Yes,Public Supply,Neither agree nor disagree,Somewhat agree,Neither agree nor disagree,Strongly disagree,,,,,,,,,2-6 glasses per day
+21,Senior student,"White/Caucasian,Hispanic or Latino",Woman,Mostly liberal,02148,No,Plastic bottled water,Yes,Public Supply,Somewhat agree,Somewhat disagree,Somewhat agree,Somewhat disagree,6,7,4,5,2,3,1,,2-6 glasses per day
+22,Sophomore student,Black or African American,Woman,Prefer not to answer,,,Plastic bottled water,No,,Somewhat agree,Neither agree nor disagree,Strongly agree,Somewhat disagree,3,1,2,6,5,4,7,,2-6 glasses per day
+18,Sophomore student,White/Caucasian,Woman,Mostly liberal,02382,No,Tap water,Yes,Public Supply,Strongly agree,Somewhat agree,Strongly agree,Somewhat agree,1,6,3,5,4,2,7,Yes,Less than 2 glasses per day
+,,,,,,,,,,,,,,,,,,,,,,
+23,Senior student,Black or African American,Non-binary,Consistently liberal,02134,,Plastic bottled water,Yes,,Strongly agree,Neither agree nor disagree,Somewhat disagree,Strongly agree,4,7,1,6,3,5,2,,Less than 2 glasses per day
+18,Freshman student,Black or African American,Woman,Mostly conservative,,No,Plastic bottled water,No,Public Supply,Strongly agree,Strongly agree,Somewhat disagree,Neither agree nor disagree,,,,,,,,,2-6 glasses per day
+29,Master's student,Asian,Woman,Prefer not to answer,,No,Tap water,Yes,Public Supply,Somewhat agree,Somewhat agree,Somewhat agree,Strongly disagree,,,,,,,,Yes,2-6 glasses per day
+19,Sophomore student,White/Caucasian,Man,Mostly liberal,02062,No,Plastic bottled water,No,Public Supply,Somewhat agree,Somewhat agree,Strongly agree,Somewhat disagree,2,6,1,3,5,7,4,,7-12 glasses per
+22,Senior student,"White/Caucasian,Hispanic or Latino",Woman,Mostly liberal,02333,,Plastic bottled water,Yes,Public Supply,Neither agree nor disagree,Neither agree nor disagree,Somewhat agree,Neither agree nor disagree,,,,,,,,,7-12 glasses per
+23,Junior student,Asian,Man,Prefer not to answer,,No,Tap water,No,,Somewhat agree,Neither agree nor disagree,Somewhat agree,Neither agree nor disagree,1,2,3,4,5,6,7,Yes,2-6 glasses per day
+19,Freshman student,Black or African American,Woman,Mostly liberal,,No,Plastic bottled water,Yes,Well,Strongly agree,Strongly agree,Strongly agree,Strongly agree,,,,,,,,,2-6 glasses per day
+21,Freshman student,Asian,Woman,Mostly conservative,02125,Yes,Tap water,Yes,Public Supply,Neither agree nor disagree,Somewhat agree,Somewhat agree,Strongly disagree,,,,,,,,No,2-6 glasses per day
+21,Junior student,White/Caucasian,Woman,Mostly liberal,,No,Plastic bottled water,No,Public Supply,Somewhat agree,Neither agree nor disagree,Strongly agree,Neither agree nor disagree,7,2,3,5,6,4,1,,Less than 2 glasses per day
+19,Sophomore student,Black or African American,Woman,Mixed,,No,Plastic bottled water,No,,Neither agree nor disagree,Somewhat disagree,Strongly agree,Neither agree nor disagree,,,,,,,,,2-6 glasses per day
+24,Master's student,Asian,Man,Prefer not to answer,,No,Tap water,No,Public Supply,Strongly agree,Somewhat agree,Somewhat disagree,Neither agree nor disagree,4,3,2,6,5,7,1,No,2-6 glasses per day
+20,Senior student,Asian,Man,Mostly liberal,,No,Plastic bottled water,Yes,Public Supply,Neither agree nor disagree,Somewhat agree,Strongly agree,Strongly agree,,,,,,,,,7-12 glasses per
+24,Master's student,Asian,Woman,Prefer not to answer,,No,Tap water,Yes,Public Supply,Strongly agree,Neither agree nor disagree,Strongly disagree,Somewhat disagree,,,,,,,,No,2-6 glasses per day
+18,Freshman student,White/Caucasian,Woman,Mixed,02125,,Plastic bottled water,Yes,Public Supply,Strongly disagree,Strongly disagree,Strongly agree,Neither agree nor disagree,2,7,1,6,4,3,5,,7-12 glasses per
+19,Freshman student,White/Caucasian,Prefer not to answer,Prefer not to answer,,No,Tap water,Yes,Public Supply,Strongly agree,Neither agree nor disagree,Somewhat agree,Neither agree nor disagree,3,2,1,4,5,6,7,Yes,2-6 glasses per day
+24,Senior student,Prefer not to answer,Woman,Prefer not to answer,02142,No,Tap water,Yes,Well,Strongly agree,Strongly agree,Somewhat disagree,Somewhat agree,,,,,,,,No,2-6 glasses per day
+25,Other,Asian,Man,Mostly liberal,02169,,Tap water,Yes,,Strongly agree,Neither agree nor disagree,Strongly agree,Neither agree nor disagree,,,,,,,,Yes,2-6 glasses per day
+19,Freshman student,White/Caucasian,Man,Consistently liberal,02132,No,Tap water,Yes,,Strongly agree,Neither agree nor disagree,Somewhat agree,Strongly agree,,,,,,,,Yes,2-6 glasses per day
+23,Master's student,Asian,Man,Mixed,02125,,Plastic bottled water,Yes,Public Supply,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,,,,,,,,,7-12 glasses per
+19,Freshman student,Black or African American,Woman,Prefer not to answer,02118,No,Plastic bottled water,Yes,Public Supply,,,,,1,2,3,5,6,7,4,,2-6 glasses per day
+22,Other,Hispanic or Latino,Woman,Consistently liberal,02151,No,Glass bottled/canned/boxed water,Yes,,Somewhat agree,Somewhat agree,Somewhat agree,Neither agree nor disagree,5,4,6,3,7,2,1,,7-12 glasses per
+23,Junior student,Prefer not to answer,Man,Consistently conservative,02072,No,Plastic bottled water,Yes,Public Supply,Somewhat agree,Strongly agree,Somewhat disagree,Strongly agree,1,3,2,7,5,4,6,,7-12 glasses per
+19,Freshman student,Black or African American,Man,Mostly conservative,02150,No,Plastic bottled water,No,Public Supply,Strongly agree,Neither agree nor disagree,Strongly agree,Neither agree nor disagree,2,4,5,3,6,1,7,,2-6 glasses per day
+19,Freshman student,Black or African American,Man,Prefer not to answer,02121,No,Plastic bottled water,No,Public Supply,Somewhat agree,Somewhat agree,Somewhat agree,Neither agree nor disagree,1,2,3,6,7,5,4,,2-6 glasses per day
+20,Junior student,"Asian,White/Caucasian",Man,Prefer not to answer,,No,Plastic bottled water,No,Well,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,,,,,,,,,7-12 glasses per
+19,Sophomore student,White/Caucasian,Woman,Mostly liberal,02189,No,Plastic bottled water,No,,Somewhat disagree,Somewhat disagree,Strongly agree,Somewhat disagree,1,2,3,4,5,6,7,,2-6 glasses per day
+19,Sophomore student,White/Caucasian,Man,Mostly liberal,02132,No,Plastic bottled water,Yes,Public Supply,Somewhat agree,Somewhat agree,Strongly agree,Somewhat agree,1,2,3,4,5,6,7,,2-6 glasses per day
+21,Junior student,White/Caucasian,Man,Consistently conservative,,No,Plastic bottled water,No,Public Supply,Somewhat disagree,Somewhat disagree,Somewhat agree,Somewhat agree,,,,,,,,,2-6 glasses per day
+19,Sophomore student,White/Caucasian,Woman,Consistently conservative,,No,Plastic bottled water,No,Well,Strongly disagree,,Somewhat disagree,Somewhat disagree,,,,,,,,,7-12 glasses per
+23,Junior student,White/Caucasian,Woman,Mixed,,No,Glass bottled/canned/boxed water,No,Well,Strongly disagree,Strongly disagree,Somewhat agree,Strongly disagree,,,,,,,,,2-6 glasses per day
+21,Senior student,Prefer not to answer,Woman,Prefer not to answer,,No,Tap water,No,,Strongly agree,Somewhat agree,Strongly agree,Somewhat agree,5,1,4,3,7,2,6,No,Less than 2 glasses per day
+18,Freshman student,Prefer not to answer,Woman,Prefer not to answer,02143,No,Tap water,Yes,,Strongly agree,Neither agree nor disagree,Strongly agree,Strongly agree,,,,,,,,Yes,7-12 glasses per
+19,Sophomore student,White/Caucasian,Man,Mostly conservative,02184,,Plastic bottled water,No,Public Supply,Strongly agree,Strongly disagree,Somewhat disagree,Somewhat disagree,,,,,,,,,7-12 glasses per
+18,Freshman student,White/Caucasian,Woman,Prefer not to answer,,,Plastic bottled water,No,Well,Neither agree nor disagree,Strongly disagree,Somewhat agree,Somewhat agree,,,,,,,,,7-12 glasses per
+19,Sophomore student,Black or African American,Man,Mixed,02121,No,Plastic bottled water,Yes,Public Supply,Somewhat agree,Somewhat agree,Strongly agree,Strongly agree,,,,,,,,,7-12 glasses per
+24,Master's student,Asian,Man,Mostly liberal,02125,Yes,Plastic bottled water,No,,Strongly disagree,Neither agree nor disagree,Strongly disagree,Neither agree nor disagree,,,,,,,,,
+21,Senior student,Black or African American,Woman,Prefer not to answer,,,Plastic bottled water,No,Public Supply,Somewhat agree,Somewhat disagree,Strongly agree,Neither agree nor disagree,3,5,1,6,4,7,2,,13 or more glasses per day
+24,Master's student,Asian,Woman,Prefer not to answer,,No,Tap water,Yes,,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,6,7,1,5,4,2,3,No,2-6 glasses per day
+18,Freshman student,,Woman,Mostly liberal,02176,No,Plastic bottled water,Yes,Public Supply,Somewhat disagree,Strongly agree,Somewhat agree,Somewhat disagree,,,,,,,,,Less than 2 glasses per day
+21,Senior student,White/Caucasian,Man,Mixed,02148,No,Tap water,No,Public Supply,Somewhat agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,1,2,4,3,7,6,5,Yes,7-12 glasses per
+27,PhD student,Asian,Man,Other,,,Plastic bottled water,Yes,Public Supply,Neither agree nor disagree,Neither agree nor disagree,Somewhat agree,Neither agree nor disagree,2,5,1,3,6,4,7,,2-6 glasses per day
+,,,,,,,,,,,,,,,,,,,,,,
+,Senior student,Prefer not to answer,Woman,Prefer not to answer,,,Plastic bottled water,No,Public Supply,Somewhat disagree,Somewhat disagree,Somewhat agree,Neither agree nor disagree,,,,,,,,,
+20,Junior student,White/Caucasian,Woman,Mostly conservative,02472,No,Plastic bottled water,No,,Neither agree nor disagree,Neither agree nor disagree,Strongly agree,Neither agree nor disagree,,,,,,,,,
+18,Freshman student,"Black or African American,Hispanic or Latino",Woman,Prefer not to answer,,No,Plastic bottled water,Yes,,Somewhat agree,Somewhat disagree,Strongly agree,Neither agree nor disagree,1,7,3,4,6,2,5,,
+19,Sophomore student,Hispanic or Latino,Man,Mixed,,No,Tap water,Yes,Public Supply,,,,,,,,,,,,,
+19,,,,,,,,,,,,,,,,,,,,,,
+21,,,,,,,,,,,,,,,,,,,,,,
+24,Junior student,Hispanic or Latino,Woman,,,,Glass bottled/canned/boxed water,,,,,,,,,,,,,,,
+19,,,,,,,,,,,,,,,,,,,,,,
+37,Junior student,Asian,Woman,Mostly liberal,,No,Tap water,No,Public Supply,Strongly agree,Somewhat agree,Somewhat agree,Strongly agree,,,,,,,,Yes,7-12 glasses per
+67,,,,,,,,,,,,,,,,,,,,,,
+22,Senior student,Black or African American,Man,Mostly liberal,,No,Tap water,Yes,Public Supply,Neither agree nor disagree,Strongly disagree,Somewhat agree,Neither agree nor disagree,,,,,,,,,
+19,Sophomore student,Asian,Woman,Prefer not to answer,,No,Tap water,Yes,Public Supply,,,,,,,,,,,,,
+18,,,,,,,,,,,,,,,,,,,,,,
+27,Senior student,Asian,,Mostly liberal,,No,Tap water,No,Public Supply,Strongly agree,,Strongly agree,Strongly agree,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+18,Freshman student,White/Caucasian,Woman,Prefer not to answer,01430,Yes,Tap water,Yes,Public Supply,Somewhat agree,Strongly agree,Neither agree nor disagree,Neither agree nor disagree,,,,,,,,,
+30,,,,,,,,,,,,,,,,,,,,,,
+18,Freshman student,Asian,Man,Mixed,02148,No,Plastic bottled water,No,Public Supply,,,,,,,,,,,,,
+21,,,,,,,,,,,,,,,,,,,,,,
+24,PhD student,Asian,Woman,Prefer not to answer,,,Tap water,Prefer not to answer,Public Supply,,,,,,,,,,,,,
+22,Senior student,Black or African American,Man,Mixed,02038,No,Plastic bottled water,Yes,Well,Strongly agree,Somewhat agree,Strongly agree,Somewhat agree,1,5,2,3,4,6,7,,
+19,Sophomore student,White/Caucasian,Woman,Consistently liberal,02125,,Plastic bottled water,No,Public Supply,,,,,,,,,,,,,
+21,Senior student,White/Caucasian,Woman,Mostly liberal,,Yes,Plastic bottled water,Yes,,Strongly disagree,Strongly disagree,Somewhat disagree,Strongly disagree,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+18,Freshman student,Black or African American,Man,Mixed,,,Plastic bottled water,Yes,Public Supply,,,,,,,,,,,,,
+23,Master's student,Asian,Woman,Prefer not to answer,02125,,Tap water,,,,,,,,,,,,,,,
+22,Senior student,Asian,Non-binary,Other,02122,No,Tap water,No,Public Supply,Somewhat agree,Neither agree nor disagree,Neither agree nor disagree,Somewhat agree,,,,,,,,,
+20,Junior student,White/Caucasian,Man,Mostly liberal,,Yes,Tap water,,,,,,,,,,,,,,,
+18,Freshman student,"American Indian or Alaska Native,Black or African American",Woman,Other,02124,,Plastic bottled water,,,,,,,,,,,,,,,
+18,Freshman student,Prefer not to answer,Woman,Consistently liberal,,No,Plastic bottled water,No,Well,Somewhat agree,Neither agree nor disagree,Strongly agree,Neither agree nor disagree,7,6,1,4,3,2,5,,
+20,Sophomore student,Black or African American,Woman,Consistently liberal,,Yes,Plastic bottled water,Yes,Public Supply,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+24,Master's student,Asian,Woman,Consistently conservative,02171,No,Tap water,,,,,,,,,,,,,,,
+21,,,,,,,,,,,,,,,,,,,,,,
+21,Senior student,"Asian,White/Caucasian",Woman,Mostly liberal,02150,,Plastic bottled water,Yes,Public Supply,Strongly disagree,Somewhat agree,Neither agree nor disagree,Neither agree nor disagree,2,3,1,4,5,7,6,,
+,,,,,,,,,,,,,,,,,,,,,,
+18,Freshman student,Hispanic or Latino,Woman,Other,02135,No,Plastic bottled water,No,Public Supply,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,

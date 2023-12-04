@@ -56,9 +56,6 @@ clean_data <- read.csv("data/raw_data.csv") |>
 # Replace "Prefer not to answer" values with NA's
   mutate_if(is.character, ~na_if(.,"Prefer not to answer")) |>
   
-# Filter out non-consenting respondents
-  filter(concent == "Yes, I want to participate") |>
-  select(-concent) |> # omit the column as its not needed anymore
 
 # Filter non-numeric ages and convert to numeric
   mutate(age = if_else(str_detect(age, "^[0-9.]+$"), 
@@ -174,6 +171,9 @@ clean_data <- read.csv("data/raw_data.csv") |>
 for(race in race_levels) {
   clean_data[[race]] <- as.integer(grepl(race, clean_data$race))
 }
+
+# omit the original race col
+clean_data <- clean_data
 
 names <- names(clean_data)
 

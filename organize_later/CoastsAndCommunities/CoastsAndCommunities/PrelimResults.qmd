@@ -1,0 +1,191 @@
+---
+title: "Preliminary Results"
+author: "Orla O'Brien"
+output:
+  pdf_document:
+    latex_engine: xelatex
+always_allow_html: yes
+
+---
+
+```{r echo=FALSE, include=FALSE}
+library(tidyverse)
+library(kableExtra)
+library(knitr)
+library(ggridges)
+dat <- read.csv("data/Exploring Perceptions of Bottled Water Consumption_November 28, 2023_14.59.csv")
+
+theme_set(theme_bw())
+
+dat <- dat %>%
+  filter(Finished == "TRUE") %>%
+  filter(Age > 17)
+```
+
+#### Gender data:
+
+```{r echo=FALSE, warning=FALSE, message=FALSE}
+dat <- dat %>%
+  mutate(across('PrimarySource', str_replace, 'Glass bottled/canned/boxed water', 'Other')) %>%
+  mutate(across('Gender', str_replace, 'Gender not listed. My gender is', "Other"))
+
+dat %>%
+  filter(Gender != "") %>%
+ggplot(mapping = aes(x = PrimarySource, fill = Gender)) +
+  geom_bar(position="dodge") +
+  labs(title = "Counts of Water Source by Gender Category")
+
+
+
+dat_sum <- dat %>%
+  filter(Gender != "") %>%
+  filter(Gender != "Prefer not to answer") %>%
+  mutate(Gender = case_when(Gender == "Other" ~ "Other", 
+                            Gender == "Transgender man" ~ "Other",
+                            Gender == "Transgender woman" ~ "Other", 
+                            Gender == "Woman" ~ "Woman",
+                            Gender == "Man" ~ "Man", 
+                            Gender == "Non-binary" ~ "Non-binary")) %>%
+  group_by(Gender, PrimarySource) %>%
+  summarise(n = n()) %>%
+  mutate(freq = n/sum(n))
+```
+
+Relative proportion of preferred water source within each gender category.
+
+```{r echo=FALSE, warning=FALSE, message=FALSE}
+dat_sum %>%
+  filter(PrimarySource != "Prefer not to answer") %>%
+ggplot(mapping = aes(x = Gender, 
+                     y = freq,
+                     fill = PrimarySource)) +
+  geom_col(color = "black") +
+  labs(title = "Proportion of each Source within Gender Categories")
+```
+
+This is just a table of what the above barplot shows, I'm just putting it in because trying to put the counts on the plot was difficult:
+
+```{r echo=FALSE, warning=FALSE, message=FALSE}
+kbl(dat_sum, booktabs = T, longtable = T, caption = "Breakdown of Water Source within Gender Categories", linesep = "") %>%
+ kable_styling(latex_options = c("hold_position", "repeat_header"), full_width = F, font_size = 9)
+```
+
+### Age:
+
+```{r echo=FALSE, warning=FALSE, message=FALSE}
+dat$Age <- as.numeric(dat$Age)
+
+dat <- dat%>%
+  filter(!is.na(Age))
+
+
+ggplot(data = dat, 
+       mapping = aes(y = Age, x = PrimarySource)) +
+  geom_boxplot(fill="#93E9BE")  +
+  labs(title= "Distribution of Ages for Different Water Sources")+
+  theme(plot.title = element_text(hjust = 0.5))
+```
+
+```{r echo=FALSE, warning=FALSE, message=FALSE}
+dat <- dat %>%
+  filter(SchoolYear != "")
+dat$SchoolYear <- as.factor(dat$SchoolYear)
+
+                     
+dat$SchoolYear <- factor(dat$SchoolYear, c("Freshman", "Sophomore", "Junior", "Senior",
+                           "Master", "PhD", "Other", "Prefer not to answer"))
+
+dat %>%
+  filter(PrimarySource != "I don't drink water" & PrimarySource != "Prefer not to answer") %>%
+ggplot(mapping = aes(x = PrimarySource, fill = SchoolYear)) +
+  geom_bar(position = "dodge", color = "black")
+```
+
+
+```{r echo=FALSE, warning=FALSE, message=FALSE}
+dat_year <- dat %>%
+  filter(SchoolYear != "Other" & SchoolYear != "Prefer not to answer") %>%
+    filter(PrimarySource == "Other" | PrimarySource == "Tap water" | 
+             PrimarySource == "Plastic bottled water" ) %>%
+  group_by(SchoolYear, PrimarySource) %>%
+  summarise(n = n()) %>%
+  mutate(freq = n/sum(n)) 
+
+
+  ggplot(data = dat_year, 
+         mapping = aes(x = SchoolYear, 
+                       y = freq,
+                       fill = PrimarySource)) +
+  geom_col(color = "black") +
+  labs(title = "Proportion of each Source within School Year")+
+  theme(plot.title = element_text(hjust = 0.5))
+```
+
+Table showing breakdown of frequency plot:
+
+```{r echo=FALSE, warning=FALSE, message=FALSE}
+kbl(dat_year, booktabs = T, longtable = T, caption = "Breakdown of Water Source within Education Categories", linesep = "") %>%
+ kable_styling(latex_options = c("hold_position", "repeat_header"), full_width = F, font_size = 9)
+```
+
+
+
+### Political Affiliation:
+
+```{r echo=FALSE, warning=FALSE, message=FALSE}
+dat$PoliticalAffil <- factor(dat$PoliticalAffil, c("Consistently liberal","Mostly liberal", "Mixed", 
+                                                   "Mostly conservative", "Consistently conservative","Other"))
+dat %>%
+  filter(PrimarySource != "I don't drink water" & PrimarySource != "Prefer not to answer") %>%
+  filter(PoliticalAffil !="Prefer not to answer") %>%
+  ggplot(mapping = aes(x = PrimarySource, fill = PoliticalAffil)) +
+  geom_bar(position = "dodge", color = "black")
+```
+
+
+```{r echo=FALSE, warning=FALSE, message=FALSE}
+dat_pol <- dat %>%
+  filter(PoliticalAffil != "Prefer not to answer") %>%
+  filter(PrimarySource == "Other" | PrimarySource == "Tap water" | 
+           PrimarySource == "Plastic bottled water" ) %>%
+  group_by(PoliticalAffil, PrimarySource) %>%
+  summarise(n = n()) %>%
+  mutate(freq = n/sum(n)) 
+
+ggplot(data = dat_pol, 
+       mapping = aes(x = PoliticalAffil, 
+                     y = freq,
+                     fill = PrimarySource)) +
+  geom_col(color = "black") +
+  labs(title = "Proportion of Preferred Source within Political Affiliation")+
+  theme(plot.title = element_text(hjust = 0.5))
+
+
+```
+
+Table showing breakdown of frequency plot:
+
+```{r echo=FALSE, warning=FALSE, message=FALSE}
+kbl(dat_pol, booktabs = T, longtable = T, caption = "Breakdown of Water Source within Political Affiliation", linesep = "") %>%
+ kable_styling(latex_options = c("hold_position", "repeat_header"), full_width = F, font_size = 9)
+```
+
+### Rankings:
+
+```{r}
+
+
+dat_rank <- dat %>%
+  pivot_longer(30:36, 
+               names_to = "Question",
+               values_to = "Ranking") 
+
+dat_rank$Ranking <- as.numeric(dat_rank$Ranking)
+ggplot(data = dat_rank, 
+       mapping = aes(x = Ranking,
+                     y = Question, 
+                     fill = Question)) +
+  geom_density_ridges(alpha = .5)
+
+```
+

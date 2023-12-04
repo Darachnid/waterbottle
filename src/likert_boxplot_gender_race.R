@@ -29,19 +29,9 @@ theme_set(theme_minimal())
 #### OUTPUT: ###### initial plots of the raw data ############################
 ##############################################################################
 
-# Libraries
-library(tidyverse)
-library(ggthemes)
-
-# Set the global theme to "minimal" for all plots
-theme_set(theme_minimal())
-
 data <- readRDS("outputs/clean_data.rds")
 
 ############################## Distributions ###############################
-
-##### Plot age and race
-data$GenderRace <- paste(data$gender, data$race)
 
 data[which(data$gender != "Man" & data$gender != "Woman"), "gender"] <- "Other"
 
